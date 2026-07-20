@@ -1,0 +1,186 @@
+{
+  "source_pdf": "C:\\Users\\Alish\\Downloads\\Pipeline-20260720T075524Z-1-001\\Pipeline\\chapters\\11-Bio-NCERT-Book-Chap-6-Anatomy-of-Flowering-Plants.pdf",
+  "model": "gemini-3-flash-preview",
+  "total_pages_processed": 16,
+  "total_figures_detected": 10,
+  "figures_saved": 11,
+  "missed_anchors": [],
+  "figures": [
+    {
+      "id": "fig_6_1",
+      "figure_label": "Figure 6.1",
+      "page": 2,
+      "bounding_box": [
+        148,
+        100,
+        438,
+        835
+      ],
+      "type": "diagram",
+      "context": "theory",
+      "question_ref": null,
+      "caption": "Figure 6.1 Apical meristem: (a) Root (b) Shoot",
+      "saved_path": "figures\\fig_6_1.png"
+    },
+    {
+      "id": "fig_6_2",
+      "figure_label": "Figure 6.2",
+      "page": 3,
+      "bounding_box": [
+        185,
+        126,
+        856,
+        488
+      ],
+      "label": "diagram",
+      "context": "theory",
+      "question_ref": null,
+      "caption": "Figure 6.2 Simple tissues : (a) Parenchyma (b) Collenchyma (c) Sclerenchyma",
+      "saved_path": "figures\\fig_6_2.png"
+    },
+    {
+      "id": "fig_6_3",
+      "figure_label": "Figure 6.3",
+      "page": 4,
+      "bounding_box": [
+        226,
+        618,
+        778,
+        870
+      ],
+      "label": "diagram",
+      "context": "theory",
+      "question_ref": null,
+      "caption": "Figure 6.3 (a) Xylem (b) Phloem",
+      "saved_path": "figures\\fig_6_3.png"
+    },
+    {
+      "id": "fig_6_4",
+      "figure_label": "Figure 6.4",
+      "page": 6,
+      "bounding_box": [
+        434,
+        150,
+        601,
+        866
+      ],
+      "label": "diagram",
+      "context": "theory",
+      "question_ref": null,
+      "caption": "Figure 6.4 Diagrammatic representation: (a) stomata with bean-shaped guard cells (b) stomata with dumb-bell shaped guard cell",
+      "saved_path": "figures\\fig_6_4.png"
+    },
+    {
+      "id": "fig_6_5",
+      "figure_label": "Figure 6.5",
+      "page": 7,
+      "bounding_box": [
+        135,
+        191,
+        676,
+        526
+      ],
+      "label": "diagram",
+      "context": "theory",
+      "question_ref": null,
+      "caption": "Figure 6.5 Various types of vascular bundles : (a) radial (b) conjoint closed (c) conjoint open",
+      "saved_path": "figures\\fig_6_5.png"
+    },
+    {
+      "id": "fig_6_6",
+      "figure_label": "Figure 6.6",
+      "page": 8,
+      "bounding_box": [
+        128,
+        476,
+        752,
+        860
+      ],
+      "label": "diagram",
+      "context": "theory",
+      "question_ref": null,
+      "caption": "Figure 6.6 T.S. : (a) Dicot root (Primary) (b) Monocot root",
+      "saved_path": "figures\\fig_6_6.png"
+    },
+    {
+      "id": "fig_6_7",
+      "figure_label": "Figure 6.7",
+      "page": 9,
+      "bounding_box": [
+        312,
+        140,
+        909,
+        817
+      ],
+      "label": "diagram",
+      "context": "theory",
+      "question_ref": null,
+      "caption": "Figure 6.7 T.S. of stem : (a) Dicot (b) Monocot",
+      "saved_path": "figures\\fig_6_7.png"
+    },
+    {
+      "id": "fig_6_8",
+      "figure_label": "Figure 6.8",
+      "page": 11,
+      "bounding_box": [
+        138,
+        128,
+        664,
+        548
+      ],
+      "label": "diagram",
+      "context": "theory",
+      "question_ref": null,
+      "caption": "Figure 6.8 T.S. of leaf : (a) Dicot (b) Monocot",
+      "saved_path": "figures\\fig_6_8.png"
+    },
+    {
+      "id": "fig_6_9",
+      "figure_label": "Figure 6.9",
+      "page": 12,
+      "bounding_box": [
+        475,
+        140,
+        900,
+        817
+      ],
+      "label": "diagram",
+      "context": "theory",
+      "question_ref": null,
+      "caption": "Figure 6.9 Secondary growth in a dicot stem (diagrammatic) – stages in transverse views",
+      "saved_path": "figures\\fig_6_9.png"
+    },
+    {
+      "id": "fig_6_10",
+      "figure_label": "Figure 6.10",
+      "page": 14,
+      "bounding_box": [
+        135,
+        404,
+        714,
+        866
+      ],
+      "label": "figure",
+      "context": "theory",
+      "question_ref": null,
+      "caption": "Figure 6.10 (a) Lenticel and (b) Bark",
+      "saved_path": "figures\\fig_6_10.png"
+    },
+    {
+      "id": "fig_6_11",
+      "figure_label": "Figure 6.11",
+      "page": 15,
+      "bounding_box": [
+        140,
+        128,
+        545,
+        817
+      ],
+      "label": "diagram",
+      "context": "theory",
+      "question_ref": null,
+      "caption": "Figure 6.11 Different stages of the secondary growth in a typical dicot root",
+      "saved_path": "figures\\fig_6_11.png"
+    }
+  ]
+}
