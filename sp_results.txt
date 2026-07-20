@@ -1,0 +1,92 @@
+Walking data directory: /app/applet/src/data
+
+Match 1 [Keyword: sp2] [File: JEE Main PYQs (2015-2026).json]
+Context: 6/RlGkLZvwoo0bABcfG1TnWxAI39ZML+VXbQaQtMhbR/xaFxA+IyxsZDvckvfXjilWnA/nU5pUGH2r+OcWiERMRljLuhKWponmYeZlz+Ucu27V9dO+ei7V9HODRi/7oRcemqUqcKjemzsH8dLi5ddiSp2L+O9TnC/jVFcXG0Tv2D48Dc0NDZekNNYP86VPz6UrIQ9q994oL9KyQ/5tJnAeo6eDdWXLZm/9olLti/wmLEZah1qosFqPremGnR1uxfu8QF+1dYjLg0N6qHdaqLBahLXj4oz8f+tTMyS8n+deiArut3wALE5Zxu9Fun9lmAXqzMjTB6v3X71+bzDV5Sydi/DpyKxv41QXFJia3bv6oim+p4Aw6NiMtyO+rG7V+bNkjUpZHl/4jLpiKBFI8zRZdGNi4iLpBIR03NpZGSC4gLpCQwibg04tCIuAAAIC4AgLgAAOICAIC4AADiAgCICwAA4gIAiAsAIC4AAIsWF183RJ/3u3oU
+
+Match 2 [Keyword: sp3] [File: JEE Main PYQs (2015-2026).json]
+Context: M9qgT6oxM9k5YUkbKvd4pUhUzWBNLUIvcA01JzBvrJXTONWOp/SM8sHjptWtpWr7fgTpaZ50yJSj7hajRDHXe2eXXnvnyo1TfrlZYTIY54Yj/hXvp9XsAFPlprsFOnxKz2uICctl58uNc37Jfilx+oSp3jPnzA1iwcXasiCAFAzC3pQtkAEgJoFggumsyAA1MyCHpQtEAGgZoHgguksCAA1s6AHZQtEAKhZILhgOgsCQM0s6EHZAhEAahYILpjOggBQMwt6ULZABICaBYILprMgANTMgh6ULRABoGaB4ILpLAgANbOgB2ULRACoWSC4YDoLAkDNLOhB2QIRAGoWCC6YzoIAUDMLelC2QASAmgWCC6azILBs1DQm37vNXTtEvD5ovGi0Xkr4eWvkilqZpcFQdlUQWDZqEtxI8DGqXqD/qyC+ObrvqwhVHwjsuyqAg59xESiQmvqPbvNiJnKifa3Lu7XmSU3cboZGbKZuO9S0GkHCGfCOc
+
+Match 3 [Keyword: sigma] [File: JEE Main PYQs (2015-2026).json]
+Context: -I ", " A-IV, B-I, C-II, D-III ", " A-I, B-II, C-III, D-IV ", " A-III, B-I, C-IV, D-II"], "Solution": " \\[{\\text{P}}{{\\text{F}}_{\\text{5}}}:\\,5\\sigma + 0\\,\\ell p \\to {\\text{s}}{{\\text{p}}^3}{\\text{d}}\\]<br>\\[{\\text{S}}{{\\text{F}}_{\\text{6}}}:\\,6\\sigma + 0\\,\\ell {\\text{p}} \\to {\\text{s}}{{\\text{p}}^3}{{\\text{d}}^{\\text{2}}}\\]<br>\\[{\\text{Ni}}{\\left( {{\\text{CO}}} \\right)_4}:{\\text{Ni}} \\to {\\text{ 0}}\\]<br>In presence of ligand field :-<br>Ni(0) : [Ar] <br><
+
+Match 4 [Keyword: sp2] [File: JEE Tatva Ex-1 .json]
+Context: jQjPnXGRQxAzyAcZHtWdjNmI9iP+TXIISIDW5AZNEn9GVi97G7T0O6T7Lpm7XYQFijjQjbk4NcTeMcBngdR2etzqWNZnJjST3wrGKNJwIrocrKDajm4wSBGmkl33uituBg5yAYSu9EYGqSxUQEzA+jsp2kNDoOJwfnj4vuMEend7/UZYprM3yfDlEFNOGvE2BIXqUuE7e2QnvvDNrWfd20QH8q9t5LlboGmv/zUeaCXfQLmVmVuoBMkivn4+c+7MDMaex06aW6SOBPtnuGut9BweNtDsn+M23SyojcZtRDLHkrU1CoUr6miWW50H5gD+6cSqDXgQE0MKQQB/BQB6A38djZm/AzllJKXPpstcqi1amCAFOxq8N0IiaqF+7LVeKGB9WfZ9l3MoQ/FiBvZxCJtFWrQfmRINdOzdsOhG/zvueXvvb36yqtt0XXWWR+3N77xjXb5pZfZVB/kaZEQgqoLUEEdkFhJq4zPKSgeu0qlgcasBBOCB
+
+Match 5 [Keyword: sp3] [File: JEE Tatva Ex-1 .json]
+Context: fp6OjnYnxCUZHx+jr78Nqm0Cj0cy61f1tJSlBY0RlDMVksRAcYiQwUE+AIRC9OQhjoIHAzwklfG1HTQRBEAThSyLLMk6nk8NHDvOfv/41e/bsxeF0kp+fx+bNj/HcCy+wfMUK9Pqb24r9ZhgMRhYvXsp3vvM9/uIv/oLvf++7LF2yGEtoKKNjVo6dPMlvXn2Vf/mXf+aD99+nrbV15iXuWCKYCIIgCMJNqK+r443XX+e3v/0tn+7Zi8PhYMmSJTz91NNs2rSJoqJFmExf/trSQKORmJhYUlNTCTKbkP2+S/OEHA4nAwMDnK2sprq6itHRu2dZiQgmgiDcOtmP7HXhcU4yabdjs9mx2+3YJyeZmnLgdHvx+ME/sx1XtnVM2rHZbNhsdqYcbjw+efY2dxPZg8c5ydTkGLbJUUanxhmatDFqn2TS4cZz+Rco+5A9TtyO6e/fFd9HhxOnx4fXP73JwlVkH36PA7fDztSkDZvVht02icPluXY
+
+Match 6 [Keyword: sigma] [File: JEE Tatva Ex-1 .json]
+Context: servations is p. Then find the value of 100p.", "Answer": ["387"], "Options": [], "Solution": " Given \\[{n_1} = \\;25,\\;{\\bar x_1} = \\;18.2,\\;{\\sigma _1} = \\;3.25\\]<br>\\[{n_2} = \\;15,\\;\\sum\\limits_{i = 1}^{15} {{x_i} = \\;279} ,\\;\\;\\sum\\limits_{i = 1}^{15} {x_i^2} = \\;5524\\]<br>For first set, \\[\\Sigma {x_i} = \\;25 \\times 18.2 = \\;455\\]<br>\\[\\therefore \\;\\;\\sigma _1^2 = \\;\\frac{{\\Sigma x_i^2}}{{25}} - \\;{(18.2)^2}\\]<br>\\[{(3.25)^2} = \\;\\frac{{\\Sigma x_i^2}}
+
+Match 7 [Keyword: sp2] [File: NEET Eklavya Part Tests.json]
+Context: oY0c1q9fX/GPPOGegvRyyQEvhTIIxOgTMHiIKBYgIJUPieCliADQgyBEUqTL01DZsTI9bTkEssnhjz/+qCCAMPhpRYjIdO9l5LEWav9Asz15lSY9Ga/yYKSxgHHLW7BLEvJraWL18AREJjZdxBK2Q0sP2hXTs2X4dXcEsskhVoWfVsRQmW6ajHxeCzVja69AM3YuOVgPATKgXi0TZNi2DRBI6FFACOiJgLRfoXsRlC8rLJL9XnciBz+t6PchDFXaouSgWR4vAF3da0OSOBbsEgE5uixZUrM8MnkHKg9iQg9SIahOkQgxchGY9DzuD4GFyMFPK/oDfuiSNINjUPIA1AbSNAMzQ2Os/NMsr1laSwVm75hBU55meBEJaSIX6ateYoxb3oBNl6ch47fLE/KhQ7upJ1auLcuvuyGQTQ5+WtEN4CloYUSxf2obxqX1Pfm4x8htwEghBOR4BqFceWW01uDRRS/maVCXCEBlEGspI49C7dO9yI70
+
+Match 8 [Keyword: sp3] [File: NEET Eklavya Part Tests.json]
+Context: MPxYoxH8xCjf06SQl/UZdF6qUlaLx+igJZQn8ohjQPBbvSTI5W1VB+LOKFOz1A7r72f4XogTJ/pcUV4Wup6Lhr6eB6Z+maEqs8jjNnpPmj/hMsTwvn6OoTjyKk+3n92fJ+PaOARpsHs+B7X8v+44essp3ppr8Qf/Kt/Bb1/f/HixWyni+dp4s+zyOJ6ISzYP9KRFZ6ImtB+UmugeybnB77uHfo4Pl4Yyktxf5XJ4fNVXuG6hc8ltGwiztopm6b1l0zptZfuzVla+o3E9UxtlKfML8p2UJjrxTN6QU40N04pTz9mbR8QYRpZjBI67nGdDFS+7r+qbTr3tBE+SmagMsN1mQ2F+3qFaXa9oVeUpknfJMX3uL6yxyL10pUYLfhoziTySO9Y8Lye9RdDfX30ljobQ1p6Zx7RaNw2aoWbk6Hvh09bT7Mw7Xw/C2F/QedW/9AYEBRf6cLjxMPnEY5/vRDOV2X6clWH2e3wCt/seuja+/t2yOnau
+
+Match 9 [Keyword: sigma] [File: NEET Eklavya Part Tests.json]
+Context: ub>0</sub> be the external field</div><div>E<sub>0</sub> + E = 12</div><div>E<sub>0</sub> - E = 8</div><div>Electric field due to plate = \\[\\frac{\\sigma }{{2{\\varepsilon _0}}}\\]= 2 </div>", "Type": "SCQ", "Tags": [{"Difficulty": "TOUGH", "Subject": "Physics", "Chapter": "Electric Charges and Fields", "Topic": "Applications of Gauss's Law", "CognitiveLevel": "RECALL_AND_APPLY_CONCEPT_FORMULA", "Target": "11_12_NEET"}]}, {"QuestionId": "6999b6594ca30d23a59703df", "Question": " Match Column I
+
+Match 10 [Keyword: sp2] [File: NEET Full Tests.json]
+Context: qh2ToqOjycfHh1JSUqigoIDi4uLo2LFjNHnyZFIqlVRdXU0ASCqVUnV1Nf3666+kUqno7NmzDc72noZGPwUA1dTUUGhoKD18+JDy8vIoNzeX7t27R//++y9dunSJhg4dSmVlZfyigoXjOFIoFOTr68sP2eA47pEujGVZKi8vp71799L27dtp9+7d9OOPP9KOHTto7969lJeX12BLbA6NyqFaQTKZjDp16kRdunQhlUpFzz33HHXu3Jk8PT1JLpeTxWLhF2t3GI1GCgoKol9++YUyMzPp3LlzlJ6eThkZGZSamkrDhw8nvV7PL9YsmpTzOLQVOSKRiNzc3KiqqoqKior4YRsGg4Gqq6tts1DrGKNUKql3797UrVs3GjBgAA0YMICCgoLohRdeoP79+5PJZOJ/VLNothzruNMWCAoKomnTplFpaSnduXOHHyYiopKSEtq+fTtdvXqVQkJCiIjIbDZTTU0NMQzzSHdHdWaxDp1K25vX16Wl
+
+Match 11 [Keyword: sp3] [File: NEET Full Tests.json]
+Context: H5JwOp2kpaeRmZVJVlYWmZkZJCcn4dgY6XmnosXf7V+9sqJgsVpQZIU/GJ1u7uAH5A5oWnRE8+L8HJFgEEwTh91BWmoqhYUFxMTG3H7IjnG73RQVF5OUlLTRViGh6wYry8tMz8zcWe+cJKMoFmR568sp3EqWJKxWBYtFxjSiSz3sJBEqO8w0TfwBP+tra0QiEUzTxDCjXcmpaWl3PJN4V0kSiiRj6Dp+X3T9EK/Xx+ra+tYe6+usrq7i9/lRNe2WW+3uM00Ih8MsLMzj8/uwKNH2Ao8nOro1JSVl26OHP4/VFh2hGxOzed6lm208S4uLaNrnhUp0Ia7o4k/RqQWrq2t/+H7f5WNtfR2fz4caic4322xTMU0pOm4HMU5lzwkGA3i9XlRV/cRozeTkZOLiYndowt7OkQCHxUrA6+d6/3U6O7tobWun5WILFy+20tJyl4+LrbS0tNHd3c3c/ByKHB0/cz+YpkEwGGRpaYlQKITVZgdJwuly
+
+Match 12 [Keyword: sigma] [File: NEET Full Tests.json]
+Context: e-par'><table class='uploaded-question-table'><tr><td></td><td>List I</td><td></td><td>List II</td></tr><tr><td>A.</td><td>\t$\\frac{Y}{3\\left( 1-2\\sigma \\right)}$</td><td>I.</td><td>Modulus of Rigidity $\\left( \\eta \\right)$</td></tr><tr><td>B.</td><td>$\\frac{Y}{2\\left( 1+\\sigma \\right)}$</td><td>II.</td><td>Young's Modulus $\\left( Y \\right)$</td></tr><tr><td>C.</td><td>$\\frac{3K-2\\eta }{6K+2\\eta }$</td><td>III.</td><td>Bulk Modulus $\\left( K \\right)$</td></tr><tr><td>D.</td>
+
+Match 13 [Keyword: sp2] [File: NEET PYQs (2013-2026).json]
+Context: KlS5di//59qjSBxpOt6s7qUNWx+ZgnaBXSMzQVPEwGKu3bJqFTSsMJllUOVphveK5yTxsH+AuTujNFncab9OaI/mH1DmI9Q1pMXVYlnJGBfNvRSEaNXiPEK4ydO3di06ZNctiSpUtw8OBBjRxgqAIAsP2v7Vi3di0AgOM4nDhxHMuWLcONG8IG9VZYt24d/vrrL/n43NnTWLp0KQCTW5NmRWYg3XQP1MvuCoKTHI4wg/oUUMxnF4Qdyoal3y6SjqSkJKz7/XccFL8BzPMuzJ07T1WfZqVSWLp8OY4cOQoASElOxqpVq3DyuPjZQ4tcuXoZCxf9irS0dADAjp078fv6P2gxHeaWBQYH54CDcwo5W6242wTplrlRV/YFb+taNXtZ6GqUiLeZWkF6VcPaBYpNSzwUVR3tQdRrzPSq49hDjP6FGsuwFWrRGWdkqWcuXbqEefPmIuvmTRQpUhzRMXE4eeIE1v6+VvP9VqiypXM7dOgQ1vy2Bq
+
+Match 14 [Keyword: sp3] [File: NEET PYQs (2013-2026).json]
+Context: /5sK/TsB5ctZo3ptxuucYIhIISWUgmtYAD3y2uHXqUrRNTZThAj/sROE7C5Isxeyq7Tagml6IOXdY2tcNSLwV8qHxRYCalxs/btlp8acnFpKgI7wMzh+0trQ8eG11TVnZdMcv7XmCZIROq6f/uTzeWSp3jP2cyZ1gr6dVcere72R/U/uJct98sQJYlVPkcioDJ8H1OldfMxPQPgOI7kx+ZAcT+Qo8kXFp4t5qKBcsqvjaZdJvVrMx99hegwExKflY8TNS1q7f14RAbf5OUmvcGCmXeTKjR78aQJXpgOMH+ucrgt7aPxw2Z/stxkUyrcvDIrIUz1jvfmlVnVuL0jsw0/oz2JRN/l0nc/72yf9sarjXGYujD8rBrg0DQaeTt3l7/Q2LSRBVOTOeXxNPpizhUH+Q+/QtQYCbVnhz1IapNe5snU0prl+fF4Nt7f97f3QIg9tDROCJ6lJrSruMiPQ44iwofjh0rOy2QrzjvWLmP84JRLlHQHa
+
+Match 15 [Keyword: hybrid] [File: NEET PYQs (2013-2026).json]
+Context: typic ratio - 9 : 3 : 3 : I", " Phenotypic ratio - 9 : 7", " Phenotypic ratio - 1 : 2 : 1", " Phenotypic ratio - 3 : 1"], "Solution": "Results of a dihybrid cross - Phenotypic ratio of F2 generation is <br><b>9 Round, Yellow </b><br><b>3 Wrinkled, Yellow</b><br><b>3 Round, Green</b><br><b>1 Wrinkled, Green</b><br>", "Type": "SCQ", "Tags": [{"Difficulty": "BEGINNER", "Subject": "Botany", "Chapter": "Principles of Inheritance and Variation", "Topic": "Inheritance of Two Genes", "CognitiveLevel": "
+
+Match 16 [Keyword: sigma] [File: NEET PYQs (2013-2026).json]
+Context: for termination of transcription?", "Answer": ["A"], "Options": [" \\[\\rho \\] (rho)", " \\[\\gamma \\] (gamma)", " \\[\\alpha \\] (alpha)", " \\[\\sigma \\] (sigma)"], "Solution": "\\[\\rho \\] (rho) factor is important for termination of transcription<br>", "Type": "SCQ", "Tags": [{"Difficulty": "BEGINNER", "Subject": "Botany", "Chapter": "Molecular Basis of Inheritance", "Topic": "Transcription", "CognitiveLevel": "RECALL_ONLY", "Target": "11_12_NEET"}, {"Difficulty": "BEGINNER", "Subject":
+
+Match 17 [Keyword: pi bond] [File: NEET PYQs (2013-2026).json]
+Context: e<br><img src=\"https://cmds-test.vedantu.com/prod/question-sets/ff011d3e-1665-45ba-b250-394eca6918357254639267737190403.png\"/><br>1 sigma bond & 1 pi bond<br>C<sub>2</sub>: As per MOT, bond order is 2 and both are pi bonds<br>ethyne<br><img src=\"https://cmds-test.vedantu.com/prod/question-sets/421f6c2b-daaf-491b-93e6-59143cbec2c0642801777061862345.png\"/><br>Thus, one sigma and 2 pi bonds", "Type": "SCQ", "Tags": [{"Difficulty": "EASY", "Subject": "Chemistry", "Chapter": "Chemical Bonding a
+
+Match 18 [Keyword: sp2] [File: NEET Rankers Assignments .json]
+Context: jJxIcIycSHCMnEhwjJxIcIycSHCMnEhwjJxIcIycSHCMnEhwjJxIcIycSHCMnEhwjJxIcIycSHCMnEhwjJxIcIycSHCqi1ySpFH/zDER+VNV5LIsQ5Ik4f/iBVEgSfK/9QeZ/gGHw4GioiKUlpZi6tSp2L59O1599VWEhoaitbUVTqcT4B9NpHEY/LHXarUICwuDwWCAXq+HTqeDVqtVTlc11UReUlICq9UKrVaLtWvXYsmSJbh9+zYuX76MtrY2XsbTuLjdbni9XpjNZsybNw/z5s1DYmIiYmNjER4erpyuaqqJvLS0FFarFf39/Vi+fDnmz5+Pa9eu4dSpU7hz5w7AMzmNw+CP/bRp05CXl4f8/HwsXLgQs2bNgslkUk5XNdVEvn//flitVgDAyy+/jCeffBINDQ04f/48bt++DUmSHoo/XkeB4XQ64fV6ERsbi5ycHOTk5GD27NmYOXMmIiMjldNVTTWRFxcXo7S0FFFRUXj77bex
+
+Match 19 [Keyword: sp3] [File: NEET Rankers Assignments .json]
+Context: kOEZOJDhGTiQ4Rk4kOEZOJDhGTiQ4Rk4kOEZOJDhGTiQ4Rk4kOEZOJDhGTiQ4VUUuy7JyiIgeQFWRg6ETjZuqIpckCRqNqr5kov+cKoqRZRkejwdOpxNOpxMej0c5hYhGoIrIAUCn08FgMECv10Or1Sp3E9EIVBG5VqtFcnIycnNz8cQTTyAuLk45hYhGIMkqWMlyu92ora2F3W6HXq/HnDlzkJSUpJxGRMNQReRENHFBfbkuy/Kob5mNto+I/sIzOZHggvpMTkT/HCMnEhwjJxIcIycSHCMnEhwjJxIcIycSHCMnEhwjJxIcIycSHCMnEtz/AeYyEJoFh3pgAAAAAElFTkSuQmCC\" alt=\"\"/></p>", "<p><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAADtCAYAAABQ36uOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcE
+
+Match 20 [Keyword: sigma] [File: NEET Rankers Assignments .json]
+Context: tal number of electron in Be is 2 + 2 = 4, therefore, number of electrons in \\[B{e_2}\\]= 4 + 4 = 8. The molecular orbital configuration is:<br>\\[\\sigma 1{s^2}\\sigma \\,*1{s^2}\\]<br>Bond order \\[ = \\frac{{{N_b} - {N_a}}}{2}\\, = \\,\\frac{{2 - 2}}{2}\\, = \\,0\\]", "Type": "SCQ", "Tags": [{"Difficulty": "BEGINNER", "Subject": "Chemistry", "Chapter": "Chemical Bonding and Molecular Structure", "Topic": "Molecular Orbital Theory", "CognitiveLevel": "RECALL_AND_APPLY_CONCEPT_FORMULA", "Targe
+
+Match 21 [Keyword: pi-bond] [File: NEET Rankers Assignments .json]
+Context: .vedantu.com/prod/question-sets/b936235d-2ff4-4e4c-90a2-28b78194de792651599049531386357.png\"/>", "Answer": ["A"], "Options": [" 18 sigma bonds and 2 pi-bonds", " 16 sigma bonds and 1 pi-bond", " 9 sigma bonds and 2 pi-bonds", " 9 sigma bonds and l pi-bond"], "Solution": "The enolic form of ethyl acetoacetate has 16 single bonds i.e. \\[\\alpha - \\]bonds and 2 double bonds i.e. 2 \\[\\alpha - \\]bonds and 2 \\[\\pi - \\]bonds. Hence the given structure has 18 \\[\\sigma \\]-bonds and 2 \\[\\
+
+Match 22 [Keyword: sp2] [File: NEET Rankers Part Tests .json]
+Context: 0hsD+/CbMH98PIhfvw0JMf9QAXXF4xEMZGRug6ZCSGmHaHae9p2Hv/Y0hp0BtrHFw4Fr16MfoY2AUd6ldD6+Grcd1FxR2R3qT43KRhfbKis8F80UL4UV9Jb9oC8WUB7Rjiy/LRvO519iUQdE4KrrD7sP2lENsS4ibRghSQ69SshmRJflL1g8g4hlR8filMdyMi69mzp+9MEIBnR+eiQ4PqaDycq3i3fylOB3rA8eVj3HtuDw8pNPg54uLSfmhavTYGzF6D1XPN0LNjX8zYeRvvRUVC4Pb4GGYPHIQhk5dj/ZLx6NWgMpoPW41rUXQMoaFhCpZbonAhQo7L4+TxEwlxOPU9JxILaMeQAAfSzt4OA/v14Wr5V9StVQNXrlxOgE/x9pYl9bV71w7i+Qvi959/iLBTCI8Y0ksh+o/fUKNaZRw9egT8vnJzx+VVQ9G6RkMMMj8GO99IpHd8HXBhSV80qlITgxbvxZlD6zGmc0f0mLQdT8PTSS
+
+Match 23 [Keyword: sp3] [File: NEET Rankers Part Tests .json]
+Context: PatEibKTsKVDZG/1lbcfmxMwIi8P19/uIFxowdh0mTp8DmXco1LCQQ3m7ObI3rBt+PasW+eHVyBUzr1UfzgUtx3tYvwqS1QNeHOLTZAhNWnMAjh8RZq4nvNya2r68dQ2xbWJ8/YVjAxwYXNs5Gr/4TsP38q686hhBfB5yxNEPzGuVRoqIR6hs3R+OmxmjatBGqly2KnDnLotEgS0Y/0YscJGI6uXQ4mpQtgzIVaqJ+02bUEWuGxo3qomKpIshVxAjtprLQ6/p1Hsd9RgnDR4zE0mXL4e7xHsDx4QD5Oj/HtUO7sGbOWPRsw2fqZAbL09YsQH/VU/59mkC7q9g5sy9MRq7AxRfuCWP89V1+ZAHtGPSE0BYQC3i/xJk1U9C1+yhsOf0cvl/5Dga8scbBtfMwatI8bDxxCy9eO8CBsGgnp9e4tWcOWuctgDzFBmD9FYdowV79nB/g0IppGGe2GFbnHuClHa9DuXlH+xc4v2EcapSnjEirCU
+
+Match 24 [Keyword: sigma] [File: NEET Rankers Part Tests .json]
+Context: p><p>$$C \\to KC,$$ so energy stored will become A times</p><p>$$Q = CV,$$ so Q will become K times</p><p>$$\\therefore $$ Surface charge density $$\\sigma ' = \\frac{{Kq}}{A} = K{\\sigma _0}$$.</p> ", "Type": "SCQ", "Tags": [{"Difficulty": "MODERATE", "Subject": "Physics", "Chapter": "Electrostatic Potential and Capacitance", "Topic": "Capacitors and Capacitance", "CognitiveLevel": "RECALL_ONLY", "Target": "11_12_NEET"}, {"Difficulty": "MODERATE", "Subject": "Physics", "Chapter": "Electrostatic
+
+Match 25 [Keyword: sp2] [File: NEET Tatva Ex-1.json]
+Context: CCWn7Uq6N+yv8AGr4R6BcfEa5bUpf2f/H+si30/UbmXIkn0dlbz7N5CCEjBETtuGT5aIvpGqf8FAf2xNT0bUPD3iL/AIJ53mtTahbNaXMKfFPRbjSdTEimN0lZoiqxOpClXU4GQ/GTQBz/APwbJfHPSP2mvhJ+058RNEjuLbTvHXx88R+ILO2uzGt5BaXVtp01ssyozgOEcqdrFdwYAtyR+mhXJHHTke1fyx/sofCn9p79gSy+J37XXwI0e00vw74Q+I2veFvHfw0sJpNQs9KsLN45Qj7GAurOH7TJGbhMPbrD5wbY8hT99/8Agl1/wVb+Gn/BVT4Ax+LPA+oNZ69p6xw+IvDV3Kh1DQblhgBgAPMhdgxjuAoWQK2VRleNAD139q/9lnwF+2R8Cda+HfxG8O2fiPwrrsflzW8q/Pbv/BPE/WOVD8yuvKnnpmvyP/aa/wCCq3xh/wCDefwvrHwT8aTRfHK31DRjefBzxdd30Tapb2wkSI
+
+Match 26 [Keyword: sp3] [File: NEET Tatva Ex-1.json]
+Context: LQoGg9d9a25uVjgc7vV5owEAZigpKdGDDz7onayZM2fGf7799ttTfjK4lJ3k50aKRCJqamrS/v37dfbs2cteJa3rtO7+LLFpubm5GjdunIYOHXpNlzIFbjRO8oP+Kl1P8rNq1SotXLhQkvT2229r6tSp3iFJZUT8Q6GQDh06pCVLluiDDz6Q4zjdXoK067TuruQX24Jw11136eWXX9bYsWOVnZ3tHQbcdIg/+qt0jf/jjz+uDRs2aMKECdq6datycnK8Q5Lq0gL2Q7FjKi3Lkm3bCofDsm07fnMcR+FwWC0tLfFbJBKR4zgJ42LTur4mAAA9cebMGdXU1CgvL08rVqxIefhlypp/JBJRY2Oj3n33XZ08eVKO48jv90vRiDuOo5aWFr355ps6e/as8vPz9eijjyorKythC0Ds5/z8fE2ZMkUFBQWsPSEtsOaP/iod1/xjm/xvxOb+uMQr/Jrr7Nmz8WtCjxs3zg2Hw94hQNqqqqpyJbmS
+
+Match 27 [Keyword: sigma] [File: NEET Tatva Ex-1.json]
+Context: </sub> and r<sub>2</sub> are touched and separated. What is the ratio of their surface charge density?", "Answer": ["A"], "Options": [" \\[\\frac{{{\\sigma _1}}}{{{\\sigma _2}}} = \\frac{{{r_2}}}{{{r_1}}}\\]", " \\[\\frac{{{\\sigma _1}}}{{{\\sigma _2}}} = \\frac{{{r_1}}}{{{r_2}}}\\]", " \\[\\frac{{{\\sigma _1}}}{{{\\sigma _2}}} = 1\\]", " \\[\\frac{{{\\sigma _1}}}{{{\\sigma _2}}} = \\frac{{{r_2}{r_1}}}{{{r_1} + {r_2}}}\\]"], "Solution": " Common potential:<br>$V = \\frac{{k\\left( {{Q_1} - x} \\
+
+Match 28 [Keyword: sp2] [File: Target Bio 360 Assignments.json]
+Context: c44uvMgIP9Cb2kbNKZxAR8/1ZE6f8bITZHfZCYY5wHCtjOnYCUI3CDCGG/dNLiKLvGTBtCtqHdsZed8obRxvEbgwAZ9HM8P1OPWKv/9kdzY0OxS6zy1oOONOqJH8n8FPDy4zEcEhb9kZgHnWsCbHnQSP2K4uJB4E9j/A5EIj9chbEY/RM4DwVvuyCfdzZxmVGpMeiwO/iT3wJlqQX9w59Oy8EcuYfpM44GOwY3QZA8Dy3Guzl9zLKHS/M25one13jHLw8iP1meNCO0zUR8Ofhjinl2ceKNMRySihQx9q8M/aG3/bfT6PcHO0eNpQeFJmxSoaCq7CL1J01M9GaiOjHH+PPOV+59RPb2qugGY3aYpu339sXcml3Wy4ruBexJ6x5cxa6GjUfGjJmd9cf0NQd9pMLVvo8WXh7hJxXuQatv4XY70tC53O8gJwabJVO2BN2n29F5yOOCmS5YLPA/U09Y78CZKCphTCZrAJKuJOD6MHbeBJeZiR
+
+Match 29 [Keyword: sp3] [File: Target Bio 360 Assignments.json]
+Context: FsYdefbPlNstKBX9uLRWluTQ3lb4fhN8fHHO3earD2owaoRG+u5d+4+ki2kBsO4pLDhjsZ1ke/C/Nh9E6h3pU6hWo4PCqrufhoH6q9hT+II2TE12fLmwcqldgjhojoN+8jpAGy6ifs10uvmXJ4AVO9Sp3MuPZew7vjxXwcN+vYazJyS3zGZw772wR3Hi9rL8dvkX1efYk/NVHjTtQWcRiMAEpMsRtxqDj2z85ANNueMYu+rqOf0KtM9OkywiYAQx42YWTBzZZmu2Lp3G7dbHS1qELj6Nt1IdjjPzLA3j7AAS2QztXXhzYJyW9TsSAjr+6gtSq4qLyWjh5cQstckcDc3C3oPM0e3PBOTJl043Rx85c1mNEA2i82DwYebBVMTtLuC3T+xZ7Vxm146Vu2+S1b4YwTpwD7uPABjac85Ho++53E2o/bLPczr6YI9mfPdSxNHz4wrz2hz9yRi8kvnZnUtrdcX8SP/uPoWe8y337YxIHo+GuDMa
+
+Match 30 [Keyword: sigma] [File: Target Bio 360 Assignments.json]
+Context: DNA-dependent RNA polymerase catalyzes transcription of all types of RNA (mRNA, tRNA, and rRNA)<br><b>Statement II:</b> RNA polymerase requires the 'sigma' factor for initiation and the 'rho' factor for termination of transcription<br><b>Statement III:</b> In prokaryotes, since there is no nuclear membrane, transcription and translation can be coupled<br><b>Statement IV:</b> The mRNA in prokaryotes requires extensive processing (capping and tailing) before it becomes functional ", "Answer": ["C
+Total Matches: 30

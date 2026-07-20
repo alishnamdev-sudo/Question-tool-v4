@@ -1,0 +1,711 @@
+--- INDEX 0 | JEE | ID: 67ab89c681f12750ffd76327 ---
+Chapter: Ray Optics | Topic: Dispersion without deviation
+Question:  A thin prism P<sub>1</sub> with angle 4° made of glass having refractive index 1.54, is combined with another thin prism P<sub>2</sub> made of glass having refractive index 1.72 to get dispersion without deviation. The angle of the prism P<sub>2</sub> in degrees is
+Answer: ["B"]
+Options: ["4","3","16/3","1.5"]
+Solution:  \[{\delta _{net}} = 0\]<br/>\[({\mu _1} - 1){A_1} - ({\mu _2} - 1){A_2} = 0\]<br/>\[\begin{gathered}<br/>  (1.54 - 1)4 - (1.72 - 1){A_2} = 0   \\<br/>  {A_2} = {3^o}   \\ <br/>\end{gathered} \]...
+
+
+--- INDEX 1 | JEE | ID: 68052e8048a77061ceed25ce ---
+Chapter: Ray Optics | Topic: Combination of lenses
+Question:  A convex lens of focal length 30 cm is placed in contact with a concave lens of focal length 20 cm. An object is placed at 20 cm to the left of this lens system. The distance of the image from the lens in cm is _____
+Answer: ["D"]
+Options: [" 30"," 45"," \\[\\frac{{60}}{7}\\]"," 15"]
+Solution:  Equivalent focal length<br>$\frac{1}{{\text{f}}} = \frac{1}{{{{\text{f}}_1}}} + \frac{1}{{{{\text{f}}_2}}}$<br>$ = \frac{1}{{30}} + \frac{1}{{ - 20}} = \frac{{2 - 3}}{{60}} =  - \frac{1}{{60}}$<br>f = −  60 cm<br>Lens formula <br>$\frac{1}{{\text{v}}} - \frac{1}{{\text{u}}} = \frac{1}{{\text{f}}}$<...
+
+
+--- INDEX 2 | JEE | ID: 6804eeba97562d6b87c1ca8d ---
+Chapter: Dual Nature of Radiation and Matter | Topic: Radiation pressure and force
+Question:  A small mirror of mass m is suspended by a massless thread of length l. Then the small angle through which the thread will be deflected when a short pulse of laser of energy E falls normal on the mirror <br>(c = speed of light in vacuum and g = acceleration due to gravity)
+Answer: ["D"]
+Options: ["\\[\\theta  = \\frac{{3E}}{{4mc\\sqrt {g1} }}\\]","\\[\\theta  = \\frac{E}{{mc\\sqrt {g1} }}\\]","\\[\\theta  = \\frac{E}{{2mc\\sqrt {g1} }}\\]","\\[\\theta  = \\frac{{2E}}{{mc\\sqrt {g1} }}\\]"]
+Solution:  <img src="https://www.vedantu.com/question-sets/12f8e51e-3666-4045-9158-2697228324f02661256058881665810.png"/><br/>Force due to beam assuming complete reflection<br/>\[F = \frac{{2P}}{C} = \frac{2}{C}\frac{{dE}}{{dt}};P\,is\,power\]<br/>So change in momentum of mirror.<br/>\[m(V - 0) = \int {Fdt}  ...
+
+
+--- INDEX 3 | JEE | ID: 6804ecdf48a77061cee75f53 ---
+Chapter: Ray Optics | Topic: Refraction at curved spherical surface
+Question:  Light from a point source in air falls on a spherical glass surface (refractive index, μ  = 1.5 and radius of curvature = 50 cm). The image is formed at a distance of 200 cm from the glass surface inside the glass. The magnitude of distance of the light source from the glass surface is _________m.
+Answer: ["4.00"]
+Solution:  <img  src="https://cmds-test.vedantu.com/prod/question-sets/1380c4db-d7c5-4083-b140-f2601ff3ee34460635135671743773.png"/><br>\[\begin{gathered}<br>&nbsp;&nbsp;\frac{{{\mu _2}}}{v} - \frac{{{\mu _1}}}{u} = \frac{{{\mu _2} - {\mu _1}}}{R}   \\<br>&nbsp;&nbsp;\frac{{1.5}}{{200}} - \frac{1}{{ - x}} = \...
+
+
+--- INDEX 4 | JEE | ID: 6804eeba97562d6b87c1caa2 ---
+Chapter: Ray Optics | Topic: Mirror formula
+Question:  Distance between object and its image (magnified by – \[\frac{1}{3}\]) is 30 cm. The focal length of the mirror used is \[\left( {\frac{x}{4}} \right)\] cm, where magnitude of value of x is ________. 
+Answer: ["45.00"]
+Solution:  \[M = \frac{1}{3}\]<br/>\[\frac{{ - V}}{{ - U}} = \frac{{ - 1}}{3} \Rightarrow V = \frac{U}{3}\]<br/>Distance b/w object and image: <br/><img src="https://www.vedantu.com/question-sets/280a613f-2dd8-4183-84f8-f58f85c22dbb7011552362082849696.png"/><br/>U −  V = 30 <br/>\[U - \frac{U }{3} = 30\]<br/>...
+
+
+--- INDEX 5 | JEE | ID: 6804eeba97562d6b87c1ca94 ---
+Chapter: Ray Optics | Topic: Mirror formula
+Question:  When an object is placed 40 cm away from a spherical mirror an image of magnification \[\frac{1}{2}\] is produced. To obtain an image with magnification of \[\frac{1}{3}\], the object is to be moved. 
+Answer: ["A"]
+Options: [" 40 cm away from the mirror. "," 80 cm away from the mirror. "," 20 cm towards the mirror. "," 20 cm away from the mirror"]
+Solution:  \[m = \frac{1}{2} = \frac{f}{{f - u}}\]<br>\[\frac{1}{2} = \frac{f}{{f - ( - 40)}}\]<br>f + 40 = 2f ⇒  f = 40 cm <br>now m = \[\frac{1}{3} = \frac{{40}}{{40 - u}}\]<br>40 – u = 120 ⇒  u = −  80...
+
+
+--- INDEX 6 | JEE | ID: 68052af148a77061ceecfaa7 ---
+Chapter: Ray Optics | Topic: Critical angle and tir
+Question:  A transparent block A having refractive index µ = 1.25 is surrounded by another medium of refractive index µ = 1.0 as shown in figure. A light ray is incident on the flat face of the block with incident angle θ as shown in figure. What is the maximum value of θ for which light suffers total internal reflection at the top surface of the block ?<br><img  src="https://cmds-test.vedantu.com/prod/question-sets/23eea49c-0737-4f2e-b0d7-f137bb2f754772786735006852835.png"/>
+Answer: ["C"]
+Options: [" tan<sup>–1</sup> (4/3)"," tan<sup>–1</sup> (3/4)"," sin<sup>–1</sup> (3/4)"," cos<sup>–1</sup> (3/4)"]
+Solution:  <img  src="https://cmds-test.vedantu.com/prod/question-sets/04a301bb-b07a-4b6b-99a2-034e166efa0f2959496005012431156.png"/><br>r + θ <sub>C</sub> = 90°<br>µ<sub>1</sub>sinθ  = µ<sub>2</sub>sinr<br>\[\begin{gathered}<br>&nbsp;&nbsp;\sin \theta  = \frac{{{\mu _2}}}{{{\mu _1}}}\sin \left( {90 - {\theta...
+
+
+--- INDEX 7 | JEE | ID: 6805280249d68d1d06a00835 ---
+Chapter: Ray Optics | Topic: Combination of lenses
+Question:  <b> </b>Two thin convex lenses of focal lengths 30 cm and 10 cm are placed coaxially, 10 cm apart. The power of this
+Answer: ["D"]
+Options: [" 5D"," 1D"," 20D"," 10D"]
+Solution:   f<sub>1</sub> = 30 cm, f<sub>2</sub> = 10 cm<br>\[\frac{1}{{{f_{eq}}}} = \frac{1}{{{f_1}}} + \frac{1}{{{f_2}}} - \frac{d}{{{f_1}{f_2}}},d = \]distance between lens<br>\[\frac{1}{{{f_{eq}}}} = \frac{1}{{0.3}} + \frac{1}{{0.1}} - \frac{{0.1}}{{\left( {0.3} \right)\left( {0.1} \right)}}\]<br>\[\frac{...
+
+
+--- INDEX 8 | JEE | ID: 68052e8048a77061ceed25c8 ---
+Chapter: Ray Optics | Topic: Lens maker formula
+Question:  A concave-convex lens of refractive index 1.5 and the radii of curvature of its surfaces are 30 cm and 20 cm, respectively. The concave surface is upwards and is filled with a liquid of refractive index 1.3. The focal length of the liquid-glass combination will be
+Answer: ["D"]
+Options: ["\\[\\frac{{500}}{{11}}cm\\]","\\[\\frac{{800}}{{11}}cm\\]","\\[\\frac{{700}}{{11}}cm\\]","\\[\\frac{{600}}{{11}}cm\\]"]
+Solution:  <img src="https://www.vedantu.com/question-sets/db8b4bea-0ba4-4bc4-ba0e-1214dc71e7716136340509941686491.png"/><br/>\[\frac{1}{f} = \left( {\frac{{1.3 - 1}}{1}} \right)\left( {\frac{1}{\infty } - \frac{1}{{ - 30}}} \right)\]\[ + \left( {\frac{{1.5 - 1}}{1}} \right)\left( {\frac{1}{{ - 30}} - \frac{1...
+
+
+--- INDEX 9 | JEE | ID: 6805280249d68d1d06a00842 ---
+Chapter: Ray Optics | Topic: Refraction at plane surface
+Question:  A container contains a liquid with refractive index of 1.2 up to a height of 60 cm and another liquid having refractive index 1.6 is added to height H above first liquid. If viewed from above, the apparent shift in the position of bottom of container is 40 cm. The value of H is___cm. (Consider liquids are immisible)
+Answer: ["80.00"]
+Solution:  <img  src="https://cmds-test.vedantu.com/prod/question-sets/e44fbb2c-8e65-42ff-ac8c-6e273c20b650376276558029693572.png"/><br>y = apparent depth of bottom<br>\[\frac{y}{1} = \frac{H}{{1.6}} + \frac{{60}}{{1.2}}\]<br>Shift = 40<br>H + 60 – y = 40<br>\[H + 60 - \frac{H}{{1.6}} - \frac{{60}}{{1.2}} = 4...
+
+
+--- INDEX 10 | JEE | ID: 6804f0d648a77061cee7d8f3 ---
+Chapter: Ray Optics | Topic: Mirror formula
+Question:  A finite size object is placed normal to the principal axis at a distance of 30 cm from a convex mirror of focal length 30 cm. A plane mirror is now placed in such a way that the image produced by both the mirrors coincide with each other. The distance between the two mirrors is :
+Answer: ["B"]
+Options: [" 45 cm "," 7.5 cm"," 22.5 cm "," 15 cm "]
+Solution:  <img  src="https://cmds-test.vedantu.com/prod/question-sets/882e6d88-ea52-4d85-beb0-93dd10a9a33c5081557431967244359.png"/><br>For Convex mirror<br>\[\frac{1}{v} + \frac{1}{u} = \frac{1}{f}\]<br>\[\frac{1}{v} - \frac{1}{{30}} = \frac{1}{f}\]<br>\[\frac{1}{v} = \frac{2}{{30}} = \frac{1}{{15}} \Righta...
+
+
+--- INDEX 11 | JEE | ID: 6805280249d68d1d06a00833 ---
+Chapter: Ray Optics | Topic: Lens maker formula
+Question:  A lens having refractive index 1.6 has focal length of 12 cm, when it is in air. Find the focal length of the lens when it is placed in water. (Take refractive index of water as 1.28)
+Answer: ["B"]
+Options: [" 355 mm "," 288 mm"," 555 mm "," 655 mm "]
+Solution:  As we know,<br>\[\frac{1}{f} = \left[ {\frac{{{\mu _L}}}{{{\mu _m}}} - 1} \right]\left[ {\frac{1}{{{R_1}}} - \frac{1}{{{R_2}}}} \right]\]<br>\[For{\text{ }}air\;{\mu _m} = 1\]<br>\[\frac{1}{{12}} = \left[ {1.6 - 1} \right]\left[ {\frac{1}{{{R_1}}} - \frac{1}{{{R_2}}}} \right]\]<br>\[\frac{1}{{12}} ...
+
+
+--- INDEX 12 | JEE | ID: 68052af148a77061ceecfa9c ---
+Chapter: Ray Optics | Topic: Mirror formula
+Question:  A mirror is used to produce an image with magnification of \[\frac{1}{4}\]. If the distance between object and its image is 40 cm, then the focal length of the mirror is ____.
+Answer: ["C"]
+Options: ["10 cm","12.7 cm","10.7 cm","15 cm"]
+Solution:  \[\begin{gathered}<br/>  m =  - \frac{v}{u} =  - \left( {\frac{v}{{ - u}}} \right) = \frac{v}{u}   \\<br/>  \frac{1}{4} = \frac{v}{u} \Rightarrow u = 4v   \\ <br/>\end{gathered} \]<br/>v + u = 40<br/>5v = 40<br/>v = 8 cm<br/>u = 32 cm<br/>\[\begin{gathered}<br/>  \frac{1}{v} + \frac{1}{u} = \frac{1...
+
+
+--- INDEX 13 | JEE | ID: 6985f8521f2f76743d081bae ---
+Chapter: Ray Optics | Topic: Condition of no emergence
+Question:  As shown in the diagram, when the incident ray is parallel to base of the prism, the emergent ray grazes along the second surface.<br><img  src="https://cmds-test.vedantu.com/prod/question-sets/9fab65ec-7d04-41b1-b268-c7585711febb2286919299145900687.png"/><br>If refractive index of the material of prism is $\sqrt{2}$, the angle $\theta$ of prism is.
+Answer: ["A"]
+Options: [" $60^{\\circ}$"," $75^{\\circ}$"," $90^{\\circ}$"," $45^{\\circ}$"]
+Solution:  <img  src="https://cmds-test.vedantu.com/prod/question-sets/7585e94d-7234-47a6-97e7-9020b17003268522512572245146622.png"/><br>For grazing emergence<br>$\sin \mathrm{r}_{2}=\frac{1}{\mu}$<br>By Snell's Law at incident surface<br>$$<br>\begin{aligned}<br>& 1 \times \frac{1}{\sqrt{2}}=\sqrt{2} \sin \m...
+
+
+--- INDEX 14 | JEE | ID: 69870fb51041e71dbae2529e ---
+Chapter: Ray Optics | Topic: Displacement method
+Question:  The size of the images of an object, formed by a thin lens are equal when the object is placed at two different positions 8 cm and 24 cm from the lens. The focal length of the lens is $\_\_\_\_$ cm.
+Answer: ["16"]
+Solution:  $m=\frac{f}{f+u}$<br>$\mathrm{m}_{1}=-\mathrm{m}_{2}$<br>$\frac{\mathrm{f}}{\mathrm{f}-8}=-\frac{\mathrm{f}}{\mathrm{f}-24}$<br>$\mathrm{f}-8=24-\mathrm{f}$<br>$2 \mathrm{f}=32$<br>$\mathrm{f}=16 \mathrm{~cm}$...
+
+
+--- INDEX 15 | JEE | ID: 6805eebf48a77061cef4a1c0 ---
+Chapter: Aldehydes and Ketones | Topic: Tests of Carbonyl Compounds
+Question:  "P" is an optically active compound with molecular formula C<sub>6</sub>H<sub>12</sub>O. When "P" is treated with 2,4-dinitrophenylhydrazine, it gives a positive test. However, in presence of Tollens reagent, "P" gives a negative test. Predict the structure of "P".
+Answer: ["B"]
+Options: [" <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/3d54cb43-f821-4adc-bc4e-5ed49d12a4a76374441475108858780.png\"/>"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/676cc6b1-ba7a-4e02-a881-dcc2571b5f7d5651039607503438581.png\"/>"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/7d24d880-160c-442d-9057-420cfd256e6a906344792043376770.png\"/>"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/245498e0-7515-4691-9fe8-84bf2cfea646754137368089605828.png\"/>"]
+Solution:  <img  src="https://cmds-test.vedantu.com/prod/question-sets/ad8c807e-0bab-4873-acc9-877c766933304048030171771601782.png"/><br><img  src="https://cmds-test.vedantu.com/prod/question-sets/f9ce96e6-6c54-4133-81bd-df461ceac0f64607028721686074454.png"/><br>Gives test with<br>2,4-DNP...
+
+
+--- INDEX 16 | JEE | ID: 6803e98797562d6b87af0929 ---
+Chapter: Ray Optics | Topic: Refraction at curved spherical surface
+Question:  A spherical surface separates two media of refractive indices 1 and 1.5 as shown in figure. Distance of the image of an object 'O', is :<br><img  src="https://cmds-test.vedantu.com/prod/question-sets/c9bb835c-4800-4148-b8af-0da08af65aa75979518905976431875.png"/><br>(C is the center of curvature of the spherical surface and R is the radius of curvature)
+Answer: ["B"]
+Options: [" 0.24 m right to the spherical surface "," 0.4 m left to the spherical surface "," 0.24 m left to the spherical surface "," 0.4 m right to the spherical surface"]
+Solution:  \[\frac{{{\mu _2}}}{v} - \frac{{{\mu _1}}}{u} = \frac{{{\mu _2} - {\mu _1}}}{R}\]<br>\[\frac{{1.5}}{v} - \frac{1}{{( - 0.2)}} = \frac{{1.5 - 1}}{{0.4}}\]<br>\[\frac{{1.5}}{v} = \frac{{0.5}}{{0.4}} - \frac{1}{{0.2}}\]<br>\[\frac{{1.5}}{v} =  - \frac{{1.5}}{{0.4}}\]<br>\[v =  - 0.4\]m...
+
+
+--- INDEX 17 | JEE | ID: 6803eb4648a77061ced4b3f0 ---
+Chapter: Ray Optics | Topic: Magnification due to lens
+Question:  Two identical objects are placed in front of convex mirror and concave mirror having same radii of curvature of 12 cm, at same distance of 18 cm from the respective mirrors. The ratio of sizes of the images formed by convex mirror and by concave mirror is :
+Answer: ["A"]
+Options: [" 1/2"," 2"," 3"," 1/3"]
+Solution:  <img  src="https://cmds-test.vedantu.com/prod/question-sets/341db7db-43d6-4170-ab90-f6f421e4fe773452510737967798980.png"/><br>\[{\text{Using m = }}\frac{f}{{u - f}}\]<br>\[{m_1} = \frac{6}{{18 - 6}} = \frac{1}{2}\]<br><img  src="https://cmds-test.vedantu.com/prod/question-sets/76a9e407-443f-424b-bf...
+
+
+--- INDEX 18 | JEE | ID: 6803eb4648a77061ced4b3f3 ---
+Chapter: Ray Optics | Topic: Lens maker formula
+Question:  A bi—convex lens has radius of curvature of both the surfaces same as 1/6 cm. If this lens is required to be replaced by another convex lens having different radii of curvatures on both sides \[({R_1} \ne {R_2})\], without any change in lens power then possible combination of R<sub>1</sub> and R<sub>2</sub> is :
+Answer: ["B"]
+Options: [" \\[\\frac{1}{3}cm{\\text{ and }}\\frac{1}{3}cm\\]"," \\[\\frac{1}{5}cm{\\text{ and }}\\frac{1}{7}cm\\]"," \\[\\frac{1}{3}cm{\\text{ and }}\\frac{1}{7}cm\\]"," \\[\\frac{1}{6}cm{\\text{ and }}\\frac{1}{9}cm\\]"]
+Solution:  This will happen when<br>\[\frac{1}{{{f_1}}} = \frac{1}{{{f_2}}}\]<br>\[(\mu  - 1)\]	\[\left( {\frac{1}{{{R_1}}} - \frac{1}{{ - {R_2}}}} \right) = (\mu  - 1)\left( {\frac{2}{R}} \right)\]<br>\[\frac{1}{{{R_1}}} + \frac{1}{{{R_2}}} = \frac{2}{R}\]...
+
+
+--- INDEX 19 | JEE | ID: 6803e98797562d6b87af091c ---
+Chapter: Ray Optics | Topic: Magnification due to lens
+Question:  A slanted object AB is placed on one side of convex lens as shown in the diagram. The image is formed on the opposite side. Angle made by the image with principal axis is :<br><img  src="https://cmds-test.vedantu.com/prod/question-sets/230d4a47-7b31-48b8-8837-7300cb3e80286441724450083050865.png"/><br>
+Answer: ["B"]
+Options: [" \\[ - \\frac{\\alpha }{2}\\]"," \\[ - {45^o}\\]"," \\[ + {45^o}\\]"," \\[ - \\alpha \\]"]
+Solution:  <img  src="https://cmds-test.vedantu.com/prod/question-sets/af65d93c-9d79-46be-9416-2d995ca80dc56550160741420078123.png"/><br>Location of image of A: - <br>\[\frac{1}{v} - \frac{1}{u} = \frac{1}{f} \Rightarrow \frac{1}{v} - \frac{1}{{ - 30}} = \frac{1}{{20}} \Rightarrow \frac{1}{v} = \frac{1}{{60}}...
+
+
+--- INDEX 20 | JEE | ID: 6803eb4648a77061ced4b3f9 ---
+Chapter: Ray Optics | Topic: Condition of minimum deviation
+Question:  A ray of light suffers minimum deviation when incident on a prism having angle of the prism equal to 60°. The refractive index of the prism material is \[\sqrt 2 \]. The angle of incidence (in degrees) is _____.
+Answer: ["45.00"]
+Solution:  \[\mu  = \frac{{\sin \left( {\frac{{A + {\delta _m}}}{2}} \right)}}{{\sin \left( {\frac{A}{2}} \right)}},{\text{since }}A = {60^o}\]&#9;&#9;\[\therefore \delta_m = {30^o}\]<br/>\[{\delta _m} = 2i - A\left[ {as{\text{ i  =  e}}} \right]\]<br/>\[ \Rightarrow i = {45^o}\]...
+
+
+--- INDEX 21 | JEE | ID: 69870fb51041e71dbae25297 ---
+Chapter: Ray Optics | Topic: Introduction to prisms
+Question:  A prism of angle $75^{\circ}$ and refractive index $\sqrt{3}$ is coated with thin film of refractive index 1.5 only at the back exit surface. To have total internal reflection at the back exit surface the incident angle must be $\_\_\_\_$ .<br>( $\sin 15^{\circ}=0.25$ and $\sin 25^{\circ}=0.43$ )
+Answer: ["A"]
+Options: ["between $15^{\\circ}$ and $20^{\\circ}$","$15^{\\circ}$","$>25^{\\circ}$","$<15^{\\circ}$"]
+Solution: <img src="https://cmds-test.vedantu.com/prod/questions/7a50f363-959a-4aa0-b6be-f7a4a76fe5b7"/><br/>$\mathrm{r}_{1}+\mathrm{r}_{2}=75^{\circ}$<br/>For TIR at back surface<br/>$\sqrt{3} \sin \mathrm{r}_{2}=\frac{3}{2} \sin 90^{\circ}$<br/>$\mathrm{r}_{2} \geq 60^{\circ}$<br/>$\mathrm{r}_{1} \leq 15^{\...
+
+
+--- INDEX 22 | JEE | ID: 6804eab897562d6b87c14a0f ---
+Chapter: Ray Optics | Topic: Lens maker formula
+Question: <b> </b>The radii of curvature for a thin convex lens are 10 cm and 15 cm respectively. The focal length of the lens is 12 cm. The refractive index of the lens material is
+Answer: ["C"]
+Options: ["1.2","1.4","1.5","1.8"]
+Solution:  \[\frac{1}{{\text{f}}} = \left( {\mu  - 1} \right)\left( {\frac{1}{{{{\text{R}}_1}}} - \frac{1}{{{{\text{R}}_2}}}} \right)\]<br/>\[\frac{1}{{{\text{12}}}} = \left( {\mu  - 1} \right)\left( {\frac{1}{{10}} - \frac{1}{{-15}}} \right)\]<br/>\[\frac{1}{{{\text{12}}}} = \left( {\mu  - 1} \right)\left( {...
+
+
+--- INDEX 23 | JEE | ID: 6804eab897562d6b87c14a11 ---
+Chapter: Ray Optics | Topic: Condition of minimum deviation
+Question: <b> </b>Consider following statements for refraction of light through prism, when angle of deviation is minimum. <br>(A) The refracted ray inside prism becomes parallel to the base. <br>(B) Larger angle prisms provide smaller angle of minimum deviation. <br>(C) Angle of incidence and angle of emergence becomes equal. <br>(D) There are always two sets of angle of incidence for which deviation will be same except at minimum deviation setting. <br>(E) Angle of refraction becomes double of prism angle. <br>Choose the correct answer from the options given below.
+Answer: ["A"]
+Options: [" A, C and D Only "," B, C and D Only "," A, B and E Only "," B, D and E Only"]
+Solution:  δ  = I + e – A <br>For δ min ⇒  I = e <br>and refracted ray is parallel to base <br>A, C, D are correct<br>...
+
+
+--- INDEX 24 | JEE | ID: 69875699ef69840ff98a28b3 ---
+Chapter: Practical Chemistry | Topic: Detection of functional groups
+Question:  Match List-I with List-II.<br><div class='uploaded-question-table-par'><table class='uploaded-question-table'><tr><td><b>List-I</b><b> </b>Functional group (detection)</td><td><b>List-II</b><b> </b>Change observed during detection</td></tr><tr><td>(A) Unsaturation (Baeyer's test)</td><td>(I) Red colour Appears</td></tr><tr><td>(B) Alcoholic group (Ceric ammonium nitrate test)</td><td>(II) Silver mirror appears</td></tr><tr><td>(C) Aldehyde group (Tollen's reagent)</td><td>(III) Violet colour appears</td></tr><tr><td>(D) Phenolic group ( $\mathrm{FeCl}_{3}$ test)</td><td>(IV) Discharge of pink colour</td></tr></table></div><br>Choose the correct answer from the options given below :
+Answer: ["C"]
+Options: [" A-III, B-IV, C-II, D-I"," A-III, B-IV, C-I, D-II"," A-IV, B-I, C-II, D-III"," A-IV, B-III, C-II, D-I"]
+Solution:  (A) - IV, (B)-I, (C)-II, (D)-III...
+
+
+--- INDEX 25 | JEE | ID: 6985ea53e2d73b78db39aa34 ---
+Chapter: Human Eye and Optical Instruments | Topic: Refracting telescope
+Question:  A collimated beam of light of diameter 2 mm is propagating along x -axis. The beam is required to be expanded in a collimated beam of diameter 14 mm using a system of two convex lenses. If first lens has focal length 40 mm , then the focal length of second lens is $\_\_\_\_$ mm.
+Answer: ["280"]
+Solution:   <img src="https://cmds-test.vedantu.com/prod/question-sets/0775e0f1-2329-4a48-8dc5-db86e2fa0de88547816002869611021.png"/><br/>$$<br/>\frac{40}{2}=\frac{f}{14}<br/>$$<br/>$\Rightarrow \mathrm{f}=280 \mathrm{~mm}$<br/>...
+
+
+--- INDEX 26 | JEE | ID: 6985ea53e2d73b78db39aa38 ---
+Chapter: Human Eye and Optical Instruments | Topic: Compound microscope
+Question:  In a microscope the objective is having focal length $f_{0}=2 \mathrm{~cm}$ and eye-piece is having focal length $f_{\mathrm{e}}=4 \mathrm{~cm}$. The tube length is 32 cm . The magnification produced by this microscope for normal adjustment is $\_\_\_\_$ .
+Answer: ["100"]
+Solution:  $\mathrm{m} \simeq \frac{\mathrm{lD}}{\mathrm{f}_{0} \mathrm{f}_{\mathrm{e}}}$<br>$$<br>=\frac{32}{2} \times \frac{25}{4}<br>$$<br>$\mathrm{m}=100$<br>Correct Answer : 100...
+
+
+--- INDEX 27 | JEE | ID: 69861828e2d73b78db3c1a54 ---
+Chapter: Ray Optics | Topic: Refraction at curved spherical surface
+Question:  A parallel beam of light travelling in air (refractive index 1.0) is incident on a convex spherical glass surface of radius of curvature 50 cm . Refractive index of glass is 1.5 . The rays converge to a point at a distance x cm from the centre of the curvature of the spherical surface. The value of x is $\_\_\_\_$ cm .
+Answer: ["100"]
+Solution:  <img  src="https://cmds-test.vedantu.com/prod/question-sets/2b850cff-76c1-4c5e-b919-b4660e3eaf046999969786403681090.png"/><br>$\frac{\mu_{2}}{\mathrm{v}}-\frac{\mu_{1}}{\mathrm{u}}=\frac{\mu_{2}-\mu_{1}}{\mathrm{R}} \Rightarrow \frac{1.5}{\mathrm{v}}-\frac{1}{\infty}=\frac{1.5-1}{50}$<br>$\mathrm{V...
+
+
+--- INDEX 28 | JEE | ID: 69861828e2d73b78db3c1a4b ---
+Chapter: Ray Optics | Topic: Combination of lenses
+Question:  A thin convex lens of focal length 5 cm and a thin concave lens of focal length 4 cm are combined together (without any gap) and this combination has magnification $\mathrm{m}_{1}$ when an object is placed 10 cm before the convex lens. Keeping the positions of convex lens and object undisturbed a gap of 1 cm is introduced between the lenses by moving the concave lens away, which lead to a change in magnification of total lens system to $\mathrm{m}_{2}$. The value of $\left|\frac{m_{1}}{m_{2}}\right|$ is $\_\_\_\_$ .
+Answer: ["A"]
+Options: ["$\\frac{5}{6}$","$\\frac{5}{27}$","$\\frac{3}{2}$","$\\frac{25}{27}$"]
+Solution:  $\frac{5}{6}$<br/><br/>...
+
+
+--- INDEX 29 | JEE | ID: 69861828e2d73b78db3c1a4c ---
+Chapter: Ray Optics | Topic: Condition of maximum deviation
+Question:  Consider an equilateral prism (refractive index $\sqrt{2}$ ). A ray of light is incident on its one surface at a certain angle $i$. If the emergent ray is found to graze along the other surface then the angle of refraction at the incident surface is close to $\_\_\_\_$ .
+Answer: ["A"]
+Options: [" $15^{\\circ}$"," $20^{\\circ}$"," $40^{\\circ}$"," $30^{\\circ}$"]
+Solution:  Equilateral prism.<br>$\mathrm{A}=60^{\circ}$<br><img  src="https://cmds-test.vedantu.com/prod/question-sets/41ee38f1-6e7a-44aa-bc64-15f0d2318f3f8765774304494588206.png"/><br>$\mu \operatorname{Sinr}_{2}=1 . \operatorname{sine}=1$<br>$\operatorname{Sinr}_{2}=\frac{1}{\mu}=\frac{1}{\sqrt{2}}$<br>$\m...
+
+
+--- INDEX 30 | JEE | ID: 6986e7bcef69840ff985d3a0 ---
+Chapter: Ray Optics | Topic: Introduction to refraction and snell’s law
+Question:  The wavelength of light, while it is passing through water is 540 nm . The refractive index of water is $\frac{4}{3}$. The wavelength of the same light when it is passing through a transparent medium having refractive index of $\frac{3}{2}$ is $\_\_\_\_$ nm .
+Answer: ["C"]
+Options: [" 380"," 840"," 480"," 540"]
+Solution:  $\left.\frac{\mu_{1}}{\mu_{2}}=\frac{\mathrm{v}_{2}}{\mathrm{v}_{1}}=\frac{\lambda_{2}}{\lambda_{1}} \right\rvert\, \mathrm{v}=\mathrm{f} \lambda$<br>$\frac{\mu_{1}}{\mu_{2}}=\frac{\lambda_{2}}{\lambda_{1}}$<br>$\frac{\mu_{\mathrm{B}}}{3 / 2}=\frac{\lambda}{540}$<br>$\lambda=\left(\frac{4 \times 2}...
+
+
+--- INDEX 31 | JEE | ID: 6986e7bcef69840ff985d39a ---
+Chapter: Ray Optics | Topic: Properties of images formed by a mirror
+Question:  In parallax method for the determination of focal length of a concave mirror, the object should always be placed :
+Answer: ["B"]
+Options: [" between the focus (F) and the centre of curvature (C) of the mirror ONLY"," at any point beyond the focus $(\\mathrm{F})$ of the mirror"," beyond the centre of the curvature ( C ) of the mirror ONLY"," between the pole ( P ) and the focus ( F ) of the concave mirror ONLY"]
+Solution:  Image should be real. So object should be placed beyond focus....
+
+
+--- INDEX 32 | JEE | ID: 698703794150221fe4dba5f4 ---
+Chapter: Ray Optics | Topic: Dispersion without deviation
+Question:  A thin prism with angle $5^{\circ}$ of refractive index 1.72 is combined with another prism of refractive index 1.9 to produce dispersion without deviation. The angle of second prism is $\_\_\_\_$ .
+Answer: ["C"]
+Options: [" $4.5^{\\circ}$"," $6^{\\circ}$"," $4^{\\circ}$"," $5^{\\circ}$"]
+Solution:  $\delta_{\text {net }}=0$<br>$\delta_{1}+\delta_{2}=0$<br>$\left(\mu_{1}-1\right) \mathrm{A}_{1}+\left(\mu_{2}-1\right) \mathrm{A}_{2}=0$<br>$\mathrm{A}_{2}=\frac{\left(\mu_{1}-1\right) \mathrm{A}_{1}}{\left(\mu_{2}-1\right)}$<br>$\mathrm{A}_{2}=\frac{(1.72-1)}{(1.9-1)} \times 5^{\circ}=4^{\circ}$...
+
+
+--- INDEX 33 | JEE | ID: 698703794150221fe4dba5fe ---
+Chapter: Ray Optics | Topic: Critical angle and tir
+Question:  Consider light travelling from a medium A to medium B separated by a plane interface. If the light undergoes total internal reflection during its travel from medium A to B and the speed of light in media $A$ and $B$ are $2.4 \times 10^{8} \mathrm{~m} / \mathrm{s}$ and $2.7 \times 10^{8} \mathrm{~m} / \mathrm{s}$ respectively, then the value of critical angle is :
+Answer: ["C"]
+Options: ["$\\cot ^{-1}\\left(\\frac{3}{\\sqrt{13}}\\right)$","$\\sin ^{-1}\\left(\\frac{9}{8}\\right)$","$\\tan ^{-1}\\left(\\frac{8}{\\sqrt{17}}\\right)$","$\\cos ^{-1}\\left(\\frac{8}{9}\\right)$"]
+Solution: <img src="https://cmds-test.vedantu.com/prod/questions/5dbcab74-7dab-4910-8818-ee6c3e122ceb"/><br/>$\mu_{\mathrm{A}} \sin \mathrm{c}=\mu_{\mathrm{B}} \sin 90$<br/>$\Rightarrow \sin \mathrm{c}=\frac{\mu_{\mathrm{B}}}{\mu_{\mathrm{A}}}=\frac{\mathrm{v}_{\mathrm{A}}}{\mathrm{v}_{\mathrm{B}}}$<br/>$\the...
+
+
+--- INDEX 34 | JEE | ID: 698af26899957b139d238693 ---
+Chapter: Ray Optics | Topic: Condition of minimum deviation
+Question:  For a transparent prism, if the angle of minimum deviation is equal to its refracting angle, the refractive index $n$ of the prism satisfies.
+Answer: ["B"]
+Options: [" $\\sqrt{2}<\\mathrm{n}<2 \\sqrt{2}$"," $1<$ n $<2$"," $n \\geq 2$"," $\\sqrt{2}<\\mathrm{n}<2$"]
+Solution:  $\delta_{\text {min }}=2 \mathrm{i}-\mathrm{A} \Rightarrow \mathrm{i}=\delta_{\text {min }}=\mathrm{A}$<br>Also, $\mu=\frac{\sin \left(\frac{\delta_{\text {min }}+\mathrm{A}}{2}\right)}{\sin \left(\frac{\mathrm{A}}{2}\right)}$<br>$\Rightarrow \mu=\frac{\sin \mathrm{A}}{\sin \frac{\mathrm{A}}{2}}=2 ...
+
+
+--- INDEX 35 | JEE | ID: 698af26899957b139d238684 ---
+Chapter: Ray Optics | Topic: Combination of lenses
+Question:  A biconvex lens is formed by using two thin planoconvex lenses, as shown in the figure. The refractive index and radius of curved surfaces are also mentioned in figure. When an object is placed on the left side of lens at a distance of 30 cm from the biconvex lens, the magnification of the image will be :<br><b></b><img  src="https://cmds-test.vedantu.com/prod/question-sets/693c159b-6b42-4a5d-b0d6-d5f70e6deb515563596980163467439.png"/>
+Answer: ["A"]
+Options: [" -2"," +2"," +2.5"," -2.5"]
+Solution:  $\frac{1}{\mathrm{v}}-\frac{1}{\mathrm{u}}=\frac{1}{\mathrm{f}_{\mathrm{net}}}=\frac{1}{\mathrm{f}_{1}}+\frac{1}{\mathrm{f}_{2}}$<br>$\frac{1}{\mathrm{v}}+\frac{1}{30}=(1.5-1)\left(\frac{1}{15}-\frac{1}{\infty}\right)+(1.2-1)\left(\frac{1}{\infty}+\frac{1}{12}\right)$<br>$\frac{1}{\mathrm{v}}+\frac...
+
+
+--- INDEX 36 | JEE | ID: 698ac7bb70d45239d5d0d54a ---
+Chapter: Human Eye and Optical Instruments | Topic: Compound microscope
+Question:  In a microscope of tube length 10 cm two convex lenses are arranged with focal length of 2 cm and 5 cm . Total magnification obtained with this system for normal adjustment is $(5)^{\mathrm{k}}$. The value of k is $\_\_\_\_$
+Answer: ["A"]
+Options: [" 2"," 5"," 3.5"," 4"]
+Solution:  $\mathrm{f}_{0}=2 \mathrm{~cm}, \mathrm{fe}=5 \mathrm{~cm}$<br>$\ell=10 \mathrm{~cm}, \mathrm{D}=25 \mathrm{~cm}$<br>$\mathrm{M}=\frac{\ell}{\mathrm{f}_{0}} \cdot \frac{\mathrm{D}}{\mathrm{f}_{\mathrm{e}}}=25$...
+
+
+--- INDEX 37 | JEE | ID: 698ac7bb70d45239d5d0d548 ---
+Chapter: Ray Optics | Topic: Condition of minimum deviation
+Question:  The exit surface of a prism with refractive index $n$ is coated with a material having refractive index $\frac{\mathrm{n}}{2}$. When this prism is set for minimum angle of deviation it exactly meets the condition of critical angle. The prism angle is
+Answer: ["A"]
+Options: ["$60^{\\circ}$","$15^{\\circ}$","$30^{\\circ}$","$45^{\\circ}$"]
+Solution:  $\quad i=e \&amp; r=A / 2$ for minimum deviation<br/><img src="https://cmds-test.vedantu.com/prod/questions/34b74b93-ebcb-4c93-a57c-48287f493e6c"/><br/>For TIR ; $r=\theta_{\text {c }}$<br/><img src="https://cmds-test.vedantu.com/prod/questions/1d5cad28-8d9d-48f4-b07a-0bd3c6e95c33"/><br/>$\operator...
+
+
+--- INDEX 38 | JEE | ID: 698acd8f70d45239d5d104b9 ---
+Chapter: Ray Optics | Topic: Mirror formula
+Question:  Distance between an object and three times magnified real image is 40 cm . The focal length of the mirror used is $\_\_\_\_$ cm.
+Answer: ["D"]
+Options: [" $-15 / 2$"," -10"," -20"," -15"]
+Solution:  $\mathrm{m}=-3=\frac{\mathrm{v}}{\mathrm{u}}$<br>$\mathrm{v}=-3 \mathrm{u}$<br>$|\mathrm{v}|-|\mathrm{u}|=40$<br>$\mathrm{u}=20 \mathrm{~cm}$<br>$\mathrm{v}=60 \mathrm{~cm}$<br>$\therefore \frac{1}{\mathrm{v}}+\frac{1}{\mathrm{u}}=\frac{1}{\mathrm{f}}$<br>$\frac{1}{-60}+\frac{1}{-20}=\frac{1}{\math...
+
+
+--- INDEX 39 | JEE | ID: 698acd8f70d45239d5d104a8 ---
+Chapter: Ray Optics | Topic: Lens formula
+Question:  Five persons $\mathrm{P}_{1}, \mathrm{P}_{2}, \mathrm{P}_{3}, \mathrm{P}_{4}$ and $\mathrm{P}_{5}$ recorded object distance (u) and image distance (v) using same convex lens having power +5 D as $(25,96),(30,62)$, $(35,37),(45,35)$ and $(50,32)$ respectively. Identify correct statement
+Answer: ["B"]
+Options: ["Readings recorded by all persons are correct","Reading recorded by $P_{3}$ persons are incorrect","Reading recorded by $\\mathrm{P}_{3}$ and $\\mathrm{P}_{2}$ persons are incorrect","Reading recorded by $\\mathrm{P}_{4}$ and $\\mathrm{P}_{5}$ persons are incorrect"]
+Solution:  $\mathrm{P}=+5 \mathrm{D}$<br/>$$<br/>\frac{1}{\mathrm{f}}=5 \Rightarrow \mathrm{f}=20 \mathrm{~cm}<br/>$$<br/>⇒ If object is between f &amp; 2f image will be beyond 2f &amp; magnified.<br/>⇒ If object is beyond 2f, image will be between f &amp; 2f &amp; diminished.<br/>Hence reading of $\mathrm{P}...
+
+
+--- INDEX 40 | JEE | ID: 698ad979dd5cc74a05b08354 ---
+Chapter: Ray Optics | Topic: Lens maker formula
+Question:  A convex lens of refractive index 1.5 and focal length $f=18 \mathrm{~cm}$ is immersed in water. The difference in focal lengths of the given lens when it is in water and in air is $\alpha \times \mathrm{f}$. The value of $\alpha$ is<br>$\_\_\_\_$ .<br>(refractive index of water = 4/3)
+Answer: ["3"]
+Solution:  $\frac{1}{\mathrm{f}_{\text {Air }}}=\left(\frac{1.5-1}{1}\right)\left(\frac{1}{\mathrm{R}_{1}}+\frac{1}{\mathrm{R}_{2}}\right)$<br>$\frac{1}{\mathrm{f}_{\text {water }}}=\left(\frac{1.5-4 / 3}{4 / 3}\right)\left(\frac{1}{\mathrm{R}_{1}}+\frac{1}{\mathrm{R}_{2}}\right)$<br>$\Rightarrow \frac{\mathr...
+
+
+--- INDEX 41 | JEE | ID: 698ad979dd5cc74a05b08347 ---
+Chapter: Ray Optics | Topic: Lens maker formula
+Question:  The magnitudes of power of a biconvex lens (refractive index 1.5) and that of a plano-concave lens (refractive index $=1.7$ ) are same. If the curvature of plano-concave lens exactly matches with the curvature of back surface of the biconvex lens, then ratio of radius of curvature of front and back surface of the biconvex lens is $\_\_\_\_$。
+Answer: ["A"]
+Options: [" $5: 2$"," $5: 12$"," $12: 5$"," $2: 5$"]
+Solution:  <img  src="https://cmds-test.vedantu.com/prod/question-sets/a0932386-23dc-474c-bfd8-b4fa8ccabd013159354810098446301.png"/><br>$\left|\mathrm{P}_{\mathrm{A}}\right|=\left|\mathrm{P}_{\mathrm{B}}\right|$<br>$0.5\left(\frac{1}{\mathrm{R}_{1}}+\frac{1}{\mathrm{R}_{2}}\right)=\frac{0.7}{\mathrm{R}_{2}}$...
+
+
+--- INDEX 42 | JEE | ID: 69e727f3c24bb510a84d7692 ---
+Chapter: Ray Optics | Topic: Deviation due to thin prism
+Question:  </b>For a thin symmetric prism made of glass (refractive index 1.5), the ratio of incident angle and minimum deviation will be $\_\_\_\_$ . 
+Answer: ["B"]
+Options: [" 3 : 4"," 3 : 2"," 2 : 1"," 1 : 2"]
+Solution: We have for thin prism minimum deviation : $\delta_{\mathrm{m}}=(\mu-1) \mathrm{A}$<br>$\Rightarrow \delta_{\mathrm{m}}=(1.5-1) \mathrm{A} \quad \Rightarrow \delta_{\mathrm{m}}=\frac{\mathrm{A}}{2}$<br>Also, $i=\frac{A+\delta_{m}}{2} \Rightarrow i=\frac{A+\frac{A}{2}}{2} \Rightarrow i=\frac{3 A}{4}$...
+
+
+--- INDEX 43 | JEE | ID: 69e727f3c24bb510a84d7693 ---
+Chapter: Ray Optics | Topic: Refraction at curved spherical surface
+Question:  </b>Refer the figure given below. $\mu_{1}$ and $\mu_{2}$ are refractive indices of air and lens material. The height of image will be $\_\_\_\_$ cm.<br><img  src="https://cmds-test.vedantu.com/prod/question-sets/8b531949-dfd2-4e63-bc35-deb1fb308f1e4080576442128642388.png"/> 
+Answer: ["A"]
+Options: [" 1"," 0.5"," 1.2"," 0.25"]
+Solution: $\frac{\mu_{2}}{\mathrm{v}}-\frac{\mu_{1}}{\mu}=\frac{\mu_{2}-\mu_{1}}{\mathrm{R}}$<br>$\frac{1.54}{\mathrm{v}}-\frac{1}{(-40)}=\frac{1.54-1}{-20}$<br>$\frac{1.54}{\mathrm{v}}=-\frac{1}{40}-\frac{0.54}{20}$<br>$\frac{1.54}{\mathrm{v}}=\frac{-2.08}{40}$<br>$\mathrm{v}=-29.61 \mathrm{~cm}$<br>$\frac{\...
+
+
+--- INDEX 44 | JEE | ID: 69e749ef0ce8de251fb33482 ---
+Chapter: Ray Optics | Topic: Lens maker formula
+Question:  </b>If sunlight is focused on a paper using convex lens, it starts burning the paper in shortest time when the lens is kept at 30 cm above the paper. If the radius of curvature of the lens is 60 cm then the refractive index of the lens material is $\frac{\alpha}{10}$. The value of $\alpha$ is $\_\_\_\_$。 
+Answer: ["20"]
+Solution: To burn in minimum time distance of paper must be at focus.<br>So $\mathrm{f}=30 \mathrm{~cm}$<br>$\frac{1}{30}=(\mu-1)\left(\frac{1}{60}-\frac{1}{-60}\right)$<br>$\frac{1}{30}=\frac{\mu-1}{30}$<br>$\mu=2$<br>$\alpha=20$<br>...
+
+
+--- INDEX 45 | JEE | ID: 69e749ef0ce8de251fb3347a ---
+Chapter: Ray Optics | Topic: Critical angle and tir
+Question:  </b>One side of an equilateral prism is painted by a transparent material of refractive index $\mathrm{n}_{2}$. The refractive index of prism is 1.6 . The minimum value of $\mathrm{n}_{2}$ required for total internal reflection from painted face is $\_\_\_\_$ .<br><img  src="https://cmds-test.vedantu.com/prod/question-sets/bbd0d137-1665-43b2-9c80-d2b4d200dba64728032937655898203.png"/> 
+Answer: ["D"]
+Options: [" $\\frac{3 \\sqrt{3}}{1.6}$"," $\\sqrt{3}$"," $\\frac{3.2}{\\sqrt{3}}$"," $\\frac{4 \\sqrt{3}}{5}$"]
+Solution: <img  src="https://cmds-test.vedantu.com/prod/question-sets/c80db98f-b1d8-45d0-a2b7-13b271b095cc4877745937071184817.png"/><br>For surface QR<br>$\mathrm{i}=60^{\circ}$<br>$1.6 \sin 60^{\circ}=\mu \sin 90^{\circ}$<br>$\mu=1.6 \times \frac{\sqrt{3}}{2}=\frac{4}{5} \times \sqrt{3}$<br>...
+
+
+--- INDEX 46 | JEE | ID: 69e9ff5565391f7ad8adfb5c ---
+Chapter: Ray Optics | Topic: Longitudinal magnification
+Question:  </b>A rod of length 10 cm lies along the principle axis of a concave mirror of focal length 10 cm as shown in figure. The length of the image is $\_\_\_\_$ cm.<br><img  src="https://cmds-test.vedantu.com/prod/question-sets/a4a4b90c-8469-4744-b6c2-db23ae2a19bf8868637708334386433.png"/> 
+Answer: ["B"]
+Options: [" 2.5"," 5"," 7.5"," 7"]
+Solution: For A $\mathrm{u}=-20 \mathrm{~cm}, \mathrm{f}=-10 \mathrm{~cm}$<br>$$<br>\frac{1}{v}+\frac{1}{u}=\frac{1}{f} \quad \therefore v=\frac{u \times f}{u-f}=-20 \mathrm{~cm}<br>$$<br>For B $\quad \mathrm{u}=-30 \mathrm{~cm}, \mathrm{f}=-10 \mathrm{~cm}$<br>$$<br>\begin{aligned}<br>& \frac{1}{v}+\frac{1}{...
+
+
+--- INDEX 47 | JEE | ID: 69ea0218bb93b07c7be51fd4 ---
+Chapter: Ray Optics | Topic: Lens maker formula
+Question:  A convex lens is made from glass material having refractive index of 1.4 with same radius of curvature on both sides. The ratio of its focal length and radius of curvature is ______
+Answer: ["D"]
+Options: ["0.5","2.5","0.8","1.25"]
+Solution: $\frac{1}{\mathrm{f}}=(1.4-1)\left(\frac{1}{\mathrm{R}}-\frac{1}{-\mathrm{R}}\right)$<br>$\frac{1}{\mathrm{f}}=\frac{0.8}{\mathrm{R}}$<br>$\frac{\mathrm{f}}{\mathrm{R}}=1.25$<br>...
+
+
+--- INDEX 48 | JEE | ID: 69ea178ca2e64d2f57f471ad ---
+Chapter: Straight lines & pair of st. lines | Topic: Some formulae of a point and line
+Question:  From the point $(-1,-1)$, two rays are sent making angles of $45^{\circ}$ with the line $\mathrm{x}+\mathrm{y}=0$. These rays get reflected from the mirror $x+2 y=1$. If the equations of the reflected rays are $a x+b y=9$ and $\mathrm{cx}+\mathrm{dy}=7, \mathrm{a}, \mathrm{b}, \mathrm{c}, \mathrm{d} \in \mathrm{Z}$, then the value of $\mathrm{ad}+\mathrm{bc}$ is $\_\_\_\_$
+Answer: ["7"]
+Solution:  $\tan 45^{\circ}=\left|\frac{\mathrm{m}+1}{1-\mathrm{m}}\right|$<br/>$\Rightarrow \pm 1=\frac{\mathrm{m}+1}{1-\mathrm{m}}$<br/>$\Rightarrow \mathrm{m}=0$ &amp; one line is perpendicular to x axis.<br/>$\mathrm{L}_{1}: \mathrm{x}=-1, \mathrm{~L}_{2}: \mathrm{y}=-1$<br/>Now taking mirror image of $x+...
+
+
+--- INDEX 49 | JEE | ID: 69ea232f33417775c781872d ---
+Chapter: Wave Optics | Topic: Diffraction
+Question:  Some distance star is to be observed by some telescope of diameter of objective lens a , at an angular resolution of $3.0 \times 10^{-7}$ radian. If the wavelength of light from the star reaching the telescope is 500 nm , the minimum diameter of the objective lens of the telescope is $\_\_\_\_$ cm. (Nearest integer)
+Answer: ["203"]
+Solution:  $\theta=\frac{1.22 \lambda}{b}$<br>$3 \times 10^{-7}=\frac{1.22 \times 5 \times 10^{-7}}{\mathrm{~b}} \Rightarrow \mathrm{~b}=203.33 \mathrm{~cm}$...
+
+
+--- INDEX 50 | JEE | ID: 69ea232f33417775c781871c ---
+Chapter: Ray Optics | Topic: Silvering of lens
+Question:  A thin biconvex lens is prepared from the glass ( $\mu=1.5$ ) both curved surfaces of which have equal radii of 20 cm each. Left side surface of the lens is silvered from outside to make it reflecting. To have the position of image and object at the same place, the object should be placed, from the lens at a distance of $\_\_\_\_$ cm.
+Answer: ["A"]
+Options: [" 10"," 12.5"," 13"," 13.5"]
+Solution:  Combination of lens + mirror<br>$\mathrm{f}_{\mathrm{m}}=\frac{\mathrm{R}}{2}=-10 \mathrm{~cm} ; \mathrm{f}_{\mathrm{L}}=\frac{\mathrm{R}}{2(\mu-1)}=20 \mathrm{~cm}$<br>$\frac{1}{\mathrm{f}}=\frac{1}{\mathrm{f}_{\mathrm{m}}}-\frac{2}{\mathrm{f}_{\mathrm{L}}}$<br>$\frac{1}{\mathrm{f}}=\frac{-1}{10}-...
+
+
+--- INDEX 51 | JEE | ID: 69ea232f33417775c7818728 ---
+Chapter: Ray Optics | Topic: Refraction at plane surface
+Question:  Light ray incident along a vector $\overrightarrow{\mathrm{AO}}(\overrightarrow{\mathrm{AO}}=2 \hat{\mathrm{i}}-3 \hat{\mathrm{j}})$ emerges out along vector $\overrightarrow{\mathrm{OB}}(\overrightarrow{\mathrm{OB}}=\mathrm{C} \hat{\mathrm{i}}-4 \hat{\mathrm{j}})$ as shown in the figure below. The value of C is $\_\_\_\_$ .<br><b></b><img  src="https://cmds-test.vedantu.com/prod/question-sets/061adb40-305b-4e42-91fb-ac93446671be4191775488712517258.png"/>
+Answer: ["A"]
+Options: [" 1.6"," 0.16"," 11.6"," 16"]
+Solution:  $1(\mathrm{AO} \times \hat{\mathrm{j}}) \Rightarrow(\mathrm{OB} \times \hat{\mathrm{j}}) \times 1.5$<br>$\frac{2 \hat{\mathrm{k}}}{\sqrt{13}}=\frac{3}{2}\left[\frac{\mathrm{C} \hat{\mathrm{k}}}{\sqrt{\mathrm{C}^{2}+16}}\right]$<br>$\therefore \frac{4}{13}=\frac{9 \mathrm{C}^{2}}{4\left(\mathrm{C}^{...
+
+
+--- INDEX 52 | JEE | ID: 69eb3b505e935110ee495435 ---
+Chapter: Ray Optics | Topic: Condition of minimum deviation
+Question:  </b>A ray of light passing through an equilateral prism is having velocity $2.12 \times 10^{8} \mathrm{~m} / \mathrm{s}$ in the prism material, then the minimum angle of deviation is<br>$\_\_\_\_$ degrees. 
+Answer: ["B"]
+Options: [" 45"," 30"," 28"," 58"]
+Solution: $\mu=\frac{\sin \left[\frac{\delta_{\text {min }}+\mathrm{A}}{2}\right]}{\sin \frac{\mathrm{A}}{2}}$<br>$\mu=\frac{\mathrm{C}}{\mathrm{V}}=\frac{3 \times 10^{8}}{2.12 \times 10^{8}}=\sqrt{2}$<br>$\sqrt{2}=\frac{\sin \left[\frac{\delta_{\text {min }}+60^{\circ}}{2}\right]}{\sin 30^{\circ}}$<br>$\sin ...
+
+
+--- INDEX 53 | JEE | ID: 69eb3b505e935110ee495437 ---
+Chapter: Human Eye and Optical Instruments | Topic: Compound microscope
+Question:  </b>A compound microscope is designed with two symmetric biconvex lenses. The objective lens is cut vertically, creating two identical plano-convex lenses. One of them is used in place of original objective lens. To retain same magnification keeping the object distance unchanged, the tube length has to be :- 
+Answer: ["A"]
+Options: [" increased two times"," increased $\\frac{3}{2}$ times"," decreased two times"," decreased $\\frac{3}{2}$ times"]
+Solution: $\mathrm{M}=\frac{\mathrm{L}}{\mathrm{F}_{0}} \frac{\mathrm{D}}{\mathrm{F}_{\mathrm{e}}}$<br>$\frac{1}{\mathrm{~F}_{0}}=(\mathrm{n}-1)\left(\frac{2}{\mathrm{R}}\right)$<br>But when cut<br>$\frac{1}{\mathrm{~F}_{0}^{1}}=(\mathrm{n}-1)\left(\frac{1}{\mathrm{R}}\right)=\frac{1}{2 \mathrm{~F}_{0}}$<br>S...
+
+
+--- INDEX 54 | JEE | ID: 69eb3fc35e935110ee499753 ---
+Chapter: Ray Optics | Topic: Combination of lenses
+Question:  </b>An object AB is placed 15 cm on the left of a convex lens P of focal length 10 cm . Another convex lens Q is now placed 15 cm right of lens P . If the focal length of lens Q is 15 cm , the final image is $\_\_\_\_$ 
+Answer: ["B"]
+Options: ["virtual, formed at 7.5 cm right of lens Q , with a size bigger than that of AB","real, formed at 7.5 cm right of lens Q , with a size same than that of AB","formed at infinity.","real, formed at 7 cm right of lens Q , with a size smaller than that of AB"]
+Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/3a10cb70-1a64-48ca-bb52-e04164a484636112596513270576046.png"/><br/>for $\mathrm{P};  \frac{1}{\mathrm{~V}}-\frac{1}{-15}=\frac{1}{10}$<br/>$\therefore \mathrm{v}=+30 \mathrm{~cm}=+15 \mathrm{~cm}$ right of Q .<br/>for $\mathrm{Q}; \frac{1}{\...
+
+
+--- INDEX 55 | JEE | ID: 69eb3fc35e935110ee499752 ---
+Chapter: Ray Optics | Topic: Combination of lenses
+Question:  </b>A thin convex lens and a thin concave lens are kept in contact and are co-axial. Which of the following statements is correct for this combination of two lenses? 
+Answer: ["A"]
+Options: [" behaves as concave lens if $\\left|f_{\\text {convex }}\\right|>\\left|f_{\\text {concave }}\\right|$"," behaves as concave lens if $\\left|f_{\\text {convex }}\\right|<\\left|f_{\\text {concave }}\\right|$"," behaves as convex lens if $\\left|f_{\\text {convex }}\\right|>\\left|f_{\\text {concave }}\\right|$"," Focal length of the lens system will change if the position of two lenses are interchanged"]
+Solution: $\quad 1 \rightarrow$ convex lens<br>$2 \rightarrow$ concave lens<br>$\frac{1}{\mathrm{f}}=\frac{1}{\mathrm{f}_{1}}+\frac{1}{-\mathrm{f}_{2}}: \frac{1}{\mathrm{f}_{1}}-\frac{1}{\mathrm{f}_{2}}$<br>for $\mathrm{f}_{1}>\mathrm{f}_{2} \therefore \mathrm{f}<0$<br>∴ concave lens.<br>...
+
+
+--- INDEX 56 | JEE | ID: 69eb45e21e41947d21de6b3c ---
+Chapter: Ray Optics | Topic: Condition of minimum deviation
+Question:  Angle of minimum deviation is equal to the half of the angle of prism is an equilateral prism. The refreactive index of the prism is $\_\_\_\_$ .
+Answer: ["C"]
+Options: [" 1.5"," $\\sqrt{3}$"," $\\sqrt{2}$"," 1.65"]
+Solution:  $\mu_{p}=\mu_{s} \frac{\sin \left(\frac{A+\delta_{\text {min }}}{2}\right)}{\sin \left(\frac{A}{2}\right)}=\frac{\sin \frac{3 A}{4}}{\sin \frac{A}{2}}$<br>$\mu_{\mathrm{p}}=\frac{\frac{1}{\sqrt{2}}}{\frac{1}{2}}=\sqrt{2}=\sqrt{2}$...
+
+
+--- INDEX 57 | JEE | ID: 69eb45e21e41947d21de6b44 ---
+Chapter: Ray Optics | Topic: Lateral magnification
+Question:  A concave mirror of focal length 10 cm froms an image which is double the size of object when the object is placed at two different positions. The distance between the two positions of the object is $\_\_\_\_$ cm.
+Answer: ["10"]
+Solution:  Case I $\mathrm{v}=2 \mathrm{u}$<br>$\frac{1}{\mathrm{v}}+\frac{1}{\mathrm{u}}=\frac{1}{\mathrm{f}}$<br>$\frac{1}{-2 \mathrm{u}}+\frac{1}{-\mathrm{u}}=\frac{1}{-\mathrm{f}}$<br>$\frac{3}{2 \mathrm{u}}=\frac{1}{\mathrm{f}}$<br>$\mathrm{u}_{1}=\frac{3 \mathrm{f}}{2}$<br>Case $2 \mathrm{v}=-2 \mathrm{...
+
+
+--- INDEX 58 | JEE | ID: 69ec9dc50e160736ec1b9781 ---
+Chapter: Ray Optics | Topic: Refraction at curved spherical surface
+Question:  A spherical interface lens of radius R separates two media of refractive indices 1 and 1.4 respectively as shown in the figure below. A point source is placed at a distance of 4 R in front of spherical interface. The magnitude of the magnification of point source image is $\_\_\_\_$ .<br><img  src="https://cmds-test.vedantu.com/prod/question-sets/6d85625b-d943-45c8-a1f1-adbb42c53dee8207756649144098544.png"/>
+Answer: ["A"]
+Options: [" 1.66"," 2.33"," 2.66"," 1.33"]
+Solution:  $\mathrm{m}=\frac{\mathrm{n}_{1}}{\mathrm{n}_{2}} \frac{\mathrm{v}}{\mathrm{u}}$<br>$\frac{\mathrm{n}_{2}}{\mathrm{v}}-\frac{\mathrm{n}_{1}}{\mathrm{u}}=\frac{\mathrm{n}_{2}-\mathrm{n}_{1}}{\mathrm{R}}$<br>$\frac{1.4}{\mathrm{v}}+\frac{1}{4 \mathrm{R}}=\frac{1.4-1}{\mathrm{R}}$<br>$\frac{1.4}{v}=\f...
+
+
+--- INDEX 59 | JEE | ID: 67ab155681f12750ffd1e202 ---
+Chapter: Ray Optics | Topic: Silvering of lens
+Question:  A thin plano convex lens made of glass of refractive index 1.5 is immersed in a liquid of refractive index 1.2. When the plane side of the lens is silver coated for complete reflection, the lens immersed in the liquid behaves like a concave mirror of focal length 0.2 m. The radius of curvature of the curved surface of the lens is :-
+Answer: ["B"]
+Options: ["0.15 m","0.10 m","0.20 m","0.25 m"]
+Solution:  <img  src="https://www.vedantu.com/question-sets/806582d9-7748-4dc7-aacd-ac5960e4c4c43825263632238541882.png"/><br>\[\frac{{1.5}}{v} = \frac{{1.5 - 1.2}}{R}\]<br>\[v = \frac{{1.5R}}{{0.3}} = 5R\]<br>\[\frac{{1.2}}{f} = \frac{{0.3}}{R}\, \times 2 \Rightarrow f = 2R \Rightarrow R = 0.1\]...
+
+
+--- INDEX 60 | JEE | ID: 67ab8ebaa8352a1535532e9c ---
+Chapter: Ray Optics | Topic: Refraction at curved spherical surface
+Question:  <img  src="https://cmds-test.vedantu.com/prod/question-sets/d86b8d16-3c41-4613-b05a-177d8a92b0703275210746205903531.png"/><br><br>Two concave refracting surfaces of equal radii of curvature and refractive index 1.5 face each other in air as shown in figure. A point object O is placed midway, between P and B. The separation between the images of O, formed by each refracting surface is :
+Answer: ["B"]
+Options: [" 0.214R"," 0.114R"," 0.411R"," 0.124R"]
+Solution:  For B<br>\[\frac{{{\mu _2}}}{v} - \frac{{{\mu _1}}}{u} = \frac{{{\mu _2} - {\mu _1}}}{R}\]<br>\[\frac{{1.5}}{V} + \frac{1}{R} = \frac{{0.5}}{{ - R}}\]<br>\[\frac{{1.5}}{V} =  - \frac{1}{{2R}} - \frac{2}{R}\]<br>\[\frac{{1.5}}{V} = \frac{{ - 5}}{{2R}} \Rightarrow {V_B} =  - 0.6R\]<br>For A<br>\[\fra...
+
+
+--- INDEX 61 | JEE | ID: 67aae0743585e13b1a4754c0 ---
+Chapter: Ray Optics | Topic: Silvering of lens
+Question:  Given is a thin convex lens of glass (refractive index μ) and each side having radius of curvature R. One side is polished for complete reflection. At what distance from the lens, an object be placed on the optic axis so that the image gets formed on the object itself.
+Answer: ["D"]
+Options: [" \\[R/\\mu \\]"," \\[R/\\left( {2\\mu  - 3} \\right)\\]"," \\[\\mu R\\]"," \\[R/\\left( {2\\mu  - 1} \\right)\\]"]
+Solution:  \[{P_{eq}} = 2{P_\ell } + {P_m}\]<br>\[ - \frac{1}{{{f_Q}}} = \frac{2}{{{f_\ell }}} - \frac{1}{{{f_m}}}\]<br>\[ = \frac{{4(\mu  - 1)}}{R} - \frac{2}{{ - R}} = \frac{1}{R}(4\mu  - 4 + 2)\]<br>\[ - \frac{1}{{{f_{eq}}}} = \frac{1}{R}(4\mu  - 2)\]<br>\[ \Rightarrow \frac{1}{{{f_{eq}}}} = \frac{{ - 1}}{...
+
+
+--- INDEX 62 | JEE | ID: 67ab155681f12750ffd1e1f8 ---
+Chapter: Ray Optics | Topic: Power of a lens
+Question:  What is the relative decrease in focal length of a lens for an increase in optical power by 0.1 D from 2.5 D? [‘D’ stands for dioptre]
+Answer: ["A"]
+Options: ["0.04","0.40","0.2","0.01"]
+Solution:  When P =2.5 D<br>\[F = \frac{1}{P} = \frac{1}{{2.5}}\]<br>When P’ =2.6 D<br>\[F' = \frac{1}{{P'}} = \frac{1}{{2.6}}\]<br>Relative decrease in focal length<br>\[\frac{{F - F'}}{F} = \frac{{\frac{2}{5} - \frac{5}{{13}}}}{{\frac{2}{5}}} = 1 - \frac{{25}}{{26}} = \frac{1}{{26}} = 0.04\]...
+
+
+--- INDEX 63 | JEE | ID: 67aae0743585e13b1a4754b4 ---
+Chapter: Ray Optics | Topic: Combination of lenses
+Question:  In the diagram given below, there are three lenses formed. Considering negligible thickness of each of them as compared to [R<sub>1</sub>] and [R<sub>2</sub>], i.e., the radii of curvature for upper and lower surfaces of the glass lens, the power of the combination is<br/><img src="https://cmds-test.vedantu.com/prod/questions/1065f4a4-82e7-4e98-abfe-fa965558a994" style="width: 50%;"/>
+Answer: ["B"]
+Options: ["\\[ - \\frac{1}{6}\\left( {\\frac{1}{{|{R_1}|}} + \\frac{1}{{|{R_2}|}}} \\right)\\]","\\[ - \\frac{1}{6}\\left( {\\frac{1}{{|{R_1}|}} - \\frac{1}{{|{R_2}|}}} \\right)\\]","\\[\\frac{1}{6}\\left( {\\frac{1}{{|{R_1}|}} + \\frac{1}{{|{R_2}|}}} \\right)\\]","\\[\\frac{1}{6}\\left( {\\frac{1}{{|{R_1}|}} - \\frac{1}{{|{R_2}|}}} \\right)\\]"]
+Solution:  <img src="https://www.vedantu.com/question-sets/0674b35a-7f47-4cf9-acaf-a739279eb89d3324010448792735758.png"/><br/>\[ \Rightarrow {p_{eq}} = {p_1} + {p_2} + {p_3}\]<br/>\[ \Rightarrow {p_1} = \left( {\frac{4}{3} - 1} \right)\left( {\frac{1}{\infty } - \frac{1}{{ - |{R_1}|}}} \right)\]<br/>\[ \Right...
+
+
+--- INDEX 64 | JEE | ID: 67ab8ebaa8352a1535532e9a ---
+Chapter: Ray Optics | Topic: Cutting of lens
+Question:  Two identical symmetric double convex lenses of focal length <i>f</i> are cut into two equal parts L<sub>1</sub>, L<sub>2</sub> by AB plane and L<sub>3</sub>, L<sub>4</sub> by XY plane as shown in figure respectively. The ratio of focal lengths of lenses L<sub>1</sub> and L<sub>3</sub> is<br><img  src="https://cmds-test.vedantu.com/prod/question-sets/6b163bc4-1326-4f77-9fbf-82d41c0c2ae56661414513809374619.png"/>
+Answer: ["D"]
+Options: [" 1 : 4"," 1 : 1"," 2 : 1"," 1 : 2"]
+Solution:  \[{f_{{L_1}}} = {f_{{L_2}}} = f\]<br>\[{f_{{L_3}}} = {f_{{L_4}}} = 2f\]<br>\[\therefore {f_{{L_1}}}:{f_{{L_3}}} = 1:2\]<br>...
+
+
+--- INDEX 65 | JEE | ID: 67ab17a481f12750ffd1ee83 ---
+Chapter: Ray Optics | Topic: Lens formula
+Question:  A photograph of a landscape is captured by a drone camera at a height of 18 km. The size of the camera film is 2 cm × 2 cm and the area of the landscape photographed is 400 km<sup>2</sup>. The focal length of the lens in the drone camera is:
+Answer: ["A"]
+Options: [" 1.8 cm"," 2.8 cm"," 2.5 cm"," 0.9 cm"]
+Solution:  (2 × 2) ×10<sup>–4</sup> m<sup>2</sup><br><img  src="https://cmds-test.vedantu.com/prod/question-sets/5e32c132-2c09-4941-9439-493adf5da9068226133774381250627.png"/><br>400 × 10<sup>6</sup> m<sup>2</sup><br>H = 18 km<br>Size of camera film = 2cm × 2cm<br>A<sub>image</sub> = 400 km<sup>2</sup><br>x =...
+
+
+--- INDEX 66 | JEE | ID: 67ae2bf33585e13b1a5b7243 ---
+Chapter: Parabola | Topic: Standard equation of Parabola
+Question:  Let A and B be the two points of intersection of the line y + 5 = 0 and the mirror image of the parabola y<sup>2</sup> = 4x with respect to the line x + y + 4 = 0. If d denotes the distance between A and B, and a denotes the area of \[\Delta \]SAB, where S is the focus of the parabola $y^2=4x$, then the value of (a + d) is ____.
+Answer: ["14.00"]
+Solution:  <img  src="https://www.vedantu.com/question-sets/47cfa7eb-e50c-4ccd-b035-b4a2f48027a15050623065050328433.png"/><br>Area = \[\frac{1}{2} \times 4 \times 5 = 10 = a\]<br>6 = 4<br>So a + d = 14<br>...
+
+
+--- INDEX 67 | JEE | ID: 67ab155681f12750ffd1e205 ---
+Chapter: Ray Optics | Topic: Lens maker formula
+Question:  A plano-convex lens having radius of curvature of first surface 2 cm exhibits focal length of f<sub>1</sub> in air Another plano-convex lens with first surface radius of curvature 3 cm has focal length of f<sub>2</sub> when it is immersed in a liquid of refractive index 1.2. If both the lenses are made of same glass of refractive index 1.5, the ratio of f<sub>1</sub> and f<sub>2</sub> will be :-
+Answer: ["B"]
+Options: [" 3 : 5 "," 1 : 3"," 1 : 2 "," 2 : 3"]
+Solution:  \[\frac{1}{{{f_1}}} = \left( {1.5 - 1} \right)\left[ {\frac{1}{2} - 0} \right] \Rightarrow {f_1} = 4\,cm\]<br>\[\frac{1}{{{f_2}}} = \left( {\frac{{1.5}}{{1.2}} - 1} \right)\left( {\frac{1}{3} - 0} \right)\]<br>\[\frac{1}{{{f_2}}} = \frac{{0.3}}{{1.2}} \times \frac{1}{3}\]<br>\[{f_2} = 12\]<br>\[{f_...
+
+
+--- INDEX 68 | JEE | ID: 67ab89c681f12750ffd76318 ---
+Chapter: Ray Optics | Topic: Critical angle and tir
+Question:  A hemispherical vessel is completely filled with a liquid of refractive index μ. A small coin is kept at the lowest point (O) of the vessel as shown in figure. The minimum value of the refractive index of the liquid so that a person can see the coin from point E (at the level of the vessel) is---.<br><img  src="https://cmds-test.vedantu.com/prod/question-sets/5cbba9b7-385b-45be-a1c0-4a3cab50ec482543147956959241607.png"/>
+Answer: ["C"]
+Options: [" \\[\\sqrt 3 \\]"," \\[\\frac{3}{2}\\]"," \\[\\sqrt 2 \\]"," \\[\\frac{{\\sqrt 3 }}{2}\\]"]
+Solution:  <img  src="https://cmds-test.vedantu.com/prod/question-sets/0726ad39-371d-4e04-96ce-46a0570e61b13103235246922060296.png"/><br>\[\sin \,c = \frac{1}{\mu }\]<br>\[for\,\,\mu  \to least,\,\,\,\,c \to \max imum\]<br>\[\theta  = c = 45\]<br>\[\mu  = \frac{1}{{\sin 45}} = \sqrt 2 \]...
+
+
+--- INDEX 69 | JEE | ID: 67ab8b5b3585e13b1a4e5753 ---
+Chapter: Ray Optics | Topic: Refraction at curved spherical surface
+Question:  In a long glass tube, mixture of two liquids A and B with refractive indices 1.3 and 1.4 respectively, forms a convex refractive meniscus towards A. If an object placed at 13 cm from the vertex of the meniscus in A forms an image with a magnification of '–2' then the radius of curvature of meniscus is :
+Answer: ["C"]
+Options: ["1 cm","\\[\\frac{1}{3}cm\\]","\\[\\frac{2}{3}cm\\]","\\[\\frac{4}{3}cm\\]"]
+Solution:  <img src="https://www.vedantu.com/question-sets/8088d8b0-1098-4548-968e-48a103aaf42d543148690995924136.png"/><br/>\[\frac{{{n_2}}}{v}-\frac{{{n_1}}}{u} = \frac{{{n_2} - {n_1}}}{R}\]<br/>\[\frac{{1.4}}{v} - \frac{{1.3}}{{ - 13}} = \frac{{0.1}}{R}\]<br/>\[\frac{{1.4}}{v} = \frac{{1 - R}}{{10R}}\]<br/...
+
+
+--- INDEX 70 | JEE | ID: 67ab8d1aa8352a153553241b ---
+Chapter: Ray Optics | Topic: Lens formula
+Question:  Let u and v be the distances of the object and the image from a lens of focal length <i>f</i>. The correct graphical representation of u and v for a convex lens when \[\left| u \right| > f\], is
+Answer: ["B"]
+Options: [" <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/5b895e38-d95d-45b5-8d09-892c6a6a36762457502083013823008.png\"/>"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/303af75d-d41e-440a-8f07-44601943bc674372123003189538587.png\"/>"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/a3147a1f-8f1a-4c49-923b-c93acea009497180489298616004596.png\"/>"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/8bb1e7b2-a67c-479d-a628-ee43f52c13903996287444838879974.png\"/>"]
+Solution:  (u + f) (v – f) = f<sup>2</sup><br><img  src="https://cmds-test.vedantu.com/prod/question-sets/9d59e864-07c5-413f-9f8b-93e1b753ca5c5631016706724594837.png"/> <br>...
+
+
+--- INDEX 71 | JEE | ID: 67ba0bc027d7060f1f3ee3e8 ---
+Chapter: Ray Optics | Topic: Velocity of image in the plane mirror
+Question:  The driver sitting inside a parked car is watching vehicles approaching from behind with the help of his side view mirror, which is a convex mirror with radius of curvature R = 2 m. Another car approaches him from behind with a uniform speed of 90 km/hr. When the car is at a distance of 24 m from him, the magnitude of the acceleration of the image of the side view mirror is ‘a’. The value of 100a is ______ m/s<sup>2</sup>.
+Answer: ["8"]
+Solution:  \[v = \frac{{uf}}{{u - f}} = \frac{{ - 24 \cdot 1}}{{ - 24 - 1}} = \frac{{24}}{{25}}\]<br>\[m = \frac{{ - v}}{u} =  - \frac{{24}}{{25( - 24)}} = \frac{1}{{25}}\]<br>\[\frac{1}{v} - \frac{1}{u} = \frac{1}{f}\]<br>\[{v_I} =  - {m^2} \cdot {v_0} = \frac{{ - 1}}{{{{(25)}^2}}} \cdot 25 = \frac{{ - 1}}{{...
+
+
+--- INDEX 72 | JEE | ID: 67ab8d1aa8352a1535532412 ---
+Chapter: Ray Optics | Topic: Critical angle and tir
+Question:  At the interface between two materials having refractive indices n<sub>1</sub> and n<sub>2</sub>, the critical angle for reflection of an em wave is \[{\theta _{1C}}\]. The n<sub>2</sub> material is replaced by another material having refractive index n<sub>3</sub>, such that the critical angle at the interface between n1 and n<sub>3</sub> materials is \[{\theta _{2C}}\]. If \[{n_3} > {n_2} > {n_1};\,\frac{{{n_2}}}{{{n_3}}} = \frac{2}{5}\] and \[\sin {\theta _{2C}} - \sin {\theta _{1C}} = \frac{1}{2}\], then \[{\theta _{1C}}\]is
+Answer: ["C"]
+Options: ["\\[{\\sin ^{ - 1}}\\left( {\\frac{1}{{6{n_1}}}} \\right)\\]","\\[{\\sin ^{ - 1}}\\left( {\\frac{2}{{3{n_1}}}} \\right)\\]","<!-StartFragment->\\[{\\sin ^{ - 1}}\\left( {\\frac{-5}{{6}}} \\right)\\]<!-EndFragment->","\\[{\\sin ^{ - 1}}\\left( {\\frac{1}{{3{n_1}}}} \\right)\\]"]
+Solution:  \[\sin {\theta _{1C}} = \frac{{{n_1}}}{{{n_2}}}\]<br/>\[\sin {\theta _{2C}} = \frac{{{n_1}}}{{{n_3}}}\]<br/>\[\sin {\theta _{2C}} - \sin {\theta _{1C}} = \frac{1}{2}\]<br/>\[{n_1}\frac{{{n_2}}}{{{n_3}}} - {n_1} = \frac{{{n_2}}}{2}\]<br/>\[{n_1}\left( {\frac{2}{5} - 1} \right) = \frac{{{n_2}}}{2}\]<...
+
+
+--- INDEX 73 | JEE | ID: 67a5dee581f12750ffafa799 ---
+Chapter: Ray Optics | Topic: Power of a lens
+Question:  A symmetric thin biconvex lens is cut into four equal parts by two planes AB and CD as shown in figure. If the power of original lens is 4D then the power of a part of the divided lens is<br><img  src="https://cmds-test.vedantu.com/prod/question-sets/d2314bf5-6c96-44c0-9c14-7057af0bb42c3623195570736190430.png"/>
+Answer: ["D"]
+Options: ["8D","4D","D","2D"]
+Solution:  <img src="https://www.vedantu.com/question-sets/64f5ae3d-273e-493b-baca-f886217795d8266967758370370991.png"/> <br/>\[\frac{1}{{{f_1}}} = \left( {\mu  - 1} \right)  \frac{2}{R} = P = 4D\]<br/><img src="https://www.vedantu.com/question-sets/9417f244-786a-434b-8fc2-abf58f28b2a05349440533154792162.png"...
+
+
+--- INDEX 74 | JEE | ID: 67ab131d3585e13b1a488bed ---
+Chapter: Ray Optics | Topic: Silvering of lens
+Question:  Given a thin convex lens (refractive index μ<sub>2</sub>), kept in a liquid (refractive index μ<sub>1</sub>, μ<sub>1</sub> < μ<sub>2</sub>) having radii of curvature |R<sub>1</sub>| and |R<sub>2</sub>|. Its second surface is silver polished. Where should an object be placed on the optic axis so that a real and inverted image is formed at the same place ?
+Answer: ["B"]
+Options: [" \\[\\frac{{{\\mu _1}\\left| {{R_1}} \\right|.\\left| {{R_2}} \\right|}}{{{\\mu _2}\\left( {\\left| {{R_1}} \\right| + \\left| {{R_2}} \\right|} \\right) - {\\mu _1}\\left| {{R_1}} \\right|}}\\]"," \\[\\frac{{{\\mu _1}\\left| {{R_1}} \\right|.\\left| {{R_2}} \\right|}}{{{\\mu _2}\\left( {\\left| {{R_1}} \\right| + \\left| {{R_2}} \\right|} \\right) - {\\mu _1}\\left| {{R_2}} \\right|}}\\]"," \\[\\frac{{{\\mu _1}\\left| {{R_1}} \\right|.\\left| {{R_2}} \\right|}}{{{\\mu _2}\\left( {2\\left| {{R_1}} \\right| + \\left| {{R_2}} \\right|} \\right) - {\\mu _1}\\sqrt {\\left| {{R_1}} \\right|.\\left| {{R_2}} \\right|} }}\\]"," \\[\\frac{{\\left( {{\\mu _2} + {\\mu _1}} \\right)|{R_1}|}}{{\\left( {{\\mu _2} - {\\mu _1}} \\right)}}\\]"]
+Solution:  <img  src="https://cmds-test.vedantu.com/prod/question-sets/503b22e9-42f0-419a-a3f0-904b2f6fed1e3785711072728021442.png"/><br>\[\frac{1}{{{f_{eq}}}} = \frac{2}{{{f_L}}} - \frac{1}{{{f_m}}}\]<br>\[{f_m} =  - \frac{{|{R_2}|}}{2}\]<br>\[\frac{1}{{{f_L}}} = \left( {\frac{{{\mu _2}}}{{{\mu _1}}} - 1} \r...
+
+
+--- INDEX 75 | JEE | ID: 67ab131d3585e13b1a488be1 ---
+Chapter: Ray Optics | Topic: Refraction at curved spherical surface
+Question:  A spherical surface of radius of curvature R, separates air from glass (refractive index = 1.5). The centre of curvature is in the glass medium. A point object ‘O’ placed in air on the optic axis of the surface, so that its real image is formed at ‘I’ inside glass. The line OI intersects the spherical surface at P and PO = PI. The distance PO equals to-
+Answer: ["A"]
+Options: [" 5R"," 3R"," 2R"," 1.5R"]
+Solution:  <img  src="https://cmds-test.vedantu.com/prod/question-sets/596633d4-0058-4768-8969-21c29a00b2e15846201475596201755.png"/> <br>PO = u = –x <br>PI = v = x<br>PO = PI<br>\[\frac{{{\mu _2}}}{v} - \frac{{{\mu _1}}}{u} = \frac{{{\mu _2} - {\mu _1}}}{R}\]<br>\[\frac{{1.5}}{x} + \frac{1}{x} = \frac{1}{{2R...
+
+
+--- INDEX 76 | JEE | ID: 67ab8d1aa8352a1535532421 ---
+Chapter: Fluid Mechanics | Topic: Hydrostatic pressure
+Question:  Two light beams fall on a transparent material block at point 1 and 2 with angle \[{\theta _1}\] and \[{\theta _2}\], respectively, as shown in figure. After refraction, the beams intersect at point 3 which is exactly on the interface at other end of the block. Given: the distance between 1 and 2, \[d = 4\sqrt 3 \]cm and \[{\theta _1} = {\theta _2} = {\cos ^{ - 1}}\left( {\frac{{{n_2}}}{{2{n_1}}}} \right)\], where refractive index of the block n<sub>2</sub> > refractive index of the outside medium n<sub>1</sub>, then the thickness of the block is ________ cm.<br><img  src="https://cmds-test.vedantu.com/prod/question-sets/1fe71c90-4259-4f4a-992a-dc6b0ee026ad3402812696953515238.png"/>
+Answer: ["6"]
+Solution:  <img  src="https://cmds-test.vedantu.com/prod/question-sets/a96131f6-dbf3-4d94-a9da-cbc67292c04e8475869240696820123.png"/><br>\[{n_1}\sin \left( {90 - {\theta _1}} \right) = {n_2}\sin {\theta _3}\]<br>\[{n_1}\cos {\theta _1} = {n_2}\sin {\theta _3}\]<br>\[{n_1}\frac{{{n_2}}}{{2{n_1}}} = {n_2}\sin {...
+
+
+--- INDEX 77 | JEE | ID: 67a996663585e13b1a3c39d0 ---
+Chapter: Ray Optics | Topic: Condition of minimum deviation
+Question:  The refractive index of the material of a glass prism is \[\sqrt 3 \]. The angle of minimum deviation is equal to the angle of the prism. What is the angle of the prism?
+Answer: ["B"]
+Options: [" 50º"," 60º"," 58º"," 48º"]
+Solution:  \[\mu  = \frac{{\sin \left( {\frac{{A + {\delta _{\min }}}}{2}} \right)}}{{\operatorname{Sin} \frac{A}{2}}}\]<br>Given \[{\delta _{\min }} = A\]<br>\[\sqrt 3  = \frac{{\sin A}}{{\sin \frac{A}{2}}} = \frac{{2\sin \frac{A}{2}\cos \frac{A}{2}}}{{\sin \frac{A}{2}}}\]<br>\[\cos \frac{A}{2} = \frac{{\sqr...
+
+
+--- INDEX 78 | JEE | ID: 67ab8b5b3585e13b1a4e575a ---
+Chapter: Ray Optics | Topic: Magnification due to lens
+Question:  A concave mirror produces an image of an object such that the distance between the object and image is 20 cm. If the magnification of the image is '–3', then the magnitude of the radius of curvature of the mirror is :
+Answer: ["D"]
+Options: ["3.75 cm","30 cm","7.5 cm","15 cm"]
+Solution:  <img src="https://www.vedantu.com/question-sets/d8a18e7f-527a-4b18-9ee3-cbe2add0677a7712901593605791322.png"/><br/>\[m =  - 3 =  - \frac{v}{u}\, , v=3u,and\,v - u = 20\,cm\]<br/>\[f = \frac{{vu}}{{v + u}} = \frac{{(  30)(  10)}}{{  30 - 10}}\]<br/>\[\therefore \,R =  + 15\]...
+
+
+--- INDEX 79 | JEE | ID: 67ab8ebaa8352a1535532ea0 ---
+Chapter: Ray Optics | Topic: Lens maker formula
+Question:  A convex lens mode of glass (refractive index = 1.5) has focal length 24 cm in air. When it is totally immersed in water (refractive index = 1.33), its focal length changes to
+Answer: ["B"]
+Options: [" 72 cm"," 96 cm"," 24 cm"," 48 cm"]
+Solution:  \[\frac{1}{8} = \left( {\frac{{{\mu _\ell }}}{{{\mu _S}}} - 1} \right)\left[ {\frac{1}{{{R_1}}} - \frac{1}{{{R_2}}}} \right]\]<br>\[\frac{1}{{24}} = \left( {1.5 - 1} \right)\left[ {\frac{2}{R}} \right]...................(i)\]<br>\[\frac{1}{{f'}} = \left( {\frac{{1.5}}{{1.33}} - 1} \right)\left( {\f...
+
+
+--- INDEX 80 | JEE | ID: 67ab131d3585e13b1a488be9 ---
+Chapter: Ray Optics | Topic: Lateral displacement due to a glass slab
+Question:  What is the lateral shift of a ray refracted through a parallel-sided glass slab of thickness ‘h’ in terms of the angle of incidence ‘i’ and angle of refraction ‘r’, if the glass slab is placed in air medium ?
+Answer: ["D"]
+Options: ["\\[\\frac{{h\\tan (i - r)}}{{\\tan \\,r}}\\]","\\[\\frac{{h\\cos (i - r)}}{{\\sin \\,r}}\\]","h","\\[\\frac{{h\\sin (i - r)}}{{\\cos \\,r}}\\]"]
+Solution: <img src="https://cmds-test.vedantu.com/prod/questions/a0946efa-e334-4a3f-9e6e-6be3f714fe89"/><div>In \[\Delta ABC\]</div><div>\[AC = \frac{{AB}}{{\cos \left( r \right)}}\]</div><div>\[ = \frac{h}{{\cos \left( r \right)}}\]</div><div>In \[\Delta ACD,\]</div><div>\[\sin \left( {i - r} \right) = \frac...
+
+
+--- INDEX 81 | JEE | ID: 67a996663585e13b1a3c39e0 ---
+Chapter: Ray Optics | Topic: Introduction to spherical mirrors
+Question:  A concave mirror of focal length <i>f</i> in air is dipped in a liquid of refractive index \[\mu \]. Its focal length in the liquid will be:
+Answer: ["D"]
+Options: [" \\[\\frac{f}{\\mu }\\]"," \\[\\frac{f}{{\\left( {\\mu  - 1} \\right)}}\\]"," \\[\\mu f\\] "," <i>f</i>"]
+Solution:  Focal length of mirror will not change because focal length of mirror doesn't depend on medium....
+
+
+--- INDEX 82 | NEET | ID: 66fa4b9c20e9697d6026a921 ---
+Chapter: Ray Optics and Optical Instruments | Topic: Refraction Through a Prism
+Question: <b> </b>A light ray enters through a right angled prism at point P with the angle of incidence $30^\circ $ as shown in figure. It travels through the prism parallel to its base BC and emerges along the face AC. The refractive index of the prism is: <br/><img src="https://cmds-test.vedantu.com/prod/questions/6a2103d6-ad87-402b-8d60-fb7850f4ea42"/>
+Answer: ["A"]
+Options: ["$\\frac{{\\sqrt 5 }}{2}$","$\\frac{{\\sqrt 3 }}{4}$","$\\frac{{\\sqrt 3 }}{2}$","$\\frac{{\\sqrt 5 }}{4}$"]
+Solution: <b> </b><img src="https://cmds-test.vedantu.com/prod/questions/f957a72c-3207-43a2-bb3f-bbada40917ce"/><br/>$\sin 30^\circ  = \mu \sin \left( {90 - {\theta _c}} \right)$<br/>$\frac{1}{2} = \mu \cos {\theta _c}$<br/>Also, $\sin {\theta _c} = \frac{1}{\mu }$<br/>$\cos {\theta _c} = \frac{{\sqrt {{\mu ^...
+
+
+--- INDEX 83 | NEET | ID: 66fa4b9c20e9697d6026a937 ---
+Chapter: Ray Optics and Optical Instruments | Topic: Optical Instruments
+Question: <b> </b>A small telescope has an objective of focal length 140 cm and an eye piece of focal length 5.0 cm. The magnifying power of telescope for viewing a distant object is:
+Answer: ["A"]
+Options: [" 28"," 17"," 32"," 34"]
+Solution: $m = \frac{{fo}}{{fe}} = \frac{{140}}{5} = 28$<b> </b>...
+
+
+--- INDEX 84 | NEET | ID: 6825c0f5f9fb2738ae4e8059 ---
+Chapter: Ray Optics and Optical Instruments | Topic: Refraction at Spherical Surfaces and by Lenses
+Question: <b> </b>In a certain camera, a combination of four similar thin convex lenses are arranged axially in contact. Then the power of the combination and the total magnification in comparison to the power (p) and magnification (m) for each lens will be, respectively - 
+Answer: ["A"]
+Options: [" $4p$ and ${m^4}$"," ${p^4}$ and ${m^4}$"," $4p$ and $4m$"," ${p^4}$ and $4m$"]
+Solution: <b> </b>Power is additive when lenses are in contact<br>So each lens has power P, then 4 lenses<br>${P_{{\text{total}}}} = P + P + P + P = 4P$<br>Magnification ${m_{{\text{total}}}} = m \times m \times m \times m$ (series) $ = {m^4}$<br>...
+
+
+--- INDEX 85 | NEET | ID: 6825c0f5f9fb2738ae4e804b ---
+Chapter: Ray Optics and Optical Instruments | Topic: Optical Instruments
+Question: <b> </b>A microscope has an objective of focal length 2 cm, eyepiece of focal length 4 cm and the tube length of 40 cm. If the distance of distinct vision of eye is 25 cm, the magnification in the microscope is
+Answer: ["D"]
+Options: [" 150"," 250"," 100"," 125"]
+Solution: <b> </b>It is a compound microscope<br>${M_{{\text{objective}}}} \approx \frac{L}{{{f_0}}} \approx \frac{{40cm}}{{2cm}} \approx 20cm$<br>Case 1: For relaxed eye (V = 0)<br>$M{P_{{\text{eyepiece}}}} = \frac{D}{{{f_e}}} = \frac{{25}}{4} = 6.25$<br>${M_{{\text{compound}}}} = 20 \times 6.25 = 125$<br>(F...
+
+
+--- INDEX 86 | NEET | ID: 6a041fada5510d0cfe19c2a2 ---
+Chapter: Ray Optics and Optical Instruments | Topic: Refraction at Spherical Surfaces and by Lenses
+Question:  In a concave lens, a ray of light emanating from the object parallel to the principal axis of the lens after refraction:
+Answer: ["B"]
+Options: [" emerges parallel to the principal axis."," appears to diverge from the first principal focus."," passes through $2 F$, which is the radius of curvature of the lens."," passes through the second principal focus."]
+Solution:  <img  src="https://cmds-test.vedantu.com/prod/question-sets/61c6a676-5bff-44de-9590-145b0901eeff8188180482894679099.png"/><br>$F_{2}$ is the second principal focus ⇒ It is the virtual image position for object at infinity.<br><img  src="https://cmds-test.vedantu.com/prod/question-sets/1b5f11c5-fb85...
+
+
+--- INDEX 87 | NEET | ID: 6a041fada5510d0cfe19c2a6 ---
+Chapter: Ray Optics and Optical Instruments | Topic: Refraction Through a Prism
+Question:  A ray of monochromatic light is passing through an equilateral prism $(A B C)$ as shown in the figure. The refracted ray $(Q R)$ is parallel to its base $(B C)$ and the angle of incidence $(i)$ is $50^{\circ}$. Then the angle of deviation $(\delta)$ is:<br><img  src="https://cmds-test.vedantu.com/prod/question-sets/dada78e0-06bd-46f5-9918-afadee1b55474529679685946280924.png"/>
+Answer: ["A"]
+Options: [" $40^{\\circ}$"," $45^{\\circ}$"," $55^{\\circ}$"," $35^{\\circ}$"]
+Solution:  <img  src="https://cmds-test.vedantu.com/prod/question-sets/a98aa65c-65b3-462a-a630-fa120ab719603240720749560479487.png"/><br>$i=e$<br>Equation of prism<br>$i+e=A+\delta$<br>$2 i-A=\delta$<br>$2(50)-60=\delta$<br>$\delta=40^{\circ}$<br>...
+
+
+--- INDEX 88 | NEET | ID: 6a3947c47274fc5bde2d55f3 ---
+Chapter: Ray Optics and Optical Instruments | Topic: Refraction of Light
+Question:  Consider three media $P, Q$ and $R$ with refractive indices $1,1.25$, and 1.5 respectively. The medium $Q$ having a thickness of 5 cm is placed between extended media $P$ and $R$ as shown in the figure. An object $O$ is placed at the centre of medium $Q$. If viewed from medium $P$ near the normal direction, the apparent depth of $O$ is $h_{1}$. For similar observation from medium $R$, the apparent depth is $h_{2}$. The value of $\left|h_{1}-h_{2}\right|$, in cm , is:<br/><img src="https://cmds-test.vedantu.com/prod/questions/f7398b66-98e0-423d-b47b-d102e2d7d8bc"/>
+Answer: ["A"]
+Options: ["1","2","3","0"]
+Solution:  (i) When object $O$ is viewed from medium $P$,<br/><img src="https://cmds-test.vedantu.com/prod/questions/f7398b66-98e0-423d-b47b-d102e2d7d8bc"/><br/>Apparent depth $h_{1}=\frac{h_{\text {real }}}{\mu}=\frac{2.5}{1.25}=2 \mathrm{~cm}$<br/>(ii) When object $O$ is viewed from medium $R$,<br/>Apparent...
+
+
+--- INDEX 89 | NEET | ID: 6a3947c47274fc5bde2d5607 ---
+Chapter: Ray Optics and Optical Instruments | Topic: Refraction at Spherical Surfaces and by Lenses
+Question:  The lens combination as shown in the figure, consists of two lenses, $L_{1}$ and $L_{2}$, of the focal lengths +10 cm and -10 cm , respectively. The position of the image formed is:<br><img  src="https://cmds-test.vedantu.com/prod/question-sets/9068b8c6-4a70-4e2f-8f71-a64c3ab044df6048536573779755143.png"/>
+Answer: ["A"]
+Options: [" 60 cm to the left of the concave lens"," 30 cm to the right of the concave lens"," 60 cm to the right of the concave lens"," 20 cm to the left of the concave lens"]
+Solution:  For convex lens $L_{1}: u=-30 \mathrm{~cm}$ and $f=+10 \mathrm{~cm}$<br>Using $\frac{1}{v}-\frac{1}{u}=\frac{1}{f} \Rightarrow \frac{1}{v}+\frac{1}{30}=\frac{1}{10} \Rightarrow \frac{1}{v}=\frac{1}{10}-\frac{1}{30}=\frac{2}{30}$<br>$\therefore \quad v=+\frac{30}{2}=+15 \mathrm{~cm}$<br>For concave ...
+
+
+--- INDEX 90 | NEET | ID: 672b703aeae41e7d6871df57 ---
+Chapter: Evolution | Topic: Origin and Evolution of Man
+Question: <b> </b>Given below are some stages of human evolution. Arrange them in correct sequence. (Past to Recent)<br>A. <i>Homo habilis</i><br>B. Homo sapiens<br>C. <i>Homo neanderthalensis</i><br>D. <i>Homo erectus</i><br>Choose the correct sequence of human evolution from the options given below:
+Answer: ["C"]
+Options: [" B-A-D-C"," C-B-D-A"," A-D-C-B"," D-A-C-B"]
+Solution:  Some of<b> </b>the bones among the bones discovered were different. This creature was<b> </b>called the first human-like being the hominid and was called Homo habilis.<br>The brain capacities were between 650-800cc. They probably did not eat meat. Fossils discovered in Java in 1891 revealed the nex...
+

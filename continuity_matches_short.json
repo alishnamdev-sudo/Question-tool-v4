@@ -1,0 +1,182 @@
+[
+  {
+    "num": 1,
+    "text": "sin(3x)/x + a, 5, (e^{bx}-1)/x",
+    "matchId": "6803522c97562d6b87a7e230",
+    "matchQuestion": " If<b> </b>\\[\\mathop {\\lim }\\limits_{x \\to 0} \\frac{{\\cos \\left( {2x} \\right) + a\\cos \\left( {4x} \\right) - b}}{{{x^4}}}\\]is finite, then (a+b) is equ...",
+    "matchAnswer": [
+      "A"
+    ],
+    "score": 4
+  },
+  {
+    "num": 2,
+    "text": "|x-2| + |x-3| LHD at x = 2",
+    "matchId": "6805c72b49d68d1d06a58c97",
+    "matchQuestion": " The pH of a 0.01 M weak acid HX (K<sub>a</sub> = 4 × 10<sup>–10</sup>) is found to be 5. Now the acid solution is diluted with excess of water so tha...",
+    "matchAnswer": [
+      "25"
+    ],
+    "score": 2
+  },
+  {
+    "num": 3,
+    "text": "x^2 + 3x + a, bx + 2 differentiable at x=1",
+    "matchId": "6805dd5d97562d6b87cd9e41",
+    "matchQuestion": " Let m and n be the number of points at which the function ƒ(x) = max{x, x<sup>3</sup>, x<sup>5</sup>,….., x<sup>21</sup>}, x ∈  ℝ, is not differentia...",
+    "matchAnswer": [
+      "3.00"
+    ],
+    "score": 4
+  },
+  {
+    "num": 4,
+    "text": "|x^2 - 4| + |x|",
+    "matchId": "NONE",
+    "score": 0
+  },
+  {
+    "num": 5,
+    "text": "(1 - cos(ax))/x^2, b, sqrt(x)/(sqrt(16+sqrt(x)) - 4)",
+    "matchId": "NONE",
+    "score": 0
+  },
+  {
+    "num": 6,
+    "text": "|x-1|([x] - x)",
+    "matchId": "NONE",
+    "score": 0
+  },
+  {
+    "num": 7,
+    "text": "ax^2 + bx + c, ln(x) + 2 differentiable at x=1, f'(0)=2",
+    "matchId": "NONE",
+    "score": 0
+  },
+  {
+    "num": 8,
+    "text": "|sin x - cos x| + |x - pi|",
+    "matchId": "NONE",
+    "score": 0
+  },
+  {
+    "num": 9,
+    "text": "(a cos x + cos 2x + b)/x^4",
+    "matchId": "6803522c97562d6b87a7e230",
+    "matchQuestion": " If<b> </b>\\[\\mathop {\\lim }\\limits_{x \\to 0} \\frac{{\\cos \\left( {2x} \\right) + a\\cos \\left( {4x} \\right) - b}}{{{x^4}}}\\]is finite, then (a+b) is equ...",
+    "matchAnswer": [
+      "A"
+    ],
+    "score": 2
+  },
+  {
+    "num": 10,
+    "text": "[x] sin(pi x) + |x-1| cos(pi x)",
+    "matchId": "NONE",
+    "score": 0
+  },
+  {
+    "num": 11,
+    "text": "max{|x^2 - 4x|, |x|}",
+    "matchId": "NONE",
+    "score": 0
+  },
+  {
+    "num": 12,
+    "text": "x^2 ([1/x] + [-1/x])",
+    "matchId": "NONE",
+    "score": 0
+  },
+  {
+    "num": 13,
+    "text": "sin(3x)/tan(2x), k, ln(1+3x)/2x",
+    "matchId": "67acd31681f12750ffdd9d5e",
+    "matchQuestion": " Let the range of the function<br>\\[f(x) = 6 + 16\\,\\,\\,\\,\\cos x.\\cos \\left( {\\frac{\\pi }{3} - x} \\right).\\cos \\left( {\\frac{\\pi }{3} + x} \\right).\\]<b...",
+    "matchAnswer": [
+      "A"
+    ],
+    "score": 2
+  },
+  {
+    "num": 14,
+    "text": "|x-2| + |x-3| LHD and RHD",
+    "matchId": "69e760c6c24bb510a852039c",
+    "matchQuestion": " Match List-I with List-II.<br/><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaUAAAEUCAIAAAAEJr4pAAAQAElEQVR4AezdCZzX0/c/cPu+C8m+VSSSpEWRhC...",
+    "matchAnswer": [
+      "D"
+    ],
+    "score": 4
+  },
+  {
+    "num": 15,
+    "text": "ax^2 + b, 2x + 3",
+    "matchId": "6805dd5d97562d6b87cd9e29",
+    "matchQuestion": " Let f, g: (1, ∞ ) →  ℝ be defined f(x) = \\[\\frac{{2x + 3}}{{5x + 2}}\\] and g(x) = \\[\\frac{{2 - 3x}}{{1 + x}}\\]. If the range of the function fog : [2...",
+    "matchAnswer": [
+      "D"
+    ],
+    "score": 2
+  },
+  {
+    "num": 16,
+    "text": "|x^2 - 5x + 6| + |x^2 - 3x + 2|",
+    "matchId": "NONE",
+    "score": 0
+  },
+  {
+    "num": 17,
+    "text": "(1 - cos(ax))/x^2, b, 8(sqrt(x+c)-sqrt(c))/x",
+    "matchId": "NONE",
+    "score": 0
+  },
+  {
+    "num": 18,
+    "text": "|x^2 - 5x + 6| e^{x-2} + |x-2| cos(pi x)",
+    "matchId": "NONE",
+    "score": 0
+  },
+  {
+    "num": 19,
+    "text": "ax^3 + bx^2 + cx + d, x^4 + x^2 + 1",
+    "matchId": "698719ce1041e71dbae2bc57",
+    "matchQuestion": " Let f be a twice differentiable non-negative function such that<br/>$(\\mathrm{f}(\\mathrm{x}))^{2}=25+\\int_{0}^{\\mathrm{x}}\\left((\\mathrm{f}(\\mathrm{t...",
+    "matchAnswer": [
+      "1565.00"
+    ],
+    "score": 2
+  },
+  {
+    "num": 20,
+    "text": "max{2|x|, x^2} + |x-1|",
+    "matchId": "NONE",
+    "score": 0
+  },
+  {
+    "num": 21,
+    "text": "(a e^{x^2} + b cos(2x) + c e^{-x^2})/x^4",
+    "matchId": "NONE",
+    "score": 0
+  },
+  {
+    "num": 22,
+    "text": "|x^3 - 6x^2 + 11x - 6| + 4|x^2-4x+3| + 5|x-2|",
+    "matchId": "NONE",
+    "score": 0
+  },
+  {
+    "num": 23,
+    "text": "min{|x^2 - 10x + 21|...}, max{|x^2 - 12x + 32|...}",
+    "matchId": "NONE",
+    "score": 0
+  },
+  {
+    "num": 24,
+    "text": "x^2 e^{x-1} + ax + b, c ln(x) + d x^2 + ex",
+    "matchId": "6803957348a77061ced0e764",
+    "matchQuestion": "<b> </b>The sum of all rational terms in the expansion of \\[{\\left( {2 + \\sqrt 3 } \\right)^8}\\] is...",
+    "matchAnswer": [
+      "D"
+    ],
+    "score": 2
+  }
+]

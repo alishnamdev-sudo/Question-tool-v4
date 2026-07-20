@@ -1,0 +1,1199 @@
+==================================================
+TARGET QUESTION 1: The presence of a body cavity which is not lined by mesoderm, but where mesoderm is present as scattered pouches in between the ectoderm and endoderm, is called:
+==================================================
+  MATCH 1 (Combined Score: 0.334, Similarity: 0.460, KeyMatches: 1/4)
+  QuestionId: 6825d0ab4ea7e931e3720c22
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Basis of Classification
+  Question: </b><b> </b>While trying to find out the characteristic of a newly found animal, a researcher did the histology of adult animal and observed a cavity with presence of mesodermal tissue towards the body wall but no mesodermal tissue was observed towards the alimentary canal. What could be the possible coelom of that animal?
+  Answer: ["D"]
+  Options: [" Schizocoelomate"," Spongocoelomate"," Acoelomate"," Pseudocoelomate "]
+  Solution: The above explanation defines pseudocoelom condition<br>...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.289, Similarity: 0.346, KeyMatches: 1/4)
+  QuestionId: 6a043365a5510d0cfe1b745f
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Miscellaneous Examples
+  Question: Select the incorrect statements from the following:<br>A. Digestive system in Platyhelminthes is incomplete.<br>B. Bilateral symmetry is a characteristic feature of adult Echinoderms.<br>C. Pseudocoelom is possessed by Aschelminthes.<br>D. Notochord is persistent throughout life in the class Chondrichthyes.<br>E. Members of class Reptilia maintain a constant body temperature.<br><br>Choose the answer from the options given below:
+  Answer: ["A"]
+  Options: [" B and E only"," C and D only"," A and C only"," B and D only"]
+  Solution: $(\mathrm{A}) \rightarrow$ correct → Platyhelminthes have an incomplete digestive system.<br>(B) → incorrect → Bilateral symmetry is a characteristic feature of larvae of echinoderms. In adult echinoderms, radial symmetry is seen.<br>(C) → correct → Aschelminthes are characterised by the presence of...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.270, Similarity: 0.301, KeyMatches: 1/4)
+  QuestionId: 672b703aeae41e7d6871df59
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Basis of Classification
+  Question: <b> </b>Consider the following statement:<br>A. Annelids are true coelomates<br>B. Poriferans are pseudocoelomates<br>C. Aschelminthes are acoelomates<br>D. Platyhelminthes are pseudocoelomates<br>Choose the correct answer from the options given below:
+  Answer: ["A"]
+  Options: [" A only"," C only"," D only"," B only"]
+  Solution: Poriferans are Acoelomates<br>Aschelminthes are Pseudocoelomate<br>Platyhelminthes are Acoelomates...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.176, Similarity: 0.441, KeyMatches: 0/4)
+  QuestionId: 6a043365a5510d0cfe1b7435
+  Year: N/A
+  Chapter/Topic: Evolution -> A Brief Account of Evolution
+  Question: Since the origin and diversification of life on Earth, there have been five episodes of mass extinction of species. How is the sixth extinction, which is in progress, different from the previous episodes?
+  Answer: ["B"]
+  Options: [" The current species extinction rates are far lower than those in previous episodes."," The present species extinction rates are 100 to 1000 times faster than in the pre-human times."," The present net species extinction rate is zero."," The current species extinction rate is nearly 10 times faster than in previous episodes."]
+  Solution: The current, sixth episode of mass extinction is estimated to be 100 to 1000 times faster than the ones in the pre-human times and our activities are responsible for the faster rates.<br>...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.168, Similarity: 0.420, KeyMatches: 0/4)
+  QuestionId: 672b703aeae41e7d6871df23
+  Year: N/A
+  Chapter/Topic: Biodiversity and Its Conservation -> Biodiversity Conservation
+  Question: <b> </b>The type of conservation in which the threatened species are taken out from their natural habitat and placed in special setting when they can he protected and given special care is called
+  Answer: ["A"]
+  Options: [" Biodiversity conservation"," Semi-conservative method"," Sustainable development"," <i>in-situ</i> conservation"]
+  Solution: <i>Ex situ</i> Conservation – In this approach, threatened animals and plants are taken out from their natural habitat and placed in special setting where they can be protected and given special care....
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 2: Flame cells in flatworms (Platyhelminthes) are primarily responsible for:
+==================================================
+  MATCH 1 (Combined Score: 0.217, Similarity: 0.168, KeyMatches: 1/4)
+  QuestionId: 6825d0ab4ea7e931e3720c0c
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Echinodermata
+  Question: </b><b> </b>Role of the water vascular system in Echinoderms is:<br>A. Respiration and Locomotion<br>B. Excretion and Locomotion<br>C. Capture and transport of food<br>D. Digestion and Respiration<br>E. Digestion and Excretion<br>Choose the <b>correct</b> answer from the options given below:
+  Answer: ["D"]
+  Options: [" B and C Only"," B, D and E Only"," A and B Only"," A and C Only"]
+  Solution: Water vascular system is involved in respiration, locomotion, capture of prey and transport of food.<br><br>...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.195, Similarity: 0.112, KeyMatches: 1/4)
+  QuestionId: 6a38fafedd3fde1e5b75d7c1
+  Year: N/A
+  Chapter/Topic: Breathing and Exchange of Gases -> Respiratory Organs in Animals
+  Question: Sponges exchange O2 with CO2 by
+  Answer: ["D"]
+  Options: [" moist cuticle"," tracheal tubes"," gills"," simple diffusion over their entire body surfaces"]
+  Solution: Lower invertebrates like sponges, coelenterates, flatworms, etc., exchange O2 with CO2 by simple diffusion over their entire body surfaces.<br>...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.192, Similarity: 0.105, KeyMatches: 1/4)
+  QuestionId: 6a043365a5510d0cfe1b745d
+  Year: N/A
+  Chapter/Topic: Chemical Coordination and Integration -> Human Endocrine System
+  Question: Match List I with List II:<br><div class='uploaded-question-table-par'><table class='uploaded-question-table'><tr><td></td><td><b>List-I</b></td><td></td><td><b>List-II</b></td></tr><tr><td>A.</td><td>Cortisol</td><td>I.</td><td>Stimulates the formation of alveoli in mammary glands</td></tr><tr><td>B.</td><td>Aldosterone</td><td>II.</td><td>Produces anti-inflammatory reactions</td></tr><tr><td>C.</td><td>Cholecystokinin</td><td>III.</td><td>Stimulates reabsorption of Na<sup>+</sup> and water from renal tubule</td></tr><tr><td>D.</td><td>Progesterone</td><td>IV.</td><td>Stimulates secretion of pancreatic enzymes and bile juice</td></tr></table></div><br>Choose the correct answer from the options given below:
+  Answer: ["B"]
+  Options: [" A-III, B-II, C-IV, D-I"," A-II, B-III, C-IV, D-I"," A-IV, B-II, C-I, D-III"," A-II, B-III, C-I, D-IV"]
+  Solution: The correct answer is option (2) as<br>- Cortisol produces anti-inflammatory reactions and suppresses the immune response.<br>- Aldosterone acts mainly at the renal tubules and stimulates the reabsorption of $\mathrm{Na}^{+}$and water and excretion of $\mathrm{K}^{+}$and phosphate ions.<br>- Cholecy...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.166, Similarity: 0.416, KeyMatches: 0/4)
+  QuestionId: 672b703aeae41e7d6871df19
+  Year: N/A
+  Chapter/Topic: Anatomy of Flowering Plants -> Anatomy of leaf
+  Question: <b> </b>Bulliform cells are responsible for
+  Answer: ["D"]
+  Options: [" Protecting the plant from salt stress."," Increased photosynthesis in monocots."," Providing large spaces for storage of sugars."," Inward curling of leaves in monocots."]
+  Solution: In grasses, certain adaxial epidermal cells along the veins modify themselves into large, empty, colourless cells. These are called bulliform cells. When the bulliform cells in the leaves have absorbed water and are turgid, the leaf surface is exposed. When they are flaccid due to water stress, they...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.147, Similarity: 0.369, KeyMatches: 0/4)
+  QuestionId: 6a043365a5510d0cfe1b7463
+  Year: N/A
+  Chapter/Topic: Excretory Products and Their Elimination -> Regulation of Kidney Functions
+  Question: The JGA (Juxta Glomerular Apparatus) is a special sensitive region formed by cellular modifications in ____ related to the same nephron.
+  Answer: ["A"]
+  Options: [" Distal convoluted tubule and afferent renal arteriole"," Proximal convoluted tubule and afferent renal arteriole"," Distal convoluted tubule and efferent renal arteriole"," Proximal convoluted tubule and efferent renal arteriole"]
+  Solution: JGA is a special sensitive region formed by cellular modifications in the distal convoluted tubule and the afferent arteriole at the location of their contact.<br>...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 3: In molluscs, the file-like rasping organ present in the mouth for feeding is called:
+==================================================
+  MATCH 1 (Combined Score: 0.228, Similarity: 0.195, KeyMatches: 1/4)
+  QuestionId: 6a043365a5510d0cfe1b744d
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Class Osteichthyes
+  Question: Select the set of fishes which belong to the class Osteichthyes:
+  Answer: ["C"]
+  Options: [" Devil fish, Cuttlefish and Hagfish"," Starfish, Hagfish and Cuttlefish"," Flying fish, Angel fish and Fighting fish"," Saw fish, Fighting fish and Dog fish"]
+  Solution: The correct answer is option (3).<br>Flying fish (Exocoetus) is a marine bony fish. Angel fish (Pterophyllum) and fighting fish (Betta) are aquarium bony fishes.<br>Option (1) is incorrect as:-<br>Devil fish (Octopus) and cuttlefish (Sepia) are molluscs.<br>Hag fish (Myxine) is a cyclostome.<br>Opti...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.205, Similarity: 0.139, KeyMatches: 1/4)
+  QuestionId: 672b703aeae41e7d6871df47
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Chordata
+  Question: <b> </b>Match List I with List II:<br><div class='uploaded-question-table-par'><table class='uploaded-question-table'><tr><td><b>List I</b></td><td><b>List II</b></td></tr><tr><td>A. Pleurobrachia</td><td>I. Mollusca</td></tr><tr><td>B. Radula</td><td>II. Ctenophora</td></tr><tr><td>C. Stomochord</td><td>III. Osteichthyes</td></tr><tr><td>D. Air bladder</td><td>IV. Hemichordata</td></tr></table></div><br>Choose the correct answer from the options given below:
+  Answer: ["A"]
+  Options: [" A-II, B-I, C-IV, D-III"," A-II, B-IV, C-I, D-III"," A-IV, B-III, C-II, D-I"," A-IV, B-II, C-III, D-I"]
+  Solution: (a) A-II, B-I, C-IV, D-III<br>Pleurobrachia - Ctenophora<br>Radula - Mollusca<br>Stomochord - hemichordata<br>Air bladder - Osteichthyes...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.199, Similarity: 0.122, KeyMatches: 1/4)
+  QuestionId: 6a043365a5510d0cfe1b7465
+  Year: N/A
+  Chapter/Topic: Breathing and Exchange of Gases -> Respiratory Organs in Animals
+  Question: Match List I with List II:<br/><div class="uploaded-question-table-par"><table class="uploaded-question-table"><tbody><tr><td></td><td><b>List I</b></td><td></td><td><b>List II</b></td></tr><tr><td>A.</td><td>Molluscs</td><td>I.</td><td>Pulmonary respiration only</td></tr><tr><td>B.</td><td>Reptiles</td><td>II.</td><td>Branchial respiration</td></tr><tr><td>C.</td><td>Adult amphibians</td><td>III.</td><td>Cellular respiration</td></tr><tr><td>D.</td><td>Amoeba</td><td>IV.</td><td>Pulmonary and cutaneous respiration</td></tr></tbody></table></div><br/>Choose the correct answer from the options given below:
+  Answer: ["B"]
+  Options: ["A–III, B–II, C–I, D–IV","A–II, B–I, C–IV, D–III","A–II, B–I, C–III, D–IV","A–I, B–II, C–IV, D–III"]
+  Solution: (A) Molluscs → (II) Perform branchial respiration by using feather-like gills<br>(B) Reptiles → (I) Perform pulmonary respiration only via lungs<br>(C) Adult amphibians → (IV) Perform pulmonary and cutaneous respiration via lungs and moist skin, respectively<br>(D) Amoeba → (III) Performs cellular r...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.176, Similarity: 0.441, KeyMatches: 0/4)
+  QuestionId: 6a394e3ead553b6c8e9b8617
+  Year: N/A
+  Chapter/Topic: Classification of Elements and Periodicity -> Electron Gain Enthalpy or Electron Affinity
+  Question: Among the following options, the correct trend in the electron gain enthalpy is
+  Answer: ["B"]
+  Options: [" $\\mathrm{Br}>\\mathrm{Cl}>\\mathrm{F}>\\mathrm{I}$"," $\\mathrm{Cl}>\\mathrm{F}>\\mathrm{Br}>\\mathrm{I}$"," I $>\\mathrm{Br}>\\mathrm{CI}>\\mathrm{F}$"," $\\mathrm{F}>\\mathrm{Cl}>\\mathrm{Br}>\\mathrm{I}$"]
+  Solution: <div class='uploaded-question-table-par'><table class='uploaded-question-table'><tr><td>Group 17 Elements</td><td>Electron gain enthalpy (kJ/mol)</td></tr><tr><td>F</td><td>-328</td></tr><tr><td>Cl</td><td>-349</td></tr><tr><td>Br</td><td>-325</td></tr><tr><td>I</td><td>-295</td></tr></table></div><...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.165, Similarity: 0.412, KeyMatches: 0/4)
+  QuestionId: 6a38fafedd3fde1e5b75d7c3
+  Year: N/A
+  Chapter/Topic: Sexual Reproduction in Flowering plants -> Pollen-Pistil Interaction
+  Question: Which of the following in female gametophyte of an angiosperm helps in guiding the pollen tube for fertilizing the eggs?
+  Answer: ["A"]
+  Options: [" Synergids"," Central cells"," Polar nucleus"," Antipodals"]
+  Solution: Synergids guide the entry of pollen tube for fertilizing the eggs, in a typical angiospermic embryo sac.<br>...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 4: The most distinctive feature of echinoderms is the presence of:
+==================================================
+  MATCH 1 (Combined Score: 0.508, Similarity: 0.271, KeyMatches: 2/3)
+  QuestionId: 6825d0ab4ea7e931e3720c0c
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Echinodermata
+  Question: </b><b> </b>Role of the water vascular system in Echinoderms is:<br>A. Respiration and Locomotion<br>B. Excretion and Locomotion<br>C. Capture and transport of food<br>D. Digestion and Respiration<br>E. Digestion and Excretion<br>Choose the <b>correct</b> answer from the options given below:
+  Answer: ["D"]
+  Options: [" B and C Only"," B, D and E Only"," A and B Only"," A and C Only"]
+  Solution: Water vascular system is involved in respiration, locomotion, capture of prey and transport of food.<br><br>...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.289, Similarity: 0.222, KeyMatches: 1/3)
+  QuestionId: 6a38fafedd3fde1e5b75d7ac
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Echinodermata
+  Question: Given below are two statements:<br>Statement I: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry.<br>Statement II: In phylum Echinodermata, both adults and larvae are radially symmetrical.<br>In the light of the above statements, choose the most appropriate answer from the options given below :
+  Answer: ["B"]
+  Options: [" Both Statement I and Statement II are incorrect"," Statement I is correct but Statement II is incorrect"," Statement I is incorrect but Statement II is correct"," Both Statement I and Statement II are correct"]
+  Solution: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry. Adult echinoderms are radially symmetrical while larval echinoderms are bilaterally symmetrical.<br>...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.288, Similarity: 0.221, KeyMatches: 1/3)
+  QuestionId: 6a043365a5510d0cfe1b745f
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Miscellaneous Examples
+  Question: Select the incorrect statements from the following:<br>A. Digestive system in Platyhelminthes is incomplete.<br>B. Bilateral symmetry is a characteristic feature of adult Echinoderms.<br>C. Pseudocoelom is possessed by Aschelminthes.<br>D. Notochord is persistent throughout life in the class Chondrichthyes.<br>E. Members of class Reptilia maintain a constant body temperature.<br><br>Choose the answer from the options given below:
+  Answer: ["A"]
+  Options: [" B and E only"," C and D only"," A and C only"," B and D only"]
+  Solution: $(\mathrm{A}) \rightarrow$ correct → Platyhelminthes have an incomplete digestive system.<br>(B) → incorrect → Bilateral symmetry is a characteristic feature of larvae of echinoderms. In adult echinoderms, radial symmetry is seen.<br>(C) → correct → Aschelminthes are characterised by the presence of...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.192, Similarity: 0.480, KeyMatches: 0/3)
+  QuestionId: 6825d0ab4ea7e931e3720beb
+  Year: N/A
+  Chapter/Topic: Plant Kingdom -> Gymnosperms
+  Question: </b><b> </b>Which one of the following is the characteristic feature of gymnosperms?
+  Answer: ["D"]
+  Options: [" Seeds are absent"," Gymnosperms have flowers for reproduction"," Seeds are enclosed in fruits"," Seeds are marked"]
+  Solution: The gymnosperms (gymnos : naked, sperma : seeds) are plants in which the ovules are not enclosed by any ovary wall and remain exposed, both before and after fertilisation. The seeds that develop post-fertilisation, are not covered, i.e., are naked.<br><br>...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.190, Similarity: 0.475, KeyMatches: 0/3)
+  QuestionId: 6a38fafedd3fde1e5b75d7c7
+  Year: N/A
+  Chapter/Topic: Human Reproduction -> The Male Reproductive System
+  Question: Which of the following structure is not a part of the male reproductive system?
+  Answer: ["C"]
+  Options: [" Epididymis"," Vasa efferentia"," Infundibulum"," Rete testis"]
+  Solution: The male sex accessory ducts include rete testis, vasa efferentia, epididymis and vas deferens. Infundibulum is the part of oviduct (female accessory duct).<br>...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 5: In some animals, the body is externally and internally divided into segments with a serial repetition of at least some organs. This phenomenon is known as metamerism, and it is characteristically seen in Earthworms.
+==================================================
+  MATCH 1 (Combined Score: 0.236, Similarity: 0.215, KeyMatches: 1/4)
+  QuestionId: 6a032f2b0b170637d27e334c
+  Year: N/A
+  Chapter/Topic: Organic Chemistry: Some Basic Principles and Techniques -> Structural Isomerism
+  Question: The pair of molecules that are metamers among the following is :
+  Answer: ["B"]
+  Options: [" $\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{OH}$ and $\\mathrm{CH}_{3}-\\mathrm{CH}(\\mathrm{OH})-\\mathrm{CH}_{3}$"," $\\mathrm{CH}_{3} \\mathrm{OCH}_{2} \\mathrm{CH}_{2} \\mathrm{CH}_{3}$ and $\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{OCH}_{2} \\mathrm{CH}_{3}$"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/7deb47a2-c0ff-4e36-8e3e-3832eb3afdcd7752895187369101482.png\"/> and <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/b6bff2b8-baae-4a2b-8a68-55e7916ea9664277757244684113196.png\"/>"," $\\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{CH}_{2} \\mathrm{CH}_{3}$ and $\\left(\\mathrm{CH}_{3}\\right)_{2} \\mathrm{CHCH}_{2} \\mathrm{CH}_{3}$"]
+  Solution: Metamerism arises due to different alkyl chains on either side of the functional group in the molecule pair of molecules $\mathrm{CH}_{3} \mathrm{OCH}_{2} \mathrm{CH}_{2} \mathrm{CH}_{3}$ and $\mathrm{CH}_{3} \mathrm{CH}_{2} \mathrm{OCH}_{2} \mathrm{CH}_{3}$ are metamers of each other.<br>...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.191, Similarity: 0.476, KeyMatches: 0/4)
+  QuestionId: 6a032f2b0b170637d27e334e
+  Year: N/A
+  Chapter/Topic: Ionic Equilibrium -> Acid-Base Titration
+  Question: Phenolphthalein is used as an indicator for the titration of sodium hydroxide solution against a standard solution of oxalic acid. The colour change that is observed at an alkaline pH close to the equivalence point during this titration is:
+  Answer: ["C"]
+  Options: [" pinkish red to yellow"," yellow to pinkish red"," colourless to pink"," pink to colourless"]
+  Solution: Colour of Phenolphthalein before the end point = colourless.<br>Colour of Phenolphthalein close to equivalence point = Pink.<br>∴ Colour change $=$ Colourless to pink.<br>...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.188, Similarity: 0.469, KeyMatches: 0/4)
+  QuestionId: 6a38fafedd3fde1e5b75d7ac
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Echinodermata
+  Question: Given below are two statements:<br>Statement I: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry.<br>Statement II: In phylum Echinodermata, both adults and larvae are radially symmetrical.<br>In the light of the above statements, choose the most appropriate answer from the options given below :
+  Answer: ["B"]
+  Options: [" Both Statement I and Statement II are incorrect"," Statement I is correct but Statement II is incorrect"," Statement I is incorrect but Statement II is correct"," Both Statement I and Statement II are correct"]
+  Solution: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry. Adult echinoderms are radially symmetrical while larval echinoderms are bilaterally symmetrical.<br>...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.183, Similarity: 0.457, KeyMatches: 0/4)
+  QuestionId: 66fa4b9c20e9697d6026a93b
+  Year: N/A
+  Chapter/Topic: Oscillations -> Simple Pendulum
+  Question: <b> </b>If the mass of the bob in a simple pendulum increases to thrice its original mass and its length is made half its original length, then the new time period of oscillation is $\frac{x}{2}$ times its original time period. Then the value of x is
+  Answer: ["A"]
+  Options: ["$\\sqrt 2 $","$2\\sqrt 3 $","4","$\\sqrt 3 $"]
+  Solution: $T = 2\pi \sqrt {\frac{L}{g}} $<br>$\frac{T}{{T'}} = \sqrt {\frac{L}{{L/2}}} = \sqrt 2 \Rightarrow T' = \frac{T}{{\sqrt 2 }}$<br>But $$T' = \frac{x}{2}T$$<br>$\frac{x}{2} = \frac{1}{{\sqrt 2 }}$<br>$x = \sqrt 2 $...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.182, Similarity: 0.455, KeyMatches: 0/4)
+  QuestionId: 6825c0f5f9fb2738ae4e8059
+  Year: N/A
+  Chapter/Topic: Ray Optics and Optical Instruments -> Refraction at Spherical Surfaces and by Lenses
+  Question: <b> </b>In a certain camera, a combination of four similar thin convex lenses are arranged axially in contact. Then the power of the combination and the total magnification in comparison to the power (p) and magnification (m) for each lens will be, respectively -
+  Answer: ["A"]
+  Options: [" $4p$ and ${m^4}$"," ${p^4}$ and ${m^4}$"," $4p$ and $4m$"," ${p^4}$ and $4m$"]
+  Solution: <b> </b>Power is additive when lenses are in contact<br>So each lens has power P, then 4 lenses<br>${P_{{\text{total}}}} = P + P + P + P = 4P$<br>Magnification ${m_{{\text{total}}}} = m \times m \times m \times m$ (series) $ = {m^4}$<br>...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 6: Select the incorrect statement regarding the members of Phylum Platyhelminthes: ... They have a complete digestive system
+==================================================
+  MATCH 1 (Combined Score: 0.745, Similarity: 0.363, KeyMatches: 3/3)
+  QuestionId: 6a043365a5510d0cfe1b745f
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Miscellaneous Examples
+  Question: Select the incorrect statements from the following:<br>A. Digestive system in Platyhelminthes is incomplete.<br>B. Bilateral symmetry is a characteristic feature of adult Echinoderms.<br>C. Pseudocoelom is possessed by Aschelminthes.<br>D. Notochord is persistent throughout life in the class Chondrichthyes.<br>E. Members of class Reptilia maintain a constant body temperature.<br><br>Choose the answer from the options given below:
+  Answer: ["A"]
+  Options: [" B and E only"," C and D only"," A and C only"," B and D only"]
+  Solution: $(\mathrm{A}) \rightarrow$ correct → Platyhelminthes have an incomplete digestive system.<br>(B) → incorrect → Bilateral symmetry is a characteristic feature of larvae of echinoderms. In adult echinoderms, radial symmetry is seen.<br>(C) → correct → Aschelminthes are characterised by the presence of...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.348, Similarity: 0.369, KeyMatches: 1/3)
+  QuestionId: 6a043365a5510d0cfe1b744d
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Class Osteichthyes
+  Question: Select the set of fishes which belong to the class Osteichthyes:
+  Answer: ["C"]
+  Options: [" Devil fish, Cuttlefish and Hagfish"," Starfish, Hagfish and Cuttlefish"," Flying fish, Angel fish and Fighting fish"," Saw fish, Fighting fish and Dog fish"]
+  Solution: The correct answer is option (3).<br>Flying fish (Exocoetus) is a marine bony fish. Angel fish (Pterophyllum) and fighting fish (Betta) are aquarium bony fishes.<br>Option (1) is incorrect as:-<br>Devil fish (Octopus) and cuttlefish (Sepia) are molluscs.<br>Hag fish (Myxine) is a cyclostome.<br>Opti...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.345, Similarity: 0.362, KeyMatches: 1/3)
+  QuestionId: 6a032f2b0b170637d27e3359
+  Year: N/A
+  Chapter/Topic: Classification of Elements and Periodicity -> Miscellaneous Examples
+  Question: Identify the incorrect statement from the following :
+  Answer: ["B"]
+  Options: ["The IUPAC name of the element with atomic number 107 is Unnilseptium.","The largest and the smallest species among $\\mathrm{Mg}, \\mathrm{Mg}^{2+}, \\mathrm{Al}$ and $\\mathrm{Al}^{3+}$ are Al and $\\mathrm{Mg}^{2+}$ respectively.","The similarity in behaviour of Li with Mg is referred to as 'diagonal relationship'","The oxidation state and covalency of Al in $\\left[\\mathrm{AlCl}\\left(\\mathrm{H}_{2} \\mathrm{O}\\right)_{5}\\right]^{2+}$ are 3 and 6, respectively."]
+  Solution: The largest species is Mg and the smallest one is $\mathrm{Al}^{3+}$ among $\mathrm{Mg}, \mathrm{Mg}^{2+}, \mathrm{Al}$ and $\mathrm{Al}^{3+}$.<br/>- Unnilseptium element has atomic number 107.<br/>- $\quad \mathrm{Li}$ and Mg are diagonally related and have similar properties.<br/>- The oxidation s...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.345, Similarity: 0.362, KeyMatches: 1/3)
+  QuestionId: 6a032f2b0b170637d27e3348
+  Year: N/A
+  Chapter/Topic: p-Block Elements (Group 15-18) -> Chemical Properties of Group 16 Elements
+  Question: Identify the incorrect statement from the following:
+  Answer: ["C"]
+  Options: ["Carbon has the ability to form $p \\pi-p \\pi$ multiple bond with itself.","$\\mathrm{ECl}_{3}(\\mathrm{E}=\\mathrm{B}$ and Al$)$ is a monomer when $\\mathrm{E}=\\mathrm{B}$ and a dimer when $\\mathrm{E}=\\mathrm{Al}$.","Oxygen exhibits only -2 oxidation state.","The order of catenation property of Group 14 elements is $\\mathrm{C} \\gg \\mathrm{Si}>\\mathrm{Ge} \\approx \\mathrm{Sn}$."]
+  Solution: 1) $C$ can form $p \pi-p \pi$ multiple bond with itself.<br/>It is observed when it forms $\mathrm{C}=\mathrm{C}$ and $\mathrm{C} \equiv \mathrm{C}$<br/>2) $\mathrm{ECl}_{3}(\mathrm{E}=\mathrm{B}$ and Al$)$<br/>$\mathrm{BCl}_{3}$ does not form dimer.<br/>$\mathrm{AlCl}_{3}$ can form dimer in $\mathr...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.345, Similarity: 0.362, KeyMatches: 1/3)
+  QuestionId: 6a032f2b0b170637d27e334d
+  Year: N/A
+  Chapter/Topic: p-Block Elements (Group 15-18) -> Chemical Properties of Group 15 Elements
+  Question: Identify the incorrect statement from the following:
+  Answer: ["B"]
+  Options: ["$\\mathrm{P}\\left(\\mathrm{C}_{2} \\mathrm{H}_{5}\\right)_{3}$ and $\\mathrm{As}\\left(\\mathrm{C}_{6} \\mathrm{H}_{5}\\right)_{3}$ form $\\mathrm{d} \\pi-\\mathrm{d} \\pi$ bond with transition metals.","Nitrogen can form $d \\pi-p \\pi$ bond with oxygen.","Nitrogen can form $p \\pi-p \\pi$ multiple bonds with itself.","Phosphorus, arsenic and antimony show catenation property."]
+  Solution: - Both nitrogen and oxygen do not contain d-orbitals so it cannot form $\mathrm{d} \pi-\mathrm{p} \pi$ bond<br>- Phosphorus and Arsenic can form $\mathrm{d} \pi-\mathrm{d} \pi$ bond with transition metals. Since both have vacant d -orbitals by which it can interact with transition metals and can inv...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 7: In molluscs, the space between the hump and the mantle is called the mantle cavity in which feather-like gills are present. These gills have only respiratory functions and do not play any role in excretion.
+==================================================
+  MATCH 1 (Combined Score: 0.390, Similarity: 0.225, KeyMatches: 2/4)
+  QuestionId: 6a043365a5510d0cfe1b7465
+  Year: N/A
+  Chapter/Topic: Breathing and Exchange of Gases -> Respiratory Organs in Animals
+  Question: Match List I with List II:<br/><div class="uploaded-question-table-par"><table class="uploaded-question-table"><tbody><tr><td></td><td><b>List I</b></td><td></td><td><b>List II</b></td></tr><tr><td>A.</td><td>Molluscs</td><td>I.</td><td>Pulmonary respiration only</td></tr><tr><td>B.</td><td>Reptiles</td><td>II.</td><td>Branchial respiration</td></tr><tr><td>C.</td><td>Adult amphibians</td><td>III.</td><td>Cellular respiration</td></tr><tr><td>D.</td><td>Amoeba</td><td>IV.</td><td>Pulmonary and cutaneous respiration</td></tr></tbody></table></div><br/>Choose the correct answer from the options given below:
+  Answer: ["B"]
+  Options: ["A–III, B–II, C–I, D–IV","A–II, B–I, C–IV, D–III","A–II, B–I, C–III, D–IV","A–I, B–II, C–IV, D–III"]
+  Solution: (A) Molluscs → (II) Perform branchial respiration by using feather-like gills<br>(B) Reptiles → (I) Perform pulmonary respiration only via lungs<br>(C) Adult amphibians → (IV) Perform pulmonary and cutaneous respiration via lungs and moist skin, respectively<br>(D) Amoeba → (III) Performs cellular r...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.286, Similarity: 0.341, KeyMatches: 1/4)
+  QuestionId: 6825d0ab4ea7e931e3720c0c
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Echinodermata
+  Question: </b><b> </b>Role of the water vascular system in Echinoderms is:<br>A. Respiration and Locomotion<br>B. Excretion and Locomotion<br>C. Capture and transport of food<br>D. Digestion and Respiration<br>E. Digestion and Excretion<br>Choose the <b>correct</b> answer from the options given below:
+  Answer: ["D"]
+  Options: [" B and C Only"," B, D and E Only"," A and B Only"," A and C Only"]
+  Solution: Water vascular system is involved in respiration, locomotion, capture of prey and transport of food.<br><br>...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.246, Similarity: 0.241, KeyMatches: 1/4)
+  QuestionId: 6a043365a5510d0cfe1b744d
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Class Osteichthyes
+  Question: Select the set of fishes which belong to the class Osteichthyes:
+  Answer: ["C"]
+  Options: [" Devil fish, Cuttlefish and Hagfish"," Starfish, Hagfish and Cuttlefish"," Flying fish, Angel fish and Fighting fish"," Saw fish, Fighting fish and Dog fish"]
+  Solution: The correct answer is option (3).<br>Flying fish (Exocoetus) is a marine bony fish. Angel fish (Pterophyllum) and fighting fish (Betta) are aquarium bony fishes.<br>Option (1) is incorrect as:-<br>Devil fish (Octopus) and cuttlefish (Sepia) are molluscs.<br>Hag fish (Myxine) is a cyclostome.<br>Opti...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.234, Similarity: 0.210, KeyMatches: 1/4)
+  QuestionId: 6a043365a5510d0cfe1b745d
+  Year: N/A
+  Chapter/Topic: Chemical Coordination and Integration -> Human Endocrine System
+  Question: Match List I with List II:<br><div class='uploaded-question-table-par'><table class='uploaded-question-table'><tr><td></td><td><b>List-I</b></td><td></td><td><b>List-II</b></td></tr><tr><td>A.</td><td>Cortisol</td><td>I.</td><td>Stimulates the formation of alveoli in mammary glands</td></tr><tr><td>B.</td><td>Aldosterone</td><td>II.</td><td>Produces anti-inflammatory reactions</td></tr><tr><td>C.</td><td>Cholecystokinin</td><td>III.</td><td>Stimulates reabsorption of Na<sup>+</sup> and water from renal tubule</td></tr><tr><td>D.</td><td>Progesterone</td><td>IV.</td><td>Stimulates secretion of pancreatic enzymes and bile juice</td></tr></table></div><br>Choose the correct answer from the options given below:
+  Answer: ["B"]
+  Options: [" A-III, B-II, C-IV, D-I"," A-II, B-III, C-IV, D-I"," A-IV, B-II, C-I, D-III"," A-II, B-III, C-I, D-IV"]
+  Solution: The correct answer is option (2) as<br>- Cortisol produces anti-inflammatory reactions and suppresses the immune response.<br>- Aldosterone acts mainly at the renal tubules and stimulates the reabsorption of $\mathrm{Na}^{+}$and water and excretion of $\mathrm{K}^{+}$and phosphate ions.<br>- Cholecy...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.195, Similarity: 0.486, KeyMatches: 0/4)
+  QuestionId: 672b703aeae41e7d6871df23
+  Year: N/A
+  Chapter/Topic: Biodiversity and Its Conservation -> Biodiversity Conservation
+  Question: <b> </b>The type of conservation in which the threatened species are taken out from their natural habitat and placed in special setting when they can he protected and given special care is called
+  Answer: ["A"]
+  Options: [" Biodiversity conservation"," Semi-conservative method"," Sustainable development"," <i>in-situ</i> conservation"]
+  Solution: <i>Ex situ</i> Conservation – In this approach, threatened animals and plants are taken out from their natural habitat and placed in special setting where they can be protected and given special care....
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 8: Adult echinoderms are radially symmetrical but their larvae are bilaterally symmetrical. Echinoderms are triploblastic and coelomate animals with a complete digestive system.
+==================================================
+  MATCH 1 (Combined Score: 0.786, Similarity: 0.464, KeyMatches: 4/4)
+  QuestionId: 6a38fafedd3fde1e5b75d7ac
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Echinodermata
+  Question: Given below are two statements:<br>Statement I: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry.<br>Statement II: In phylum Echinodermata, both adults and larvae are radially symmetrical.<br>In the light of the above statements, choose the most appropriate answer from the options given below :
+  Answer: ["B"]
+  Options: [" Both Statement I and Statement II are incorrect"," Statement I is correct but Statement II is incorrect"," Statement I is incorrect but Statement II is correct"," Both Statement I and Statement II are correct"]
+  Solution: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry. Adult echinoderms are radially symmetrical while larval echinoderms are bilaterally symmetrical.<br>...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.456, Similarity: 0.390, KeyMatches: 2/4)
+  QuestionId: 6a043365a5510d0cfe1b745f
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Miscellaneous Examples
+  Question: Select the incorrect statements from the following:<br>A. Digestive system in Platyhelminthes is incomplete.<br>B. Bilateral symmetry is a characteristic feature of adult Echinoderms.<br>C. Pseudocoelom is possessed by Aschelminthes.<br>D. Notochord is persistent throughout life in the class Chondrichthyes.<br>E. Members of class Reptilia maintain a constant body temperature.<br><br>Choose the answer from the options given below:
+  Answer: ["A"]
+  Options: [" B and E only"," C and D only"," A and C only"," B and D only"]
+  Solution: $(\mathrm{A}) \rightarrow$ correct → Platyhelminthes have an incomplete digestive system.<br>(B) → incorrect → Bilateral symmetry is a characteristic feature of larvae of echinoderms. In adult echinoderms, radial symmetry is seen.<br>(C) → correct → Aschelminthes are characterised by the presence of...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.289, Similarity: 0.347, KeyMatches: 1/4)
+  QuestionId: 6825d0ab4ea7e931e3720c0c
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Echinodermata
+  Question: </b><b> </b>Role of the water vascular system in Echinoderms is:<br>A. Respiration and Locomotion<br>B. Excretion and Locomotion<br>C. Capture and transport of food<br>D. Digestion and Respiration<br>E. Digestion and Excretion<br>Choose the <b>correct</b> answer from the options given below:
+  Answer: ["D"]
+  Options: [" B and C Only"," B, D and E Only"," A and B Only"," A and C Only"]
+  Solution: Water vascular system is involved in respiration, locomotion, capture of prey and transport of food.<br><br>...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.183, Similarity: 0.459, KeyMatches: 0/4)
+  QuestionId: 6825d0ab4ea7e931e3720c22
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Basis of Classification
+  Question: </b><b> </b>While trying to find out the characteristic of a newly found animal, a researcher did the histology of adult animal and observed a cavity with presence of mesodermal tissue towards the body wall but no mesodermal tissue was observed towards the alimentary canal. What could be the possible coelom of that animal?
+  Answer: ["D"]
+  Options: [" Schizocoelomate"," Spongocoelomate"," Acoelomate"," Pseudocoelomate "]
+  Solution: The above explanation defines pseudocoelom condition<br>...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.166, Similarity: 0.414, KeyMatches: 0/4)
+  QuestionId: 672b703aeae41e7d6871df23
+  Year: N/A
+  Chapter/Topic: Biodiversity and Its Conservation -> Biodiversity Conservation
+  Question: <b> </b>The type of conservation in which the threatened species are taken out from their natural habitat and placed in special setting when they can he protected and given special care is called
+  Answer: ["A"]
+  Options: [" Biodiversity conservation"," Semi-conservative method"," Sustainable development"," <i>in-situ</i> conservation"]
+  Solution: <i>Ex situ</i> Conservation – In this approach, threatened animals and plants are taken out from their natural habitat and placed in special setting where they can be protected and given special care....
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 9: Match Column I with Column II regarding the basis of classification: Acoelomate, Pseudocoelomate, Radial symmetry, Bilateral symmetry
+==================================================
+  MATCH 1 (Combined Score: 0.424, Similarity: 0.310, KeyMatches: 2/4)
+  QuestionId: 672b703aeae41e7d6871df59
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Basis of Classification
+  Question: <b> </b>Consider the following statement:<br>A. Annelids are true coelomates<br>B. Poriferans are pseudocoelomates<br>C. Aschelminthes are acoelomates<br>D. Platyhelminthes are pseudocoelomates<br>Choose the correct answer from the options given below:
+  Answer: ["A"]
+  Options: [" A only"," C only"," D only"," B only"]
+  Solution: Poriferans are Acoelomates<br>Aschelminthes are Pseudocoelomate<br>Platyhelminthes are Acoelomates...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.423, Similarity: 0.308, KeyMatches: 2/4)
+  QuestionId: 6a38fafedd3fde1e5b75d7ac
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Echinodermata
+  Question: Given below are two statements:<br>Statement I: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry.<br>Statement II: In phylum Echinodermata, both adults and larvae are radially symmetrical.<br>In the light of the above statements, choose the most appropriate answer from the options given below :
+  Answer: ["B"]
+  Options: [" Both Statement I and Statement II are incorrect"," Statement I is correct but Statement II is incorrect"," Statement I is incorrect but Statement II is correct"," Both Statement I and Statement II are correct"]
+  Solution: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry. Adult echinoderms are radially symmetrical while larval echinoderms are bilaterally symmetrical.<br>...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.422, Similarity: 0.306, KeyMatches: 2/4)
+  QuestionId: 6a043365a5510d0cfe1b745f
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Miscellaneous Examples
+  Question: Select the incorrect statements from the following:<br>A. Digestive system in Platyhelminthes is incomplete.<br>B. Bilateral symmetry is a characteristic feature of adult Echinoderms.<br>C. Pseudocoelom is possessed by Aschelminthes.<br>D. Notochord is persistent throughout life in the class Chondrichthyes.<br>E. Members of class Reptilia maintain a constant body temperature.<br><br>Choose the answer from the options given below:
+  Answer: ["A"]
+  Options: [" B and E only"," C and D only"," A and C only"," B and D only"]
+  Solution: $(\mathrm{A}) \rightarrow$ correct → Platyhelminthes have an incomplete digestive system.<br>(B) → incorrect → Bilateral symmetry is a characteristic feature of larvae of echinoderms. In adult echinoderms, radial symmetry is seen.<br>(C) → correct → Aschelminthes are characterised by the presence of...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.148, Similarity: 0.369, KeyMatches: 0/4)
+  QuestionId: 6a38fafedd3fde1e5b75d7da
+  Year: N/A
+  Chapter/Topic: Locomotion and Movement -> Mechanism of Muscle Contraction - Sliding Filament Theory
+  Question: Muscle contraction is initiated by a signal sent by the central nervous system by the release of
+  Answer: ["D"]
+  Options: [" acetyl coenzyme A"," cyclic guanine monophosphate"," cyclic adenine monophosphate"," acetyl choline"]
+  Solution: Muscle contraction is initiated by a signal sent by the central nervous system (CNS) via a motor neuron. A neural signal reaching this junction releases a neurotransmitter (Acetylcholine) which generates an action potential in the sarcolemma.<br>...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.142, Similarity: 0.355, KeyMatches: 0/4)
+  QuestionId: 6a043365a5510d0cfe1b7463
+  Year: N/A
+  Chapter/Topic: Excretory Products and Their Elimination -> Regulation of Kidney Functions
+  Question: The JGA (Juxta Glomerular Apparatus) is a special sensitive region formed by cellular modifications in ____ related to the same nephron.
+  Answer: ["A"]
+  Options: [" Distal convoluted tubule and afferent renal arteriole"," Proximal convoluted tubule and afferent renal arteriole"," Distal convoluted tubule and efferent renal arteriole"," Proximal convoluted tubule and efferent renal arteriole"]
+  Solution: JGA is a special sensitive region formed by cellular modifications in the distal convoluted tubule and the afferent arteriole at the location of their contact.<br>...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 10: How many of the following statements are correct regarding Phylum Platyhelminthes? (i) endoparasites (ii) Planaria (iii) flame cells (iv) sexes are separate
+==================================================
+  MATCH 1 (Combined Score: 0.319, Similarity: 0.422, KeyMatches: 1/4)
+  QuestionId: 672b703aeae41e7d6871df59
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Basis of Classification
+  Question: <b> </b>Consider the following statement:<br>A. Annelids are true coelomates<br>B. Poriferans are pseudocoelomates<br>C. Aschelminthes are acoelomates<br>D. Platyhelminthes are pseudocoelomates<br>Choose the correct answer from the options given below:
+  Answer: ["A"]
+  Options: [" A only"," C only"," D only"," B only"]
+  Solution: Poriferans are Acoelomates<br>Aschelminthes are Pseudocoelomate<br>Platyhelminthes are Acoelomates...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.285, Similarity: 0.338, KeyMatches: 1/4)
+  QuestionId: 6a043365a5510d0cfe1b745f
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Miscellaneous Examples
+  Question: Select the incorrect statements from the following:<br>A. Digestive system in Platyhelminthes is incomplete.<br>B. Bilateral symmetry is a characteristic feature of adult Echinoderms.<br>C. Pseudocoelom is possessed by Aschelminthes.<br>D. Notochord is persistent throughout life in the class Chondrichthyes.<br>E. Members of class Reptilia maintain a constant body temperature.<br><br>Choose the answer from the options given below:
+  Answer: ["A"]
+  Options: [" B and E only"," C and D only"," A and C only"," B and D only"]
+  Solution: $(\mathrm{A}) \rightarrow$ correct → Platyhelminthes have an incomplete digestive system.<br>(B) → incorrect → Bilateral symmetry is a characteristic feature of larvae of echinoderms. In adult echinoderms, radial symmetry is seen.<br>(C) → correct → Aschelminthes are characterised by the presence of...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.187, Similarity: 0.466, KeyMatches: 0/4)
+  QuestionId: 6a38fafedd3fde1e5b75d792
+  Year: N/A
+  Chapter/Topic: Locomotion and Movement -> Human Skeletal System (Appendicular Skeleton)
+  Question: Which of the following represents the correct sequence of arrangement of bones in the lower limb of humans?
+  Answer: ["B"]
+  Options: [" Patella-femur-tibia-tarsal"," Femur-patella-tibia-tarsal"," Femur-tarsal-patella-tibia"," Femur-tibia-patella-tarsal"]
+  Solution: Each hindlimb consists of 30 bones. The bones of the lower limb is femur (thigh bone), a cup shaped bone called patella cover the knee ventrally (knee cap), tibia and fibula, tarsals (ankle bones), metatarsals and phalanges. So, the correct sequence of arrangement of lower limb of humans will be Fem...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.173, Similarity: 0.434, KeyMatches: 0/4)
+  QuestionId: 672b703aeae41e7d6871df36
+  Year: N/A
+  Chapter/Topic: Molecular Basis of Inheritance -> DNA Replication
+  Question: <b> </b>Which of the following statements is correct regarding the process of replication in <i>E.coli</i> ?
+  Answer: ["C"]
+  Options: [" The DNA dependent RNA polymerase catalyses polymerization in one direction, that is 5′ →  3′."," The DNA dependent DNA polymerase catalyses polymerization in 5′ →  3′ as well as 3′ →  5′ direction."," The DNA dependent DNA polymerase catalyses polymerization in 5′ →  3′ direction."," The DNA dependent DNA polymerase catalyses polymerization in one direction that is 3′ →  5′."]
+  Solution: In living cells, such as E. coli, the process of replication requires a set of catalysts (enzymes). The main enzyme is referred to as DNA-dependent DNA polymerase, since it uses a DNA template to catalyse the polymerisation of deoxynucleotides. <br>The DNA-dependent DNA polymerases catalyse polymeri...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.167, Similarity: 0.417, KeyMatches: 0/4)
+  QuestionId: 6a38fafedd3fde1e5b75d795
+  Year: N/A
+  Chapter/Topic: Photosynthesis in Higher Plants -> Photorespiration
+  Question: Which of the following statements regarding photorespiration are correct?<br>(a) Do not occur in C3 plants<br>(b) CO2 is consumed and O2 is generated<br>(c) Phosphoglycolate is formed<br>(d) No synthesis of ATP and NADPH<br>Choose the correct answer from the options given below:
+  Answer: ["A"]
+  Options: [" (c) and (d) only"," (b) and (d) only"," (a) and (b) only"," (a) and (d) only"]
+  Solution: Photorespiration can occur in C3 plants. In photorespiration, O2 is consumed and CO2 is released. Phosphoglycolate is formed as the initial product. There is no synthesis of ATP and NADPH in photorespiration.<br>...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 11: In molluscs, the space between the visceral hump and the mantle is called the mantle cavity in which feather-like gills are present. These gills have only respiratory functions and do not participate in excretion.
+==================================================
+  MATCH 1 (Combined Score: 0.258, Similarity: 0.270, KeyMatches: 1/4)
+  QuestionId: 6a043365a5510d0cfe1b7434
+  Year: N/A
+  Chapter/Topic: Respiration in Plants -> Respiratory Quotient
+  Question: $2\left(\mathrm{C}_{51} \mathrm{H}_{98} \mathrm{C}_{6}\right)+145 \mathrm{O}_{2} \rightarrow 102 \mathrm{CO}_{2}+98 \mathrm{H}_{2} \mathrm{O}+$ energy<br><br>The Respiratory Quotient (RQ) of a biomolecule used for respiration, as per the above equation would be :
+  Answer: ["B"]
+  Options: [" Less than 0.5"," Between 0.5 and 0.95"," Between 1.25 and 2"," 1.0"]
+  Solution: $\mathrm{R} . \mathrm{Q}=\frac{\text { Volume of } \mathrm{CO}_{2} \text { evolved }}{\text { Volume of } \mathrm{O}_{2} \text { consumed }}$<br>As per the given equation,<br>$$<br>2\left(\mathrm{C}_{51} \mathrm{H}_{98} \mathrm{O}_{6}\right)+145 \mathrm{O}_{2} \rightarrow 102 \mathrm{CO}_{2}+98 \mat...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.248, Similarity: 0.245, KeyMatches: 1/4)
+  QuestionId: 6825d0ab4ea7e931e3720c3e
+  Year: N/A
+  Chapter/Topic: Breathing and Exchange of Gases -> Disorders of Respiratory System
+  Question: </b><b> </b>Match <b>List - I</b> with <b>List – II</b><br><div class='uploaded-question-table-par'><table class='uploaded-question-table'><tr><td></td><td><b>List - I</b></td><td></td><td><b>List - II</b></td></tr><tr><td>A.</td><td>Emphysema</td><td>I.</td><td>Rapid spasms in muscle due to low Ca<sup>++</sup> in body fluid</td></tr><tr><td>B.</td><td>Angina Pectoris</td><td>II.</td><td>Damaged alveolar walls and decreased respiratory surface</td></tr><tr><td>C.</td><td>Glomerulo-nephritis</td><td>III.</td><td>Acute chest pain when not enough oxygen is reaching to heart muscle</td></tr><tr><td>D.</td><td>Tetany</td><td>IV.</td><td>Inflammation of glomeruli of kidney</td></tr></table></div><br>Choose the <b>correct </b>answer from the options given below :
+  Answer: ["B"]
+  Options: [" A-II, B-IV, C-III, D-I"," A-II, B-III, C-IV, D-I"," A-III, B-I, C-IV, D-II"," A-III, B-I, C-II, D-IV"]
+  Solution: <b>Emphysema</b> is a chronic disorder in which alveolar walls are damaged due to which respiratory surface is decreased. One of the major causes of this is cigarette smoking<br><b>Angina:</b> It is also called ‘angina pectoris’. A symptom of acute chest pain appears when no enough oxygen is reachin...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.238, Similarity: 0.220, KeyMatches: 1/4)
+  QuestionId: 6a043365a5510d0cfe1b7465
+  Year: N/A
+  Chapter/Topic: Breathing and Exchange of Gases -> Respiratory Organs in Animals
+  Question: Match List I with List II:<br/><div class="uploaded-question-table-par"><table class="uploaded-question-table"><tbody><tr><td></td><td><b>List I</b></td><td></td><td><b>List II</b></td></tr><tr><td>A.</td><td>Molluscs</td><td>I.</td><td>Pulmonary respiration only</td></tr><tr><td>B.</td><td>Reptiles</td><td>II.</td><td>Branchial respiration</td></tr><tr><td>C.</td><td>Adult amphibians</td><td>III.</td><td>Cellular respiration</td></tr><tr><td>D.</td><td>Amoeba</td><td>IV.</td><td>Pulmonary and cutaneous respiration</td></tr></tbody></table></div><br/>Choose the correct answer from the options given below:
+  Answer: ["B"]
+  Options: ["A–III, B–II, C–I, D–IV","A–II, B–I, C–IV, D–III","A–II, B–I, C–III, D–IV","A–I, B–II, C–IV, D–III"]
+  Solution: (A) Molluscs → (II) Perform branchial respiration by using feather-like gills<br>(B) Reptiles → (I) Perform pulmonary respiration only via lungs<br>(C) Adult amphibians → (IV) Perform pulmonary and cutaneous respiration via lungs and moist skin, respectively<br>(D) Amoeba → (III) Performs cellular r...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.227, Similarity: 0.192, KeyMatches: 1/4)
+  QuestionId: 6a043365a5510d0cfe1b7446
+  Year: N/A
+  Chapter/Topic: Breathing and Exchange of Gases -> Respiratory Volumes and Capacities
+  Question: Match List-I with List-II.<br><div class='uploaded-question-table-par'><table class='uploaded-question-table'><tr><td></td><td><b>List-I </b><b>(Respiratory Volume)</b></td><td></td><td><b>List-II</b><b> </b><b>(Capacity in mL)</b></td></tr><tr><td>A.</td><td>ERV (Expiratory Reserve Volume)</td><td>I.</td><td>2500 – 3000 mL</td></tr><tr><td>B.</td><td>RV (Residual Volume)</td><td>II.</td><td>500 mL</td></tr><tr><td>C.</td><td>IRV (Inspiratory Reserve Volume)</td><td>III.</td><td>1000 – 1100 mL</td></tr><tr><td>D.</td><td>TV (Tidal Volume)</td><td>IV.</td><td>1100 – 1200 mL</td></tr></table></div><br>Choose the correct answer from the options given below :
+  Answer: ["C"]
+  Options: [" A-III, B-I, C-IV, D-II"," A-I, B-III, C-II, D-IV"," A-III, B-IV, C-I, D-II"," A-I, B-II, C-III, D-IV"]
+  Solution: ERV (Expiratory Reserve Volume) - 1000-1100 mL<br>RV (Residual Volume) - 1100–1200 mL<br>IRV (Inspiratory Reserve Volume) - 2500–3000 mL<br>TV (Tidal Volume) - 500 mL<br>...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.201, Similarity: 0.128, KeyMatches: 1/4)
+  QuestionId: 6a38fafedd3fde1e5b75d787
+  Year: N/A
+  Chapter/Topic: Structural Organisation in Animals -> Frog - Anatomy
+  Question: In water, frogs respire using
+  Answer: ["D"]
+  Options: [" buccal cavity"," lungs"," trachea"," skin"]
+  Solution: Frogs respire on land and in water by different methods. In water, skin acts as aquatic respiratory organ (cutaneous respiration). Dissolved oxygen in the water is exchanged through the skin by diffusion. On land, the buccal cavity, skin and lungs act as the respiratory organs.<br>...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 12: Match the organisms in Column I with their common names in Column II. Asterias, Echinus, Antedon, Ophiura
+==================================================
+  MATCH 1 (Combined Score: 0.246, Similarity: 0.241, KeyMatches: 1/4)
+  QuestionId: 6a043365a5510d0cfe1b744d
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Class Osteichthyes
+  Question: Select the set of fishes which belong to the class Osteichthyes:
+  Answer: ["C"]
+  Options: [" Devil fish, Cuttlefish and Hagfish"," Starfish, Hagfish and Cuttlefish"," Flying fish, Angel fish and Fighting fish"," Saw fish, Fighting fish and Dog fish"]
+  Solution: The correct answer is option (3).<br>Flying fish (Exocoetus) is a marine bony fish. Angel fish (Pterophyllum) and fighting fish (Betta) are aquarium bony fishes.<br>Option (1) is incorrect as:-<br>Devil fish (Octopus) and cuttlefish (Sepia) are molluscs.<br>Hag fish (Myxine) is a cyclostome.<br>Opti...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.145, Similarity: 0.362, KeyMatches: 0/4)
+  QuestionId: 6a043365a5510d0cfe1b7450
+  Year: N/A
+  Chapter/Topic: Strategies for enhancement in food production -> Plant breeding
+  Question: The toxin proteins isolated from Bacillus thuringiensis, coded by which of the following genes would control cotton bollworms and corn borer, respectively?
+  Answer: ["C"]
+  Options: [" <i>cryIAc</i> and <i>cryllIAb</i>"," <i>crylAc</i> and <i>cryllAb</i>"," <i>crylAc</i> and <i>crylAb</i>"," <i>cryIIAb</i> and <i>cryIAc</i>"]
+  Solution: Specific Bt toxin genes were isolated from <i>Bacillus thuringiensis</i> and incorporated into the several crop plants such as cotton. The choice of genes depends upon the crop and the targeted pest, as most Bt toxins are insect-group specific. The toxin is coded by a gene named <i>cry</i>. The prot...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.144, Similarity: 0.359, KeyMatches: 0/4)
+  QuestionId: 6a043365a5510d0cfe1b7410
+  Year: N/A
+  Chapter/Topic: Molecular Basis of Inheritance -> RNA World
+  Question: <b> </b>Which one of the following is the site for active ribosomal RNA synthesis?
+  Answer: ["A"]
+  Options: [" Nucleolus"," Chromatin"," Centrosome"," Kinetochore"]
+  Solution: Nucleolus is the site for active ribosomal RNA synthesis.<br>...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.140, Similarity: 0.349, KeyMatches: 0/4)
+  QuestionId: 6a043365a5510d0cfe1b7456
+  Year: N/A
+  Chapter/Topic: Biotechnology and Its Applications -> Transgenic Animals
+  Question: The human protein named $\alpha-1$-antitrypsin, obtained from transgenic animals, is used for the treatment of _____.
+  Answer: ["B"]
+  Options: [" Alzheimer's disease"," Emphysema"," Rheumatoid arthritis"," Cystic fibrosis"]
+  Solution: The human protein named $\alpha-1$-antitrypsin, obtained from transgenic animals, is used for the treatment of emphysema.<br><br>Transgenic models exist for the study of other diseases, such as Alzheimer's disease, rheumatoid arthritis and cystic fibrosis.<br><br>...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.139, Similarity: 0.347, KeyMatches: 0/4)
+  QuestionId: 6a38fafedd3fde1e5b75d7da
+  Year: N/A
+  Chapter/Topic: Locomotion and Movement -> Mechanism of Muscle Contraction - Sliding Filament Theory
+  Question: Muscle contraction is initiated by a signal sent by the central nervous system by the release of
+  Answer: ["D"]
+  Options: [" acetyl coenzyme A"," cyclic guanine monophosphate"," cyclic adenine monophosphate"," acetyl choline"]
+  Solution: Muscle contraction is initiated by a signal sent by the central nervous system (CNS) via a motor neuron. A neural signal reaching this junction releases a neurotransmitter (Acetylcholine) which generates an action potential in the sarcolemma.<br>...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 13: Notochord is a mesodermally derived rod-like structure formed on the:
+==================================================
+  MATCH 1 (Combined Score: 0.425, Similarity: 0.312, KeyMatches: 2/4)
+  QuestionId: 6a38fafedd3fde1e5b75d78f
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Chordata
+  Question: Which of the following is not a characteristic of chordates?
+  Answer: ["B"]
+  Options: [" Central nervous system is dorsal"," Absence of gills"," Presence of post anal part (tail)"," Presence of notochord"]
+  Solution: The members of phylum Chordata show following features: (1) Presence of notochord (2) Pharynx perforated by gill slits (3) Dorsal, hollow and single central nervous system (4) Ventral heart (5) A post-anal tail. Gill slits are absent in non-chordates.<br>...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.386, Similarity: 0.216, KeyMatches: 2/4)
+  QuestionId: 672b703aeae41e7d6871df6d
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Basis of Classification
+  Question: <b> </b>The following are the statements about non-chordates : <br>A. Pharynx. is perforated by gill slits. <br>B. Notochord is absent. <br>C. Central nervous system is dorsal. <br>D. Heart is dorsal if present. <br>E. Post anal tail is absent. <br>Choose the most appropriate answer from the options given below :
+  Answer: ["B"]
+  Options: [" A, B & D only"," B, D & E only"," B, C & D only"," A & C only"]
+  Solution: Non-Chordates<br>Notochord is absent.<br>Central nervous system is ventral, solid and double.<br>Gill slits are absent.<br>Heart is dorsal (if present).<br>Post-anal tail is absent....
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.235, Similarity: 0.214, KeyMatches: 1/4)
+  QuestionId: 6a043365a5510d0cfe1b745f
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Miscellaneous Examples
+  Question: Select the incorrect statements from the following:<br>A. Digestive system in Platyhelminthes is incomplete.<br>B. Bilateral symmetry is a characteristic feature of adult Echinoderms.<br>C. Pseudocoelom is possessed by Aschelminthes.<br>D. Notochord is persistent throughout life in the class Chondrichthyes.<br>E. Members of class Reptilia maintain a constant body temperature.<br><br>Choose the answer from the options given below:
+  Answer: ["A"]
+  Options: [" B and E only"," C and D only"," A and C only"," B and D only"]
+  Solution: $(\mathrm{A}) \rightarrow$ correct → Platyhelminthes have an incomplete digestive system.<br>(B) → incorrect → Bilateral symmetry is a characteristic feature of larvae of echinoderms. In adult echinoderms, radial symmetry is seen.<br>(C) → correct → Aschelminthes are characterised by the presence of...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.210, Similarity: 0.150, KeyMatches: 1/4)
+  QuestionId: 6825d0ab4ea7e931e3720bf1
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Chordata
+  Question: </b><b> </b>Given below are two statements: one is labelled as <b>Assertion (A)</b> and the other labelled as <b>Reason (R)</b>.<br><b>Assertion (A):</b> All vertebrates are chordates but all chordates are not vertebrate.<br><b>Reason (R):</b> The members of subphylum vertebrata possess notochord during the embryonic period, the notochord is replaced by a cartilaginous or bony vertebral column in adults.<br>In the light of the above statements, choose the correct answer from the options given below:
+  Answer: ["C"]
+  Options: [" <b>A</b> is true but <b>R</b> is false"," <b>A</b> is false but <b>R</b> is true"," Both <b>A</b> and <b>R</b> are true and <b>R</b> is the correct explanation of <b>A</b>."," Both <b>A</b> and <b>R</b> are true and <b>R</b> is <b>not</b> the correct explanation of <b>A</b>."]
+  Solution: All vertebrates are chordates but all chordates are not vertebrates. This statement is true because all the features of chordates are present in all the vertebrates in some stage of life. In adult vertebrates, the notochord is replaced by the vertebral column and this is not the case for all chordat...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.208, Similarity: 0.144, KeyMatches: 1/4)
+  QuestionId: 6a043365a5510d0cfe1b745c
+  Year: N/A
+  Chapter/Topic: Locomotion and Movement -> Human Skeletal System (Axial Skeleton)
+  Question: Which of the following statements are correct with reference to human endoskeleton?<br>A. Human skull is monocondylic.<br>B. The joint between any two adjoining vertebrae is a cartilaginous joint.<br>C. In human beings, the number of cervical vertebrae is seven.<br>D. All ribs except the last 2 pairs are bicephalic.<br>E. The occipital bone of skull is articulated with atlas vertebra.<br><br>Choose the correct answer from the options given below:
+  Answer: ["C"]
+  Options: [" A, B and D only"," B and E only"," B, C and E only"," C, D and E only"]
+  Solution: (A) Incorrect : Human skull is dicondylic. The skull region articulates with the superior region of the vertebral column (Atlas) with the help of two occipital condyles.<br>(B) Correct : The joint present between the adjacent vertebrae of vertebral column is cartilaginous joints.<br>(C) Correct : Th...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 14: Specialized cells called flame cells in Platyhelminthes help in:
+==================================================
+  MATCH 1 (Combined Score: 0.227, Similarity: 0.192, KeyMatches: 1/4)
+  QuestionId: 672b703aeae41e7d6871df59
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Basis of Classification
+  Question: <b> </b>Consider the following statement:<br>A. Annelids are true coelomates<br>B. Poriferans are pseudocoelomates<br>C. Aschelminthes are acoelomates<br>D. Platyhelminthes are pseudocoelomates<br>Choose the correct answer from the options given below:
+  Answer: ["A"]
+  Options: [" A only"," C only"," D only"," B only"]
+  Solution: Poriferans are Acoelomates<br>Aschelminthes are Pseudocoelomate<br>Platyhelminthes are Acoelomates...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.218, Similarity: 0.170, KeyMatches: 1/4)
+  QuestionId: 6a043365a5510d0cfe1b745f
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Miscellaneous Examples
+  Question: Select the incorrect statements from the following:<br>A. Digestive system in Platyhelminthes is incomplete.<br>B. Bilateral symmetry is a characteristic feature of adult Echinoderms.<br>C. Pseudocoelom is possessed by Aschelminthes.<br>D. Notochord is persistent throughout life in the class Chondrichthyes.<br>E. Members of class Reptilia maintain a constant body temperature.<br><br>Choose the answer from the options given below:
+  Answer: ["A"]
+  Options: [" B and E only"," C and D only"," A and C only"," B and D only"]
+  Solution: $(\mathrm{A}) \rightarrow$ correct → Platyhelminthes have an incomplete digestive system.<br>(B) → incorrect → Bilateral symmetry is a characteristic feature of larvae of echinoderms. In adult echinoderms, radial symmetry is seen.<br>(C) → correct → Aschelminthes are characterised by the presence of...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.199, Similarity: 0.122, KeyMatches: 1/4)
+  QuestionId: 6825d0ab4ea7e931e3720c0c
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Echinodermata
+  Question: </b><b> </b>Role of the water vascular system in Echinoderms is:<br>A. Respiration and Locomotion<br>B. Excretion and Locomotion<br>C. Capture and transport of food<br>D. Digestion and Respiration<br>E. Digestion and Excretion<br>Choose the <b>correct</b> answer from the options given below:
+  Answer: ["D"]
+  Options: [" B and C Only"," B, D and E Only"," A and B Only"," A and C Only"]
+  Solution: Water vascular system is involved in respiration, locomotion, capture of prey and transport of food.<br><br>...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.180, Similarity: 0.074, KeyMatches: 1/4)
+  QuestionId: 6a043365a5510d0cfe1b745d
+  Year: N/A
+  Chapter/Topic: Chemical Coordination and Integration -> Human Endocrine System
+  Question: Match List I with List II:<br><div class='uploaded-question-table-par'><table class='uploaded-question-table'><tr><td></td><td><b>List-I</b></td><td></td><td><b>List-II</b></td></tr><tr><td>A.</td><td>Cortisol</td><td>I.</td><td>Stimulates the formation of alveoli in mammary glands</td></tr><tr><td>B.</td><td>Aldosterone</td><td>II.</td><td>Produces anti-inflammatory reactions</td></tr><tr><td>C.</td><td>Cholecystokinin</td><td>III.</td><td>Stimulates reabsorption of Na<sup>+</sup> and water from renal tubule</td></tr><tr><td>D.</td><td>Progesterone</td><td>IV.</td><td>Stimulates secretion of pancreatic enzymes and bile juice</td></tr></table></div><br>Choose the correct answer from the options given below:
+  Answer: ["B"]
+  Options: [" A-III, B-II, C-IV, D-I"," A-II, B-III, C-IV, D-I"," A-IV, B-II, C-I, D-III"," A-II, B-III, C-I, D-IV"]
+  Solution: The correct answer is option (2) as<br>- Cortisol produces anti-inflammatory reactions and suppresses the immune response.<br>- Aldosterone acts mainly at the renal tubules and stimulates the reabsorption of $\mathrm{Na}^{+}$and water and excretion of $\mathrm{K}^{+}$and phosphate ions.<br>- Cholecy...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.131, Similarity: 0.328, KeyMatches: 0/4)
+  QuestionId: 672b703aeae41e7d6871df30
+  Year: N/A
+  Chapter/Topic: Plant Growth and Development -> Development
+  Question: <b> </b>The capacity to generate a whole plant from any cell of the plant is called
+  Answer: ["D"]
+  Options: [" Micropropagation"," Differentiation"," Somatic hybridization"," Totipotency"]
+  Solution: It was learnt by scientists, during 1950s, that whole plants could be regenerated from explants, i.e., any part of a plant taken out and grown in a test tube, under sterile conditions in special nutrient media. This capacity to generate a whole plant from any cell/explant is called totipotency...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 15: The file-like rasping organ present in the mouth of molluscs for feeding is called:
+==================================================
+  MATCH 1 (Combined Score: 0.237, Similarity: 0.218, KeyMatches: 1/4)
+  QuestionId: 672b703aeae41e7d6871df5f
+  Year: N/A
+  Chapter/Topic: Human Reproduction -> Lactation
+  Question: <b> </b>Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R.<br>Assertion A: Breast-feeding during initial period of infant growth is recommended by doctors for bringing a healthy baby. <br>Reason R: Colostrum Contains several antibodies absolutely essential to develop resistance for the new-born baby. <br>In the light of the above statements, choose the most appropriate answer from the options given below:
+  Answer: ["D"]
+  Options: [" Both A and R are correct, but R is NOT the correct explanation of A."," A is correct but R is not correct."," A is not correct but R is correct."," Both A and R are correct, and R is the correct explanation of A."]
+  Solution: The mammary glands of the female undergo differentiation during pregnancy and starts producing milk towards the end of pregnancy by the process called lactation. This helps the mother in feeding the newborn. The milk produced during the initial few days of lactation is called colostrum which contain...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.235, Similarity: 0.213, KeyMatches: 1/4)
+  QuestionId: 6a043365a5510d0cfe1b744d
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Class Osteichthyes
+  Question: Select the set of fishes which belong to the class Osteichthyes:
+  Answer: ["C"]
+  Options: [" Devil fish, Cuttlefish and Hagfish"," Starfish, Hagfish and Cuttlefish"," Flying fish, Angel fish and Fighting fish"," Saw fish, Fighting fish and Dog fish"]
+  Solution: The correct answer is option (3).<br>Flying fish (Exocoetus) is a marine bony fish. Angel fish (Pterophyllum) and fighting fish (Betta) are aquarium bony fishes.<br>Option (1) is incorrect as:-<br>Devil fish (Octopus) and cuttlefish (Sepia) are molluscs.<br>Hag fish (Myxine) is a cyclostome.<br>Opti...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.207, Similarity: 0.143, KeyMatches: 1/4)
+  QuestionId: 672b703aeae41e7d6871df47
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Chordata
+  Question: <b> </b>Match List I with List II:<br><div class='uploaded-question-table-par'><table class='uploaded-question-table'><tr><td><b>List I</b></td><td><b>List II</b></td></tr><tr><td>A. Pleurobrachia</td><td>I. Mollusca</td></tr><tr><td>B. Radula</td><td>II. Ctenophora</td></tr><tr><td>C. Stomochord</td><td>III. Osteichthyes</td></tr><tr><td>D. Air bladder</td><td>IV. Hemichordata</td></tr></table></div><br>Choose the correct answer from the options given below:
+  Answer: ["A"]
+  Options: [" A-II, B-I, C-IV, D-III"," A-II, B-IV, C-I, D-III"," A-IV, B-III, C-II, D-I"," A-IV, B-II, C-III, D-I"]
+  Solution: (a) A-II, B-I, C-IV, D-III<br>Pleurobrachia - Ctenophora<br>Radula - Mollusca<br>Stomochord - hemichordata<br>Air bladder - Osteichthyes...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.200, Similarity: 0.125, KeyMatches: 1/4)
+  QuestionId: 6a043365a5510d0cfe1b7465
+  Year: N/A
+  Chapter/Topic: Breathing and Exchange of Gases -> Respiratory Organs in Animals
+  Question: Match List I with List II:<br/><div class="uploaded-question-table-par"><table class="uploaded-question-table"><tbody><tr><td></td><td><b>List I</b></td><td></td><td><b>List II</b></td></tr><tr><td>A.</td><td>Molluscs</td><td>I.</td><td>Pulmonary respiration only</td></tr><tr><td>B.</td><td>Reptiles</td><td>II.</td><td>Branchial respiration</td></tr><tr><td>C.</td><td>Adult amphibians</td><td>III.</td><td>Cellular respiration</td></tr><tr><td>D.</td><td>Amoeba</td><td>IV.</td><td>Pulmonary and cutaneous respiration</td></tr></tbody></table></div><br/>Choose the correct answer from the options given below:
+  Answer: ["B"]
+  Options: ["A–III, B–II, C–I, D–IV","A–II, B–I, C–IV, D–III","A–II, B–I, C–III, D–IV","A–I, B–II, C–IV, D–III"]
+  Solution: (A) Molluscs → (II) Perform branchial respiration by using feather-like gills<br>(B) Reptiles → (I) Perform pulmonary respiration only via lungs<br>(C) Adult amphibians → (IV) Perform pulmonary and cutaneous respiration via lungs and moist skin, respectively<br>(D) Amoeba → (III) Performs cellular r...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.171, Similarity: 0.428, KeyMatches: 0/4)
+  QuestionId: 6a38fafedd3fde1e5b75d7d3
+  Year: N/A
+  Chapter/Topic: Human Health and Disease -> Drug and Alcohol Abuse
+  Question: Which of the following is used as an effective sedative and painkiller for treating post-surgery patients?
+  Answer: ["B"]
+  Options: [" Antibiotics"," Morphine"," Anti-retroviral drugs"," Interferon"]
+  Solution: Morphine is a very effective sedative and painkiller and is very useful in patients who have undergone surgery.<br>...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 16: How many of the following organisms belong to Phylum Echinodermata? Asterias, Echinus, Antedon, Cucumaria, Ophiura, Pila, Sepia, Loligo.
+==================================================
+  MATCH 1 (Combined Score: 0.232, Similarity: 0.329, KeyMatches: 1/6)
+  QuestionId: 6a38fafedd3fde1e5b75d7ac
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Echinodermata
+  Question: Given below are two statements:<br>Statement I: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry.<br>Statement II: In phylum Echinodermata, both adults and larvae are radially symmetrical.<br>In the light of the above statements, choose the most appropriate answer from the options given below :
+  Answer: ["B"]
+  Options: [" Both Statement I and Statement II are incorrect"," Statement I is correct but Statement II is incorrect"," Statement I is incorrect but Statement II is correct"," Both Statement I and Statement II are correct"]
+  Solution: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry. Adult echinoderms are radially symmetrical while larval echinoderms are bilaterally symmetrical.<br>...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.203, Similarity: 0.257, KeyMatches: 1/6)
+  QuestionId: 6a043365a5510d0cfe1b744d
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Class Osteichthyes
+  Question: Select the set of fishes which belong to the class Osteichthyes:
+  Answer: ["C"]
+  Options: [" Devil fish, Cuttlefish and Hagfish"," Starfish, Hagfish and Cuttlefish"," Flying fish, Angel fish and Fighting fish"," Saw fish, Fighting fish and Dog fish"]
+  Solution: The correct answer is option (3).<br>Flying fish (Exocoetus) is a marine bony fish. Angel fish (Pterophyllum) and fighting fish (Betta) are aquarium bony fishes.<br>Option (1) is incorrect as:-<br>Devil fish (Octopus) and cuttlefish (Sepia) are molluscs.<br>Hag fish (Myxine) is a cyclostome.<br>Opti...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.163, Similarity: 0.408, KeyMatches: 0/6)
+  QuestionId: 6a043365a5510d0cfe1b741b
+  Year: N/A
+  Chapter/Topic: Plant Growth and Development -> Plant Growth
+  Question: <b> </b>Which one of the following is not a characteristic of plant cells in the phase of elongation?
+  Answer: ["B"]
+  Options: [" Increased vacuolation"," Large conspicuous nuclei"," Cell enlargement"," New cell wall deposition"]
+  Solution: Phase of elongation is characterised by new cell wall deposition, increased vacuolation and enlargement of cell. Presence of large conspicuous nuclei is a feature of cells in the meristematic phase.<br>...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.159, Similarity: 0.398, KeyMatches: 0/6)
+  QuestionId: 6825d0ab4ea7e931e3720bf0
+  Year: N/A
+  Chapter/Topic: Biotechnology and Its Applications -> Biotechnological Applications in Medicine
+  Question: </b><b> </b>Which of the following genetically engineered organisms was used by Eli Lilly to prepare human insulin?
+  Answer: ["C"]
+  Options: [" Virus"," Phage"," Bacterium"," Yeast"]
+  Solution: The genetically engineered organism used by Eli Lilly to prepare human insulin was E. coli<br>(a bacteria).<br><br>...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.158, Similarity: 0.394, KeyMatches: 0/6)
+  QuestionId: 6825d0ab4ea7e931e3720bf9
+  Year: N/A
+  Chapter/Topic: Organisms and Populations -> Population Interactions
+  Question: </b><b> </b>Epiphytes that are growing on a mango branch is an example of which of the following?
+  Answer: ["C"]
+  Options: [" Predation"," Amensalism"," Commensalism"," Mutualism"]
+  Solution: Epiphytes growing on a mango tree are an example of commensalism since the epiphyte is benefitted by gaining support and access to sunlight, while the mango does not appear to derive any benefit from it.<br><br>...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 17: How many of the following animals possess a true coelom? Sycon, Obelia, Pleurobrachia, Fasciola, Ascaris, Nereis, Apis, Pila, Asterias, Balanoglossus.
+==================================================
+  MATCH 1 (Combined Score: 0.185, Similarity: 0.326, KeyMatches: 1/11)
+  QuestionId: 672b703aeae41e7d6871df59
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Basis of Classification
+  Question: <b> </b>Consider the following statement:<br>A. Annelids are true coelomates<br>B. Poriferans are pseudocoelomates<br>C. Aschelminthes are acoelomates<br>D. Platyhelminthes are pseudocoelomates<br>Choose the correct answer from the options given below:
+  Answer: ["A"]
+  Options: [" A only"," C only"," D only"," B only"]
+  Solution: Poriferans are Acoelomates<br>Aschelminthes are Pseudocoelomate<br>Platyhelminthes are Acoelomates...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.156, Similarity: 0.390, KeyMatches: 0/11)
+  QuestionId: 6a38fafedd3fde1e5b75d7b2
+  Year: N/A
+  Chapter/Topic: Sexual Reproduction in Flowering plants -> Pre-Fertilisation: Structure and Events
+  Question: How many theca are present in each lobe of a typical bilobed angiosperm anther?
+  Answer: ["D"]
+  Options: [" 6"," 8"," 12"," 2"]
+  Solution: A typical anther is bilobed with each lobe having two theca i.e. they are dithecous.<br>...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.155, Similarity: 0.251, KeyMatches: 1/11)
+  QuestionId: 6a043365a5510d0cfe1b744d
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Class Osteichthyes
+  Question: Select the set of fishes which belong to the class Osteichthyes:
+  Answer: ["C"]
+  Options: [" Devil fish, Cuttlefish and Hagfish"," Starfish, Hagfish and Cuttlefish"," Flying fish, Angel fish and Fighting fish"," Saw fish, Fighting fish and Dog fish"]
+  Solution: The correct answer is option (3).<br>Flying fish (Exocoetus) is a marine bony fish. Angel fish (Pterophyllum) and fighting fish (Betta) are aquarium bony fishes.<br>Option (1) is incorrect as:-<br>Devil fish (Octopus) and cuttlefish (Sepia) are molluscs.<br>Hag fish (Myxine) is a cyclostome.<br>Opti...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.154, Similarity: 0.385, KeyMatches: 0/11)
+  QuestionId: 6a043365a5510d0cfe1b741b
+  Year: N/A
+  Chapter/Topic: Plant Growth and Development -> Plant Growth
+  Question: <b> </b>Which one of the following is not a characteristic of plant cells in the phase of elongation?
+  Answer: ["B"]
+  Options: [" Increased vacuolation"," Large conspicuous nuclei"," Cell enlargement"," New cell wall deposition"]
+  Solution: Phase of elongation is characterised by new cell wall deposition, increased vacuolation and enlargement of cell. Presence of large conspicuous nuclei is a feature of cells in the meristematic phase.<br>...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.153, Similarity: 0.383, KeyMatches: 0/11)
+  QuestionId: 6a38fafedd3fde1e5b75d7cd
+  Year: N/A
+  Chapter/Topic: Evolution -> Biological Evolution
+  Question: Adaptive radiation in placental mammals and Australian Marsupials leading to similarity between distant species is an example of
+  Answer: ["A"]
+  Options: [" convergent evolution"," founder effect"," genetic drift"," divergent evolution"]
+  Solution: When more than one adaptive radiation appeared to have occurred in an isolated geographical area, one can call this convergent evolution. Placental mammals in Australia also exhibit adaptive radiation in evolving into varieties each of which appears to be 'similar' to a corresponding marsupial.<br>...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 18: Read the following features: (i) Dorso-ventrally flattened body (ii) Bilateral symmetry (iii) Triploblastic (iv) Pseudocoelomate (v) Organ level of organisation (vi) Flame cells for excretion (vii) Dioecious (viii) Internal fertilisation (ix) Indirect development. How many of the above features are correct for Phylum Platyhelminthes?
+==================================================
+  MATCH 1 (Combined Score: 0.483, Similarity: 0.458, KeyMatches: 2/4)
+  QuestionId: 6a043365a5510d0cfe1b745f
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Miscellaneous Examples
+  Question: Select the incorrect statements from the following:<br>A. Digestive system in Platyhelminthes is incomplete.<br>B. Bilateral symmetry is a characteristic feature of adult Echinoderms.<br>C. Pseudocoelom is possessed by Aschelminthes.<br>D. Notochord is persistent throughout life in the class Chondrichthyes.<br>E. Members of class Reptilia maintain a constant body temperature.<br><br>Choose the answer from the options given below:
+  Answer: ["A"]
+  Options: [" B and E only"," C and D only"," A and C only"," B and D only"]
+  Solution: $(\mathrm{A}) \rightarrow$ correct → Platyhelminthes have an incomplete digestive system.<br>(B) → incorrect → Bilateral symmetry is a characteristic feature of larvae of echinoderms. In adult echinoderms, radial symmetry is seen.<br>(C) → correct → Aschelminthes are characterised by the presence of...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.331, Similarity: 0.451, KeyMatches: 1/4)
+  QuestionId: 6a38fafedd3fde1e5b75d79e
+  Year: N/A
+  Chapter/Topic: Morphology of Flowering Plants -> Description of Some Important Families
+  Question: Which of the following are characteristic features of Solanaceae family?<br>(a) Flowers are bisexual and actinomorphic<br>(b) Calyx have five sepals and are united<br>(c) Androecium have five stamens and are epipetalous<br>(d) Ovary is inferior<br>Choose the correct answer from the options given below:
+  Answer: ["D"]
+  Options: [" (d) only"," (a) and (b) only"," (b), (c) and (d) only"," (a), (b) and (c) only"]
+  Solution: In Solanaceae family, flowers are bisexual and actinomorphic. Calyx include five sepals that are united. Androecium include five stamens and it is epipetalous. Ovary is superior.<br>...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.323, Similarity: 0.433, KeyMatches: 1/4)
+  QuestionId: 6825d0ab4ea7e931e3720bf1
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Chordata
+  Question: </b><b> </b>Given below are two statements: one is labelled as <b>Assertion (A)</b> and the other labelled as <b>Reason (R)</b>.<br><b>Assertion (A):</b> All vertebrates are chordates but all chordates are not vertebrate.<br><b>Reason (R):</b> The members of subphylum vertebrata possess notochord during the embryonic period, the notochord is replaced by a cartilaginous or bony vertebral column in adults.<br>In the light of the above statements, choose the correct answer from the options given below:
+  Answer: ["C"]
+  Options: [" <b>A</b> is true but <b>R</b> is false"," <b>A</b> is false but <b>R</b> is true"," Both <b>A</b> and <b>R</b> are true and <b>R</b> is the correct explanation of <b>A</b>."," Both <b>A</b> and <b>R</b> are true and <b>R</b> is <b>not</b> the correct explanation of <b>A</b>."]
+  Solution: All vertebrates are chordates but all chordates are not vertebrates. This statement is true because all the features of chordates are present in all the vertebrates in some stage of life. In adult vertebrates, the notochord is replaced by the vertebral column and this is not the case for all chordat...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.320, Similarity: 0.426, KeyMatches: 1/4)
+  QuestionId: 672b703aeae41e7d6871df59
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Basis of Classification
+  Question: <b> </b>Consider the following statement:<br>A. Annelids are true coelomates<br>B. Poriferans are pseudocoelomates<br>C. Aschelminthes are acoelomates<br>D. Platyhelminthes are pseudocoelomates<br>Choose the correct answer from the options given below:
+  Answer: ["A"]
+  Options: [" A only"," C only"," D only"," B only"]
+  Solution: Poriferans are Acoelomates<br>Aschelminthes are Pseudocoelomate<br>Platyhelminthes are Acoelomates...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.312, Similarity: 0.404, KeyMatches: 1/4)
+  QuestionId: 6a043365a5510d0cfe1b742a
+  Year: N/A
+  Chapter/Topic: Human Reproduction -> Fertilization and Implantation
+  Question: Which of the following statements are true with reference to the sex-determination in honeybees?<br>A. An offspring formed from the union of a sperm and an egg, develops as a female (queen or worker).<br>B. An unfertilized egg develops as a male by parthenogenesis.<br>C. A male has half the number of chromosomes than that of a female.<br>D. Males produce sperms by meiosis.<br>E. Honeybees have a haplodiploid sex-determination system.<br><br>Choose the correct answer from the options given below :
+  Answer: ["D"]
+  Options: [" B, C, D and E only"," A, B, C and D only"," A, B, D and E only"," A, B, C and E only"]
+  Solution: In case of honeybees, males have half the number of chromosomes than that of females. The females are diploid, having 32 chromosomes and males are haploid, i.e., having 16 chromosomes. This is called as haplodiploid sex-determination system and has special characteristic features, such as, the males...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 19: How many of the following are correctly matched with their common names? Pila - Apple snail, Pinctada - Pearl oyster, Sepia - Cuttlefish, Loligo - Squid, Octopus - Devil fish, Aplysia - Sea hare, Dentalium - Tusk shell, Chaetopleura - Chiton
+==================================================
+  MATCH 1 (Combined Score: 0.258, Similarity: 0.269, KeyMatches: 2/8)
+  QuestionId: 6a043365a5510d0cfe1b744d
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Class Osteichthyes
+  Question: Select the set of fishes which belong to the class Osteichthyes:
+  Answer: ["C"]
+  Options: [" Devil fish, Cuttlefish and Hagfish"," Starfish, Hagfish and Cuttlefish"," Flying fish, Angel fish and Fighting fish"," Saw fish, Fighting fish and Dog fish"]
+  Solution: The correct answer is option (3).<br>Flying fish (Exocoetus) is a marine bony fish. Angel fish (Pterophyllum) and fighting fish (Betta) are aquarium bony fishes.<br>Option (1) is incorrect as:-<br>Devil fish (Octopus) and cuttlefish (Sepia) are molluscs.<br>Hag fish (Myxine) is a cyclostome.<br>Opti...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.165, Similarity: 0.224, KeyMatches: 1/8)
+  QuestionId: 672b703aeae41e7d6871df52
+  Year: N/A
+  Chapter/Topic: Evolution -> Evidences for Evolution
+  Question: <b> </b>The flippers of the Penguins and Dolphins are the example of the
+  Answer: ["B"]
+  Options: [" Natural selection"," Convergent evolution"," Divergent evolution"," Adaptive radiation"]
+  Solution: Wings of butterfly and of birds<b> </b>look alike. They are not anatomically<b> </b>similar structures though they perform<b> </b>similar functions. Hence, analogous<b> </b>structures are a result of convergent<b> </b>evolution - different structures evolving<b> </b>for the same function and hence h...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.164, Similarity: 0.411, KeyMatches: 0/8)
+  QuestionId: 6825c0f5f9fb2738ae4e8046
+  Year: N/A
+  Chapter/Topic: Oscillations -> Simple Harmonic Motion
+  Question: <b> </b>In an oscillating spring mass system, a spring is connected to a box filled with sand. As the box oscillates, sand leaks slowly out of the box vertically so that the average frequency $\omega \left( t \right)$ and average amplitude $A\left( t \right)$ of the system change with the time t. Which one of the following options schematically depicts these changes correctly?
+  Answer: ["D"]
+  Options: [" <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/6fc824c3-0fcd-4e07-9f38-4a086086e8d05924718471337778171.png\"/>"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/1966a823-9e61-4b16-b408-9e29a5f3a7fd2860097641603145722.png\"/>"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/5f319326-3f86-4cd4-b887-5772fd7915a11945822306252190775.png\"/>"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/218ad33d-b8c8-4be7-8aa1-5c9a9fc93ce27967568845054074775.png\"/>"]
+  Solution: <b> </b><br>$\omega = \sqrt {\frac{k}{m}} $<br>$m \downarrow ,\omega \uparrow $ until it becomes constant<br><img src="https://cmds-test.vedantu.com/prod/question-sets/1c5fbbb2-5148-4bd0-ae0b-dc9648d9c5b23550905077853768265.png"/><br>$\begin{gathered}<br>&nbsp;&nbsp;E = \frac{1}{2}k{A^2} \\<br>&nbsp...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.160, Similarity: 0.400, KeyMatches: 0/8)
+  QuestionId: 6a043365a5510d0cfe1b7455
+  Year: N/A
+  Chapter/Topic: Human Reproduction -> Fertilization and Implantation
+  Question: Arrange the following cell layers/structures around the female gamete, from outer to inner side :<br>A. Zona pellucida<br>B. Perivitelline space<br>C. Corona radiata<br>D. Plasma membrane of ovum<br><br>Choose the correct answer from the options given below :
+  Answer: ["B"]
+  Options: [" C, A, D, B"," C, A, B, D"," D, B, A, C"," A, C, B, D"]
+  Solution: The cell layer/structure around the female gamete from outer to inner side is : Corona radiata → zona pellucida → perivitelline space → plasma membrane of ovum. So the correct answer is C, A, B, D.<br><img src="https://cmds-test.vedantu.com/prod/question-sets/079105b2-25c9-40ff-8b7a-ff733bdf898d6228...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.159, Similarity: 0.398, KeyMatches: 0/8)
+  QuestionId: 6a3947c47274fc5bde2d55f2
+  Year: N/A
+  Chapter/Topic: Atoms -> Alpha-Particle Scattering and Rutherford's Nuclear Model of Atom
+  Question: In Geiger-Marsden experiment, the number of scattered $\alpha$-particles $N(\theta)$ is plotted as a function of scattering angle $\theta$. Which of the following options represents the correct plot?
+  Answer: ["B"]
+  Options: [" <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/94dc886d-4ef8-4970-9b7a-bce5f746c8036279531662630038646.png\"/>"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/d84328c6-d606-4b42-826a-ea77800ffdda3678294983127777717.png\"/>"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/4457eca6-2c66-4bac-b07a-964b2a9f2c4f2230249746466928164.png\"/>"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/74233e6f-b5b4-4888-9de2-64c2abbf8d294898254740938005046.png\"/>"]
+  Solution: Number of scattered $\alpha$-particles at angles ( $\alpha$ )<br>$=K \times \frac{1}{\sin ^{4}\left(\frac{\alpha}{2}\right)}$<br>$=N(\theta)=\frac{K}{\sin ^{4}\left(\frac{\theta}{2}\right)}$<br><img src="https://cmds-test.vedantu.com/prod/question-sets/3baf707a-f03c-443e-aa0d-d4fcec17037926339722238...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 20: Consider the following statements regarding Phylum Echinodermata: (i) They have an endoskeleton of calcareous ossicles (ii) Adult echinoderms are bilaterally symmetrical (iii) An excretory system is absent (iv) Mouth is on the dorsal side and anus on the ventral side (v) Water vascular system is present (vi) Fertilisation is usually internal
+==================================================
+  MATCH 1 (Combined Score: 0.460, Similarity: 0.550, KeyMatches: 2/5)
+  QuestionId: 6a38fafedd3fde1e5b75d7ac
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Echinodermata
+  Question: Given below are two statements:<br>Statement I: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry.<br>Statement II: In phylum Echinodermata, both adults and larvae are radially symmetrical.<br>In the light of the above statements, choose the most appropriate answer from the options given below :
+  Answer: ["B"]
+  Options: [" Both Statement I and Statement II are incorrect"," Statement I is correct but Statement II is incorrect"," Statement I is incorrect but Statement II is correct"," Both Statement I and Statement II are correct"]
+  Solution: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry. Adult echinoderms are radially symmetrical while larval echinoderms are bilaterally symmetrical.<br>...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.270, Similarity: 0.375, KeyMatches: 1/5)
+  QuestionId: 6825d0ab4ea7e931e3720c0c
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Echinodermata
+  Question: </b><b> </b>Role of the water vascular system in Echinoderms is:<br>A. Respiration and Locomotion<br>B. Excretion and Locomotion<br>C. Capture and transport of food<br>D. Digestion and Respiration<br>E. Digestion and Excretion<br>Choose the <b>correct</b> answer from the options given below:
+  Answer: ["D"]
+  Options: [" B and C Only"," B, D and E Only"," A and B Only"," A and C Only"]
+  Solution: Water vascular system is involved in respiration, locomotion, capture of prey and transport of food.<br><br>...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.205, Similarity: 0.512, KeyMatches: 0/5)
+  QuestionId: 6825d0ab4ea7e931e3720c22
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Basis of Classification
+  Question: </b><b> </b>While trying to find out the characteristic of a newly found animal, a researcher did the histology of adult animal and observed a cavity with presence of mesodermal tissue towards the body wall but no mesodermal tissue was observed towards the alimentary canal. What could be the possible coelom of that animal?
+  Answer: ["D"]
+  Options: [" Schizocoelomate"," Spongocoelomate"," Acoelomate"," Pseudocoelomate "]
+  Solution: The above explanation defines pseudocoelom condition<br>...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.204, Similarity: 0.511, KeyMatches: 0/5)
+  QuestionId: 6a043365a5510d0cfe1b745f
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Miscellaneous Examples
+  Question: Select the incorrect statements from the following:<br>A. Digestive system in Platyhelminthes is incomplete.<br>B. Bilateral symmetry is a characteristic feature of adult Echinoderms.<br>C. Pseudocoelom is possessed by Aschelminthes.<br>D. Notochord is persistent throughout life in the class Chondrichthyes.<br>E. Members of class Reptilia maintain a constant body temperature.<br><br>Choose the answer from the options given below:
+  Answer: ["A"]
+  Options: [" B and E only"," C and D only"," A and C only"," B and D only"]
+  Solution: $(\mathrm{A}) \rightarrow$ correct → Platyhelminthes have an incomplete digestive system.<br>(B) → incorrect → Bilateral symmetry is a characteristic feature of larvae of echinoderms. In adult echinoderms, radial symmetry is seen.<br>(C) → correct → Aschelminthes are characterised by the presence of...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.203, Similarity: 0.508, KeyMatches: 0/5)
+  QuestionId: 6a043365a5510d0cfe1b745a
+  Year: N/A
+  Chapter/Topic: Structural Organisation in Animals -> Frog - Anatomy
+  Question: Choose the correct statements regarding frog's anatomy:<br>A. Hepatic portal system is the special venous connection between liver and intestine.<br>B. There are twelve pairs of cranial nerves arising from the brain.<br>C. The ureters and oviducts open separately into the cloaca in female frogs.<br>D. Hind-brain consists of cerebellum, medulla oblongata and optic lobes.<br>E. Sinus venosus joins the right atrium of heart.<br><br>Choose the correct answer from the options given below:
+  Answer: ["B"]
+  Options: [" B and D only"," A, C and E only"," A, B and C only"," B and C only"]
+  Solution: A. Correct → In frogs, the special venous connection between liver and intestine is called the hepatic portal system.<br>B. Incorrect → There are ten pairs of cranial nerves arising from the brain of frog.<br>C. Correct $\rightarrow$ In female frogs, the uterus and oviduct open separately in the clo...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 21: Consider the following list of animals: Nereis, Pheretima, Hirudinaria, Periplaneta, Pila, Asterias, Balanoglossus, Scoliodon, Fasciola, Taenia, Ascaris, Wuchereria, Adamsia, Physalia. How many of these animals possess a true coelom (are coelomates)?
+==================================================
+  MATCH 1 (Combined Score: 0.198, Similarity: 0.394, KeyMatches: 1/15)
+  QuestionId: 6a043365a5510d0cfe1b7442
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Class Cyclostomata
+  Question: A group of researchers procured some fish like animals and upon investigation the following characters were observed:<br>A. Endoskeleton was made of cartilage.<br>B. Ectoparasitic; as they were found attached on fish skin with their circular sucking mouth.<br>C. Paired fins and scales were absent, but 7 pairs of gill slits were present.<br><br>Which of the following species of animals did they consider to fit best with these characters?
+  Answer: ["C"]
+  Options: [" <i>Exocoetus</i><i> sp.</i>"," <i>Branchiostoma</i><i> sp.</i>"," <i>Petromyzon sp.</i>"," <i>Scoliodon</i><i> sp</i>."]
+  Solution: <i>Petromyzon sp</i>. have cartilaginous endoskeleton. They have circular sucking mouth. They are ectoparasites on some fishes. Their body is devoid of scales and paired fins. They have 7 pairs (6-15 pairs) of gill slits.<br><i>Scoliodon</i> and <i>Exocoetus</i> are not parasites....
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.184, Similarity: 0.461, KeyMatches: 0/15)
+  QuestionId: 6825d0ab4ea7e931e3720c22
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Basis of Classification
+  Question: </b><b> </b>While trying to find out the characteristic of a newly found animal, a researcher did the histology of adult animal and observed a cavity with presence of mesodermal tissue towards the body wall but no mesodermal tissue was observed towards the alimentary canal. What could be the possible coelom of that animal?
+  Answer: ["D"]
+  Options: [" Schizocoelomate"," Spongocoelomate"," Acoelomate"," Pseudocoelomate "]
+  Solution: The above explanation defines pseudocoelom condition<br>...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.174, Similarity: 0.235, KeyMatches: 2/15)
+  QuestionId: 6a043365a5510d0cfe1b744d
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Class Osteichthyes
+  Question: Select the set of fishes which belong to the class Osteichthyes:
+  Answer: ["C"]
+  Options: [" Devil fish, Cuttlefish and Hagfish"," Starfish, Hagfish and Cuttlefish"," Flying fish, Angel fish and Fighting fish"," Saw fish, Fighting fish and Dog fish"]
+  Solution: The correct answer is option (3).<br>Flying fish (Exocoetus) is a marine bony fish. Angel fish (Pterophyllum) and fighting fish (Betta) are aquarium bony fishes.<br>Option (1) is incorrect as:-<br>Devil fish (Octopus) and cuttlefish (Sepia) are molluscs.<br>Hag fish (Myxine) is a cyclostome.<br>Opti...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.169, Similarity: 0.423, KeyMatches: 0/15)
+  QuestionId: 6a38fafedd3fde1e5b75d79e
+  Year: N/A
+  Chapter/Topic: Morphology of Flowering Plants -> Description of Some Important Families
+  Question: Which of the following are characteristic features of Solanaceae family?<br>(a) Flowers are bisexual and actinomorphic<br>(b) Calyx have five sepals and are united<br>(c) Androecium have five stamens and are epipetalous<br>(d) Ovary is inferior<br>Choose the correct answer from the options given below:
+  Answer: ["D"]
+  Options: [" (d) only"," (a) and (b) only"," (b), (c) and (d) only"," (a), (b) and (c) only"]
+  Solution: In Solanaceae family, flowers are bisexual and actinomorphic. Calyx include five sepals that are united. Androecium include five stamens and it is epipetalous. Ovary is superior.<br>...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.168, Similarity: 0.420, KeyMatches: 0/15)
+  QuestionId: 6a38fafedd3fde1e5b75d7bc
+  Year: N/A
+  Chapter/Topic: Evolution -> Evidences for Evolution
+  Question: Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R.<br>Assertion A: Forelimbs of human and bats are homologous.<br>Reason R: Forelimbs of humans and bats have similar anatomical structure.<br>In the light of the above statements, choose the most appropriate answer from the options given below.
+  Answer: ["D"]
+  Options: [" Both A and R are true, but R is not the correct explanation of A"," A is true but R is false"," A is false but R is true"," Both A and R are correct and R is the correct explanation of A"]
+  Solution: Forelimbs of bats and humans share similarities in the pattern of bone arrangement. Though their forelimbs perform different functions, they have similar anatomical structure, as all of them have humerus, radius, ulna, carpals, metacarpals and phalanges. This is divergent evolution, and these struct...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 22: Read the following statements regarding Phylum Platyhelminthes: (i) dorso-ventrally flattened body (ii) bilaterally symmetrical, triploblastic and acoelomate (iii) organ system level of organisation (iv) Hooks and suckers (v) Flame cells (vi) Sexes are separate (vii) Fertilisation is internal (viii) Fasciola is a free-living flatworm
+==================================================
+  MATCH 1 (Combined Score: 0.254, Similarity: 0.420, KeyMatches: 1/7)
+  QuestionId: 6a38fafedd3fde1e5b75d78d
+  Year: N/A
+  Chapter/Topic: Plant Kingdom -> Gymnosperms
+  Question: Given below are two statements:<br>Statement I: In gymnosperms, the male and female gametophytes remain within the sporangia.<br>Statement II: In gymnosperms, seeds are not covered.<br>In the light of the above statements, choose the most appropriate answer from the options given below:
+  Answer: ["D"]
+  Options: [" Both Statement I and Statement II are incorrect"," Statement I is correct but Statement II is incorrect"," Statement I is incorrect but Statement II is correct"," Both Statement I and Statement II are correct"]
+  Solution: In gymnosperms, the male and female gametophytes do not have an independent free-living existence. They remain within sporangia, retained on the sporophyte. In gymnosperms the ovules are not enclosed by any ovary wall and remain exposed, both before and after fertilisation. The seeds that develop po...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.246, Similarity: 0.402, KeyMatches: 1/7)
+  QuestionId: 6825d0ab4ea7e931e3720c3b
+  Year: N/A
+  Chapter/Topic: Biological Classification -> Classification Systems
+  Question: </b><b> </b>Each of the following characteristics represent a Kingdom proposed by Whittaker. Arrange the following in increasing order of complexity of body organization.<br>A. Multicellular heterotrophs with cell wall made of chitin.<br>B. Heterotrophs with tissue/organ/organ system level of body organization.<br>C. Prokaryotes with cell wall made of polysaccharides and amino acids.<br>D. Eukaryotic autotrophs with tissue/organ level of body organization.<br>E. Eukaryotes with cellular body organization. <br>Choose the <b>correct </b>answer from the options given below :
+  Answer: ["D"]
+  Options: [" A, C, E, D, B"," C, E, A, B, D"," A, C, E, B, D"," C, E, A, D, B"]
+  Solution: According to the R.H. Whittaker (1969) <br>1. <b>Monera</b> - Prokaryotic cell which cell wall made up of Non-cellulosic (Polysaccharide + amino acid)<br>2. <b>Protista</b> - Eukaryotic with cellular body organisation<br>3. <b>Fungi </b>- Eukaryotic multicelluar heterotrophs with cell wall made of c...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.193, Similarity: 0.482, KeyMatches: 0/7)
+  QuestionId: 6a38fafedd3fde1e5b75d7d0
+  Year: N/A
+  Chapter/Topic: Human Reproduction -> Menstrual Cycle
+  Question: Given below are two statements:<br>Statement I: Ovulation is caused by LH surge leading to rupture of Graafian follicles.<br>Statement II: Graafian follicle remaining after ovulation transform into corpus luteum and secretes large amount of estrogen.<br>In the light of the above statements, choose the most appropriate answer from the options given below:
+  Answer: ["B"]
+  Options: [" Both Statement I and Statement II are incorrect"," Statement I is correct but Statement II is incorrect"," Statement I is incorrect but Statement II is correct"," Both Statement I and Statement II are correct"]
+  Solution: Rapid secretion of LH leading to its maximum level during the mid-cycle called LH surge induces rupture of Graafian follicle and thereby the release of ovum (ovulation). The remaining parts of the Graafian follicle transform as the corpus luteum, which secretes large amounts of progesterone.<br>...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.192, Similarity: 0.480, KeyMatches: 0/7)
+  QuestionId: 6a38fafedd3fde1e5b75d7ac
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Echinodermata
+  Question: Given below are two statements:<br>Statement I: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry.<br>Statement II: In phylum Echinodermata, both adults and larvae are radially symmetrical.<br>In the light of the above statements, choose the most appropriate answer from the options given below :
+  Answer: ["B"]
+  Options: [" Both Statement I and Statement II are incorrect"," Statement I is correct but Statement II is incorrect"," Statement I is incorrect but Statement II is correct"," Both Statement I and Statement II are correct"]
+  Solution: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry. Adult echinoderms are radially symmetrical while larval echinoderms are bilaterally symmetrical.<br>...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.189, Similarity: 0.473, KeyMatches: 0/7)
+  QuestionId: 6a043365a5510d0cfe1b745f
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Miscellaneous Examples
+  Question: Select the incorrect statements from the following:<br>A. Digestive system in Platyhelminthes is incomplete.<br>B. Bilateral symmetry is a characteristic feature of adult Echinoderms.<br>C. Pseudocoelom is possessed by Aschelminthes.<br>D. Notochord is persistent throughout life in the class Chondrichthyes.<br>E. Members of class Reptilia maintain a constant body temperature.<br><br>Choose the answer from the options given below:
+  Answer: ["A"]
+  Options: [" B and E only"," C and D only"," A and C only"," B and D only"]
+  Solution: $(\mathrm{A}) \rightarrow$ correct → Platyhelminthes have an incomplete digestive system.<br>(B) → incorrect → Bilateral symmetry is a characteristic feature of larvae of echinoderms. In adult echinoderms, radial symmetry is seen.<br>(C) → correct → Aschelminthes are characterised by the presence of...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 23: Read the following statements regarding Phylum Mollusca: (i) second largest animal phylum (ii) bilaterally symmetrical (iii) body is covered by a chitinous shell (iv) soft and spongy layer of skin forms a mantle (v) space between head and muscular foot (vi) sensory tentacles (vii) radula (viii) monoecious and viviparous
+==================================================
+  MATCH 1 (Combined Score: 0.183, Similarity: 0.458, KeyMatches: 0/8)
+  QuestionId: 6a38fafedd3fde1e5b75d7ac
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Echinodermata
+  Question: Given below are two statements:<br>Statement I: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry.<br>Statement II: In phylum Echinodermata, both adults and larvae are radially symmetrical.<br>In the light of the above statements, choose the most appropriate answer from the options given below :
+  Answer: ["B"]
+  Options: [" Both Statement I and Statement II are incorrect"," Statement I is correct but Statement II is incorrect"," Statement I is incorrect but Statement II is correct"," Both Statement I and Statement II are correct"]
+  Solution: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry. Adult echinoderms are radially symmetrical while larval echinoderms are bilaterally symmetrical.<br>...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.182, Similarity: 0.269, KeyMatches: 1/8)
+  QuestionId: 672b703aeae41e7d6871df47
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Chordata
+  Question: <b> </b>Match List I with List II:<br><div class='uploaded-question-table-par'><table class='uploaded-question-table'><tr><td><b>List I</b></td><td><b>List II</b></td></tr><tr><td>A. Pleurobrachia</td><td>I. Mollusca</td></tr><tr><td>B. Radula</td><td>II. Ctenophora</td></tr><tr><td>C. Stomochord</td><td>III. Osteichthyes</td></tr><tr><td>D. Air bladder</td><td>IV. Hemichordata</td></tr></table></div><br>Choose the correct answer from the options given below:
+  Answer: ["A"]
+  Options: [" A-II, B-I, C-IV, D-III"," A-II, B-IV, C-I, D-III"," A-IV, B-III, C-II, D-I"," A-IV, B-II, C-III, D-I"]
+  Solution: (a) A-II, B-I, C-IV, D-III<br>Pleurobrachia - Ctenophora<br>Radula - Mollusca<br>Stomochord - hemichordata<br>Air bladder - Osteichthyes...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.182, Similarity: 0.456, KeyMatches: 0/8)
+  QuestionId: 6a38fafedd3fde1e5b75d79e
+  Year: N/A
+  Chapter/Topic: Morphology of Flowering Plants -> Description of Some Important Families
+  Question: Which of the following are characteristic features of Solanaceae family?<br>(a) Flowers are bisexual and actinomorphic<br>(b) Calyx have five sepals and are united<br>(c) Androecium have five stamens and are epipetalous<br>(d) Ovary is inferior<br>Choose the correct answer from the options given below:
+  Answer: ["D"]
+  Options: [" (d) only"," (a) and (b) only"," (b), (c) and (d) only"," (a), (b) and (c) only"]
+  Solution: In Solanaceae family, flowers are bisexual and actinomorphic. Calyx include five sepals that are united. Androecium include five stamens and it is epipetalous. Ovary is superior.<br>...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.180, Similarity: 0.451, KeyMatches: 0/8)
+  QuestionId: 6a38fafedd3fde1e5b75d785
+  Year: N/A
+  Chapter/Topic: Chemical Coordination and Integration -> Human Endocrine System
+  Question: Which of the following statements related to pituitary gland are correct?<br>(a) It is divided anatomically into adenohypophysis and neurohypophysis<br>(b) It secretes follicle stimulating hormone<br>(c) It secretes melanocyte stimulating hormone<br>(d) It does not secrete prolactin<br>Choose the correct answer from the options given below :
+  Answer: ["A"]
+  Options: [" (a), (b) and (c) only"," (c) and (d) only"," (b) and (c) only"," (a) and (b) only"]
+  Solution: Adenohypophysis of pituitary gland also secrets prolactin.<br>...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.180, Similarity: 0.450, KeyMatches: 0/8)
+  QuestionId: 6a38fafedd3fde1e5b75d7d0
+  Year: N/A
+  Chapter/Topic: Human Reproduction -> Menstrual Cycle
+  Question: Given below are two statements:<br>Statement I: Ovulation is caused by LH surge leading to rupture of Graafian follicles.<br>Statement II: Graafian follicle remaining after ovulation transform into corpus luteum and secretes large amount of estrogen.<br>In the light of the above statements, choose the most appropriate answer from the options given below:
+  Answer: ["B"]
+  Options: [" Both Statement I and Statement II are incorrect"," Statement I is correct but Statement II is incorrect"," Statement I is incorrect but Statement II is correct"," Both Statement I and Statement II are correct"]
+  Solution: Rapid secretion of LH leading to its maximum level during the mid-cycle called LH surge induces rupture of Graafian follicle and thereby the release of ovum (ovulation). The remaining parts of the Graafian follicle transform as the corpus luteum, which secretes large amounts of progesterone.<br>...
+  ----------------------------------------------
+
+
+==================================================
+TARGET QUESTION 24: Consider the following characteristics: (i) Endoskeleton of calcareous ossicles (ii) Adult is radially symmetrical but larvae are bilaterally symmetrical (iii) Excretory system is well developed (iv) Water vascular system (v) Sexes are separate (vi) Fertilisation is usually internal (vii) Development is indirect (viii) exclusively marine (ix) Mouth is on upper (dorsal) side (x) Asterias and Ophiura are examples.
+==================================================
+  MATCH 1 (Combined Score: 0.292, Similarity: 0.480, KeyMatches: 1/6)
+  QuestionId: 6a38fafedd3fde1e5b75d7ac
+  Year: N/A
+  Chapter/Topic: Animal Kingdom -> Phylum Echinodermata
+  Question: Given below are two statements:<br>Statement I: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry.<br>Statement II: In phylum Echinodermata, both adults and larvae are radially symmetrical.<br>In the light of the above statements, choose the most appropriate answer from the options given below :
+  Answer: ["B"]
+  Options: [" Both Statement I and Statement II are incorrect"," Statement I is correct but Statement II is incorrect"," Statement I is incorrect but Statement II is correct"," Both Statement I and Statement II are correct"]
+  Solution: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry. Adult echinoderms are radially symmetrical while larval echinoderms are bilaterally symmetrical.<br>...
+  ----------------------------------------------
+  MATCH 2 (Combined Score: 0.263, Similarity: 0.408, KeyMatches: 1/6)
+  QuestionId: 6825d0ab4ea7e931e3720c3b
+  Year: N/A
+  Chapter/Topic: Biological Classification -> Classification Systems
+  Question: </b><b> </b>Each of the following characteristics represent a Kingdom proposed by Whittaker. Arrange the following in increasing order of complexity of body organization.<br>A. Multicellular heterotrophs with cell wall made of chitin.<br>B. Heterotrophs with tissue/organ/organ system level of body organization.<br>C. Prokaryotes with cell wall made of polysaccharides and amino acids.<br>D. Eukaryotic autotrophs with tissue/organ level of body organization.<br>E. Eukaryotes with cellular body organization. <br>Choose the <b>correct </b>answer from the options given below :
+  Answer: ["D"]
+  Options: [" A, C, E, D, B"," C, E, A, B, D"," A, C, E, B, D"," C, E, A, D, B"]
+  Solution: According to the R.H. Whittaker (1969) <br>1. <b>Monera</b> - Prokaryotic cell which cell wall made up of Non-cellulosic (Polysaccharide + amino acid)<br>2. <b>Protista</b> - Eukaryotic with cellular body organisation<br>3. <b>Fungi </b>- Eukaryotic multicelluar heterotrophs with cell wall made of c...
+  ----------------------------------------------
+  MATCH 3 (Combined Score: 0.257, Similarity: 0.393, KeyMatches: 1/6)
+  QuestionId: 6a041fada5510d0cfe19c2b1
+  Year: N/A
+  Chapter/Topic: Wave Optics -> Interference of Light Waves
+  Question: In interference and diffraction, the light energy is redistributed. If it reduces in one region, producing a dark fringe, it increases in another region, producing a bright fringe.<br>A. As there is no gain or loss of energy, these phenomena are consistent with the principle of conservation of energy.<br>B. Diffraction and interference are characteristics exhibited only by light waves.<br>Choose the correct answer from the options given below:
+  Answer: ["A"]
+  Options: [" $A$ is true, but $B$ is false"," $A$ is true and $B$ is also true"," $A$ is false, but $B$ is true"," Both $A$ and $B$ are false"]
+  Solution: In interference and diffraction there is no loss of energy, the energy gets redistributed.<br>Interference and diffraction both are exhibited in light as well as sound waves.<br>...
+  ----------------------------------------------
+  MATCH 4 (Combined Score: 0.252, Similarity: 0.381, KeyMatches: 1/6)
+  QuestionId: 6825d0ab4ea7e931e3720bea
+  Year: N/A
+  Chapter/Topic: Human Health and Disease -> Cancer
+  Question: </b><b> </b>Neoplastic characteristics of cells refer to:<br>A. A mass of proliferating cell<br>B. Rapid growth of cells<br>C. Invasion and damage to the surrounding tissue<br>D. Those confined to original location<br>Choose the correct answer from the options given below
+  Answer: ["D"]
+  Options: [" A, B, D only"," B, C, D only"," A, B only"," A. B, C only"]
+  Solution: The malignant tumors are a mass of proliferating cells called neoplastic or tumor cells. These cells grow very rapidly, invading and damaging the surrounding normal tissues. Cells sloughed from these tumors reach distant sites through blood, and wherever they get lodged in the body, they start a new...
+  ----------------------------------------------
+  MATCH 5 (Combined Score: 0.248, Similarity: 0.371, KeyMatches: 1/6)
+  QuestionId: 6a041fada5510d0cfe19c2bb
+  Year: N/A
+  Chapter/Topic: Semiconductor Electronics : Materials, Devices and Simple Circuits -> P-N Junction
+  Question: Two statements are given below:<br>A. When the forward bias voltage across a p-n junction diode increases above a certain threshold voltage, the diode current increases significantly.<br>B. This current is called reverse saturation current.<br>Choose the correct answer from the options given below:
+  Answer: ["B"]
+  Options: [" Both Statements A and B are false"," Statement A is true, but Statement B is false"," Both Statements $A$ and $B$ are true"," Statement A is false, but Statement B is true"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/6644e73e-9bfd-433a-954f-8c7998c48c9c471220965600422376.png"/><br>$V-I$ characteristics of a forward-biased junction diode<br>When forward bias voltage increases beyond threshold voltage, diode current increases significantly. This is not rev...
+  ----------------------------------------------
+

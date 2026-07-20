@@ -1,0 +1,6666 @@
+[
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Basic Mathematics",
+    "topicName": "Basic Algebra",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Basic Mathematics",
+    "topicName": "Trigonometry and Geometry",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Basic Mathematics",
+    "topicName": "Scalars and Vectors",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Basic Mathematics",
+    "topicName": "Vector Operations",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Basic Mathematics",
+    "topicName": "Differentiation and Integration",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Basic Mathematics",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Units and Measurements",
+    "topicName": "Introduction to Units and Dimensions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Units and Measurements",
+    "topicName": "The International System of Units (SI Unit)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Units and Measurements",
+    "topicName": "Fundamental and Derived Units",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Units and Measurements",
+    "topicName": "Significant Figures",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Units and Measurements",
+    "topicName": "Dimensions of Physical Quantities",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Units and Measurements",
+    "topicName": "Dimensional Analysis and Its Applications",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Units and Measurements",
+    "topicName": "Error Analysis",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Units and Measurements",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Motion in a Straight Line",
+    "topicName": "Frame of Reference",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Motion in a Straight Line",
+    "topicName": "Distance and Displacement",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Motion in a Straight Line",
+    "topicName": "Average Velocity and Average Speed",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Motion in a Straight Line",
+    "topicName": "Instantaneous Velocity and Instantaneous Speed",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Motion in a Straight Line",
+    "topicName": "Acceleration (Uniform and Non-Uniform Motion)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Motion in a Straight Line",
+    "topicName": "Kinematic Equations for Uniformly Accelerated Motion",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Motion in a Straight Line",
+    "topicName": "Velocity-Time and Position-Time Graphs",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Motion in a Straight Line",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Motion in a Plane",
+    "topicName": "Position and Displacement Vectors",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Motion in a Plane",
+    "topicName": "Projectile Motion",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Motion in a Plane",
+    "topicName": "Uniform Circular Motion",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Motion in a Plane",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Laws of Motion",
+    "topicName": "Aristotle's Fallacy",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Laws of Motion",
+    "topicName": "Newton's First Law of Motion",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Laws of Motion",
+    "topicName": "Newton's Second Law of Motion, Impulse",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Laws of Motion",
+    "topicName": "Newton's Third Law of Motion",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Laws of Motion",
+    "topicName": "Conservation of Momentum",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Laws of Motion",
+    "topicName": "Application of Conservation of Momentum",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Laws of Motion",
+    "topicName": "Equilibrium of a Particle",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Laws of Motion",
+    "topicName": "Common Forces in Mechanics",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Laws of Motion",
+    "topicName": "Static and Kinetic Friction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Laws of Motion",
+    "topicName": "Rolling Friction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Laws of Motion",
+    "topicName": "Lubrication",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Laws of Motion",
+    "topicName": "Dynamics of Uniform Circular Motion: Centripetal Force",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Laws of Motion",
+    "topicName": "Examples of Circular Motion (Vehicle on a Level Circular Road, Vehicle on a Banked Road)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Laws of Motion",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Work, Energy, and Power",
+    "topicName": "Work Done by a Constant Force",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Work, Energy, and Power",
+    "topicName": "Work Done by a Variable Force",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Work, Energy, and Power",
+    "topicName": "Kinetic Energy, Work-Energy Theorem",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Work, Energy, and Power",
+    "topicName": "Power",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Work, Energy, and Power",
+    "topicName": "Concept of Potential Energy",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Work, Energy, and Power",
+    "topicName": "Conservation of Mechanical Energy",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Work, Energy, and Power",
+    "topicName": "Potential Energy of a Spring",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Work, Energy, and Power",
+    "topicName": "Law of Conservation of Mechanical Energy",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Work, Energy, and Power",
+    "topicName": "Conservative and Non-Conservative Forces",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Work, Energy, and Power",
+    "topicName": "Vertical Circular Motion",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Work, Energy, and Power",
+    "topicName": "Collisions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Work, Energy, and Power",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "System of Particles and Rotational Motion",
+    "topicName": "Centre of Mass (Two-Particle System)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "System of Particles and Rotational Motion",
+    "topicName": "Motion of Centre of Mass",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "System of Particles and Rotational Motion",
+    "topicName": "Moment of a Force, Torque, Angular Momentum",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "System of Particles and Rotational Motion",
+    "topicName": "Law of Conservation of Angular Momentum and Its Applications",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "System of Particles and Rotational Motion",
+    "topicName": "Equilibrium of a Rigid Body",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "System of Particles and Rotational Motion",
+    "topicName": "Moment of Inertia",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "System of Particles and Rotational Motion",
+    "topicName": "Kinematics of Rotational Motion About a Fixed Axis (Comparison of Linear and Rotational Motions)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "System of Particles and Rotational Motion",
+    "topicName": "Dynamics of Rotational Motion About a Fixed Axis (Rigid Body Rotation and Equations of Rotational Motion)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "System of Particles and Rotational Motion",
+    "topicName": "Angular Momentum in Case of Rotation About a Fixed Axis",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "System of Particles and Rotational Motion",
+    "topicName": "Radius of Gyration",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "System of Particles and Rotational Motion",
+    "topicName": "Values of Moments of Inertia for Simple Geometrical Objects (No Derivation)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "System of Particles and Rotational Motion",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Gravitation",
+    "topicName": "Introduction to Gravitation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Gravitation",
+    "topicName": "Kepler's Laws",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Gravitation",
+    "topicName": "Universal Law of Gravitation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Gravitation",
+    "topicName": "Acceleration Due to Gravity of the Earth, Acceleration Due to Gravity Below and Above the Surface of the Earth",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Gravitation",
+    "topicName": "Gravitational Potential Energy, Gravitational Potential",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Gravitation",
+    "topicName": "Escape Speed",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Gravitation",
+    "topicName": "Energy of an Orbiting Satellite",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Gravitation",
+    "topicName": "Orbital Velocity of a Satellite",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Gravitation",
+    "topicName": "Weightlessness",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Gravitation",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Solids",
+    "topicName": "Introduction to Elasticity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Solids",
+    "topicName": "Elastic Behaviour of Solids",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Solids",
+    "topicName": "Stress and Strain",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Solids",
+    "topicName": "Hooke's Law",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Solids",
+    "topicName": "Stress-Strain Curve",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Solids",
+    "topicName": "Elastic Moduli",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Solids",
+    "topicName": "Applications of Elastic Behaviour of Materials",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Solids",
+    "topicName": "Poisson's Ratio",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Solids",
+    "topicName": "Elastic Energy",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Solids",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Fluids",
+    "topicName": "Introduction to Fluid Mechanics",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Fluids",
+    "topicName": "Pressure",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Fluids",
+    "topicName": "Pascal's Law and Its Applications (Hydraulic Lift and Hydraulic Brakes)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Fluids",
+    "topicName": "Effect of Gravity on Fluid Pressure",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Fluids",
+    "topicName": "Viscosity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Fluids",
+    "topicName": "Stokes' Law",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Fluids",
+    "topicName": "Terminal Velocity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Fluids",
+    "topicName": "Streamline Flow and Turbulent Flow",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Fluids",
+    "topicName": "Critical Velocity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Fluids",
+    "topicName": "Bernoulli's Principle",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Fluids",
+    "topicName": "Application of Bernoulli's Principle",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Fluids",
+    "topicName": "Surface Energy and Surface Tension",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Fluids",
+    "topicName": "Angle of Contact",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Fluids",
+    "topicName": "Excess of Pressure Across a Curved Surface",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Fluids",
+    "topicName": "Application of Surface Tension Ideas to Drops",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Fluids",
+    "topicName": "Bubbles, and Capillary Rise",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Mechanical Properties of Fluids",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermal Properties of Matter",
+    "topicName": "Introduction to Thermal Properties of Matter",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermal Properties of Matter",
+    "topicName": "Temperature and Heat",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermal Properties of Matter",
+    "topicName": "Measurement of Temperature",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermal Properties of Matter",
+    "topicName": "Ideal-Gas Equation and Absolute Temperature",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermal Properties of Matter",
+    "topicName": "Thermal Expansion",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermal Properties of Matter",
+    "topicName": "Specific Heat Capacity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermal Properties of Matter",
+    "topicName": "Calorimetry",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermal Properties of Matter",
+    "topicName": "Anomalous Expansion of Water",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermal Properties of Matter",
+    "topicName": "Cp, Cv Calorimetry",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermal Properties of Matter",
+    "topicName": "Thermal Conductivity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermal Properties of Matter",
+    "topicName": "Qualitative Ideas of Blackbody Radiation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermal Properties of Matter",
+    "topicName": "Wein's Displacement Law",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermal Properties of Matter",
+    "topicName": "Stefan's Law",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermal Properties of Matter",
+    "topicName": "Change of State - Latent Heat Capacity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermal Properties of Matter",
+    "topicName": "Heat Transfer - Conduction, Convection, and Radiation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermal Properties of Matter",
+    "topicName": "Newton's Law of Cooling",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermal Properties of Matter",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermodynamics",
+    "topicName": "Introduction to Thermodynamics",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermodynamics",
+    "topicName": "Thermal Equilibrium",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermodynamics",
+    "topicName": "Zeroth Law of Thermodynamics",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermodynamics",
+    "topicName": "Heat, Internal Energy, and Work",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermodynamics",
+    "topicName": "First Law of Thermodynamics",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermodynamics",
+    "topicName": "Thermodynamic State Variables and Equation of State",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermodynamics",
+    "topicName": "Thermodynamic Processes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermodynamics",
+    "topicName": "Second Law of Thermodynamics",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermodynamics",
+    "topicName": "Change of Condition of Gaseous State - Isothermal, Adiabatic, Reversible, Irreversible",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermodynamics",
+    "topicName": "Cyclic Processes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermodynamics",
+    "topicName": "Reversible and Irreversible Processes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Thermodynamics",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Kinetic theory of gases",
+    "topicName": "Introduction to Kinetic Theory of Gases",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Kinetic theory of gases",
+    "topicName": "Molecular Nature of Matter",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Kinetic theory of gases",
+    "topicName": "Behaviour of Gases",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Kinetic theory of gases",
+    "topicName": "Equation of State of a Perfect Gas",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Kinetic theory of gases",
+    "topicName": "Work Done in Compressing a Gas",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Kinetic theory of gases",
+    "topicName": "RMS Speed of Gas Molecules",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Kinetic theory of gases",
+    "topicName": "Degrees of Freedom",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Kinetic theory of gases",
+    "topicName": "Application to Specific Heat",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Kinetic theory of gases",
+    "topicName": "Avogadro's Number",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Kinetic theory of gases",
+    "topicName": "Kinetic Theory of an Ideal Gas",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Kinetic theory of gases",
+    "topicName": "Law of Equipartition of Energy",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Kinetic theory of gases",
+    "topicName": "Mean Free Path",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Kinetic theory of gases",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Oscillations",
+    "topicName": "Introduction to Oscillations: Periodic and Oscillatory Motions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Oscillations",
+    "topicName": "Periodic Motion - Time Period, Frequency, Displacement as a Function of Time, Periodic Functions and Their Applications",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Oscillations",
+    "topicName": "Simple Harmonic Motion: Equation of Motion",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Oscillations",
+    "topicName": "Velocity and Acceleration in Simple Harmonic Motion",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Oscillations",
+    "topicName": "Phase",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Oscillations",
+    "topicName": "Oscillations of a Loaded Spring - Restoring Force and Force Constant",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Oscillations",
+    "topicName": "Energy in Simple Harmonic Motion: Kinetic and Potential Energies",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Oscillations",
+    "topicName": "Some Systems Executing Simple Harmonic Motion",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Oscillations",
+    "topicName": "Simple Pendulum: Derivation of Expression for Its Time Period",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Oscillations",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Waves",
+    "topicName": "Introduction to Wave Motion",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Waves",
+    "topicName": "Transverse and Longitudinal Waves",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Waves",
+    "topicName": "Displacement Relation in a Progressive Wave",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Waves",
+    "topicName": "The Speed of a Travelling Wave",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Waves",
+    "topicName": "The Principle of Superposition of Waves",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Waves",
+    "topicName": "Reflection of Waves",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Waves",
+    "topicName": "Principle of Superposition of Waves",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Waves",
+    "topicName": "Standing Waves in Strings and Organ Pipes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Waves",
+    "topicName": "Fundamental Mode and Harmonics",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Waves",
+    "topicName": "Beats",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Physics",
+    "chapterName": "Waves",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Introduction to Electrostatics",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Electric Charge",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Conductors and Insulators",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Charging by Induction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Basic Properties of Electric Charge",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Coulomb's Law",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Forces Between Multiple Charges",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Electric Field",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Electric Field Lines",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Electric Flux",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Torque on a Dipole in Uniform Electric Field",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Electric Dipole",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Dipole in a Uniform External Field",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Continuous Charge Distribution",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Gauss's Law",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Applications of Gauss's Law",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Statement of Gauss's Theorem and Its Applications to Find Field Due to Infinitely Long Straight Wire",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Uniformly Charged Infinite Plane Sheet and Uniformly Charged Thin Spherical Shell (Field Inside and Outside)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Charge Distribution in Conductors",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Superposition Principle",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electric Charges and Fields",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electrostatic Potential and Capacitance",
+    "topicName": "Introduction to Electrostatic Potential",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electrostatic Potential and Capacitance",
+    "topicName": "Electrostatic Potential",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electrostatic Potential and Capacitance",
+    "topicName": "Potential Due to a Point Charge",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electrostatic Potential and Capacitance",
+    "topicName": "Potential Due to an Electric Dipole",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electrostatic Potential and Capacitance",
+    "topicName": "Potential Due to a System of Charges",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electrostatic Potential and Capacitance",
+    "topicName": "Equipotential Surfaces",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electrostatic Potential and Capacitance",
+    "topicName": "Potential Energy of a System of Charges",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electrostatic Potential and Capacitance",
+    "topicName": "Potential Energy in an External Field",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electrostatic Potential and Capacitance",
+    "topicName": "Electrostatics of Conductors",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electrostatic Potential and Capacitance",
+    "topicName": "Dielectrics and Polarisation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electrostatic Potential and Capacitance",
+    "topicName": "Capacitors and Capacitance",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electrostatic Potential and Capacitance",
+    "topicName": "Parallel Plate Capacitor",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electrostatic Potential and Capacitance",
+    "topicName": "Effect of Dielectric on Capacitance",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electrostatic Potential and Capacitance",
+    "topicName": "Combination of Capacitors",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electrostatic Potential and Capacitance",
+    "topicName": "Energy Stored in a Capacitor",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electrostatic Potential and Capacitance",
+    "topicName": "Free Charges and Bound Charges Inside a Conductor",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electrostatic Potential and Capacitance",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Current Electricity",
+    "topicName": "Introduction to Electric Current",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Current Electricity",
+    "topicName": "Electric Current",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Current Electricity",
+    "topicName": "Electric Currents in Conductors",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Current Electricity",
+    "topicName": "Ohm's Law",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Current Electricity",
+    "topicName": "Drift of Electrons and the Origin of Resistivity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Current Electricity",
+    "topicName": "Limitations of Ohm's Law",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Current Electricity",
+    "topicName": "Resistivity of Various Materials",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Current Electricity",
+    "topicName": "Temperature Dependence of Resistivity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Current Electricity",
+    "topicName": "Electrical Energy and Power",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Current Electricity",
+    "topicName": "Combination of Resistors - Series and Parallel",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Current Electricity",
+    "topicName": "Cells, EMF, Internal Resistance",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Current Electricity",
+    "topicName": "Cells in Series and in Parallel",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Current Electricity",
+    "topicName": "Kirchhoff's Rules",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Current Electricity",
+    "topicName": "Wheatstone Bridge",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Current Electricity",
+    "topicName": "Electrical Resistivity and Conductivity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Current Electricity",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Moving Charges and Magnetism",
+    "topicName": "Introduction to Magnetic Effects of Current",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Moving Charges and Magnetism",
+    "topicName": "Motion in a Magnetic Field",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Moving Charges and Magnetism",
+    "topicName": "Biot-Savart Law and Its Application to Current Carrying Circular Loop",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Moving Charges and Magnetism",
+    "topicName": "Motion in Combined Electric and Magnetic Fields",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Moving Charges and Magnetism",
+    "topicName": "Magnetic Field on the Axis of a Circular Current Loop",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Moving Charges and Magnetism",
+    "topicName": "Ampere's Circuital Law",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Moving Charges and Magnetism",
+    "topicName": "Solenoid and Toroid",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Moving Charges and Magnetism",
+    "topicName": "Force Between Two Parallel Currents",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Moving Charges and Magnetism",
+    "topicName": "Torque on Current Loop & Magnetic Dipole",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Moving Charges and Magnetism",
+    "topicName": "The Moving Coil Galvanometer",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Moving Charges and Magnetism",
+    "topicName": "Conversion Galvanometer to Ammeter and Voltmeter",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Moving Charges and Magnetism",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Magnetism and Matter",
+    "topicName": "Introduction to Magnetism",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Magnetism and Matter",
+    "topicName": "The Bar Magnet",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Magnetism and Matter",
+    "topicName": "Magnetism and Gauss's Law",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Magnetism and Matter",
+    "topicName": "Magnetisation and Magnetic Intensity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Magnetism and Matter",
+    "topicName": "Magnetic Properties of Materials",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Magnetism and Matter",
+    "topicName": "Magnetic Properties of Materials - Para-, Dia-, and Ferro-Magnetic Substances with Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Magnetism and Matter",
+    "topicName": "Magnetization of Materials",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Magnetism and Matter",
+    "topicName": "Effect of Temperature on Magnetic Properties",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Magnetism and Matter",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electromagnetic Induction",
+    "topicName": "Introduction to Electromagnetic Induction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electromagnetic Induction",
+    "topicName": "Experiments of Faraday and Henry",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electromagnetic Induction",
+    "topicName": "Magnetic Flux",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electromagnetic Induction",
+    "topicName": "Faraday's Law of Induction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electromagnetic Induction",
+    "topicName": "Lenz's Law and Conservation of Energy",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electromagnetic Induction",
+    "topicName": "Eddy Currents",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electromagnetic Induction",
+    "topicName": "Self and Mutual Induction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electromagnetic Induction",
+    "topicName": "AC Generator",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electromagnetic Induction",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Alternating Current",
+    "topicName": "Introduction to Alternating Current",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Alternating Current",
+    "topicName": "AC Voltage Applied to a Resistor",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Alternating Current",
+    "topicName": "Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Alternating Current",
+    "topicName": "AC Voltage Applied to an Inductor",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Alternating Current",
+    "topicName": "AC Voltage Applied to a Capacitor",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Alternating Current",
+    "topicName": "AC Voltage Applied to a Series LCR Circuit",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Alternating Current",
+    "topicName": "Power in AC Circuit: The Power Factor",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Alternating Current",
+    "topicName": "Resonance",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Alternating Current",
+    "topicName": "Transformers",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Alternating Current",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electromagnetic Waves",
+    "topicName": "Basics of Electromagnetic Waves",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electromagnetic Waves",
+    "topicName": "Displacement Current",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electromagnetic Waves",
+    "topicName": "Electromagnetic Spectrum",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Electromagnetic Waves",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Ray Optics and Optical Instruments",
+    "topicName": "Introduction to Ray Optics",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Ray Optics and Optical Instruments",
+    "topicName": "Reflection of Light by Plane Mirrors",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Ray Optics and Optical Instruments",
+    "topicName": "Reflection of Light by Spherical Mirrors",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Ray Optics and Optical Instruments",
+    "topicName": "Refraction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Ray Optics and Optical Instruments",
+    "topicName": "Total Internal Reflection",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Ray Optics and Optical Instruments",
+    "topicName": "Optical Fibers",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Ray Optics and Optical Instruments",
+    "topicName": "Refraction at Spherical Surfaces and by Lenses",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Ray Optics and Optical Instruments",
+    "topicName": "Thin Lens Formula",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Ray Optics and Optical Instruments",
+    "topicName": "Lens Maker's Formula",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Ray Optics and Optical Instruments",
+    "topicName": "Magnification",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Ray Optics and Optical Instruments",
+    "topicName": "Power of a Lens",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Ray Optics and Optical Instruments",
+    "topicName": "Combination of Thin Lenses in Contact",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Ray Optics and Optical Instruments",
+    "topicName": "Refraction Through a Prism",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Ray Optics and Optical Instruments",
+    "topicName": "Some Natural Phenomena Due to Sunlight",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Ray Optics and Optical Instruments",
+    "topicName": "Optical Instruments",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Ray Optics and Optical Instruments",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Wave Optics",
+    "topicName": "Introduction to Wave Optics",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Wave Optics",
+    "topicName": "Huygens Principle",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Wave Optics",
+    "topicName": "Refraction and Reflection of Plane Waves Using Huygens Principle",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Wave Optics",
+    "topicName": "Coherent and Incoherent Addition of Waves",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Wave Optics",
+    "topicName": "Interference of Light Waves and Young's Experiment",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Wave Optics",
+    "topicName": "Diffraction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Wave Optics",
+    "topicName": "Wavefront",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Wave Optics",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Dual nature of matter and radiation",
+    "topicName": "Introduction to Dual Nature of Radiation and Matter",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Dual nature of matter and radiation",
+    "topicName": "Electron Emission",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Dual nature of matter and radiation",
+    "topicName": "Photoelectric Effect",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Dual nature of matter and radiation",
+    "topicName": "Hertz and Lenard's Observations",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Dual nature of matter and radiation",
+    "topicName": "Experimental Study of Photoelectric Effect",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Dual nature of matter and radiation",
+    "topicName": "Photoelectric Effect and Wave Theory of Light",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Dual nature of matter and radiation",
+    "topicName": "Einstein's Photoelectric Equation: Energy Quantum of Radiation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Dual nature of matter and radiation",
+    "topicName": "Particle Nature of Light: The Photon",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Dual nature of matter and radiation",
+    "topicName": "Wave Nature of Matter",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Dual nature of matter and radiation",
+    "topicName": "De-Broglie Relation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Dual nature of matter and radiation",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Atoms",
+    "topicName": "Introduction to Atomic Structure",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Atoms",
+    "topicName": "Alpha-Particle Scattering and Rutherford's Nuclear Model of Atom",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Atoms",
+    "topicName": "Atomic Spectra",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Atoms",
+    "topicName": "Bohr Model of the Hydrogen Atom",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Atoms",
+    "topicName": "The Line Spectra of the Hydrogen Atom",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Atoms",
+    "topicName": "De Broglie's Explanation of Bohr's Second Postulate of Quantisation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Atoms",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Nuclei",
+    "topicName": "Introduction to Atomic Nucleus",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Nuclei",
+    "topicName": "Atomic Masses and Composition of Nucleus",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Nuclei",
+    "topicName": "Size of the Nucleus",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Nuclei",
+    "topicName": "Mass-Energy and Nuclear Binding Energy",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Nuclei",
+    "topicName": "Nuclear Force",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Nuclei",
+    "topicName": "Binding Energy Per Nucleon and Its Variation with Mass Number",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Nuclei",
+    "topicName": "Nuclear Energy: Fission and Fusion",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Nuclei",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Semiconductor electronics : materials, devices and simple circuits",
+    "topicName": "Introduction to Semiconductors",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Semiconductor electronics : materials, devices and simple circuits",
+    "topicName": "Classification of Metals, Conductors, and Semiconductors",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Semiconductor electronics : materials, devices and simple circuits",
+    "topicName": "Energy Bands in Conductors",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Semiconductor electronics : materials, devices and simple circuits",
+    "topicName": "Intrinsic Semiconductor",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Semiconductor electronics : materials, devices and simple circuits",
+    "topicName": "Extrinsic Semiconductor",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Semiconductor electronics : materials, devices and simple circuits",
+    "topicName": "P-N Junction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Semiconductor electronics : materials, devices and simple circuits",
+    "topicName": "Semiconductor Diode - I-V Characteristics in Forward and Reverse Bias",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Semiconductor electronics : materials, devices and simple circuits",
+    "topicName": "Application of Junction Diode as a Rectifier",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Physics",
+    "chapterName": "Semiconductor electronics : materials, devices and simple circuits",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sets",
+    "topicName": "Introduction to Sets",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sets",
+    "topicName": "Sets and Their Representations",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sets",
+    "topicName": "The Empty Set",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sets",
+    "topicName": "Finite and Infinite Sets",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sets",
+    "topicName": "Equal Sets",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sets",
+    "topicName": "Subsets",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sets",
+    "topicName": "Power Set",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sets",
+    "topicName": "Universal Set",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sets",
+    "topicName": "Venn Diagrams",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sets",
+    "topicName": "Operations on Sets",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sets",
+    "topicName": "Complement of a Set",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sets",
+    "topicName": "Practical Problems on Union and Intersection of Two Sets",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sets",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Relations and Functions",
+    "topicName": "Ordered Pairs",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Relations and Functions",
+    "topicName": "Cartesian Product of Sets",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Relations and Functions",
+    "topicName": "Relations",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Relations and Functions",
+    "topicName": "Introduction to Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Relations and Functions",
+    "topicName": "Types of Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Relations and Functions",
+    "topicName": "Domain and Range of Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Relations and Functions",
+    "topicName": "Algebra of Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Relations and Functions",
+    "topicName": "Sum, Difference, Product and Quotients of Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Relations and Functions",
+    "topicName": "Important Questions of Relation and Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Relations and Functions",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Trigonometric Functions",
+    "topicName": "Introduction to Angles",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Trigonometric Functions",
+    "topicName": "Trigonometric Functions and Ratios",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Trigonometric Functions",
+    "topicName": "Allied Angles",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Trigonometric Functions",
+    "topicName": "Trigonometric Functions of Sum and Difference of Two Angles",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Trigonometric Functions",
+    "topicName": "Multiple Angle Formulae",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Trigonometric Functions",
+    "topicName": "Conversion Formulae",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Trigonometric Functions",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Complex Numbers and Quadratic Equations",
+    "topicName": "Introduction to Iota",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Complex Numbers and Quadratic Equations",
+    "topicName": "Complex Numbers",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Complex Numbers and Quadratic Equations",
+    "topicName": "Algebra of Complex Numbers",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Complex Numbers and Quadratic Equations",
+    "topicName": "The Modulus and the Conjugate of a Complex Number",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Complex Numbers and Quadratic Equations",
+    "topicName": "Argand Plane",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Complex Numbers and Quadratic Equations",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Linear Inequalities",
+    "topicName": "Introduction to Linear Inequalities in One Variable",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Linear Inequalities",
+    "topicName": "Wavy Curve Method",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Linear Inequalities",
+    "topicName": "Solution of Linear Inequalities in One Variable",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Linear Inequalities",
+    "topicName": "Graphical Solution of Linear Inequalities",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Linear Inequalities",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Permutations and Combinations",
+    "topicName": "Introduction to Permutations and Combinations",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Permutations and Combinations",
+    "topicName": "Fundamental Principle of Counting",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Permutations and Combinations",
+    "topicName": "Permutations",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Permutations and Combinations",
+    "topicName": "Combinations",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Permutations and Combinations",
+    "topicName": "Mixed Problems in Permutations and Combinations",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Permutations and Combinations",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Binomial Theorem",
+    "topicName": "Introduction to Binomial Theorem",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Binomial Theorem",
+    "topicName": "Binomial Theorem for Positive Integral Indices",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Binomial Theorem",
+    "topicName": "General and Middle Terms",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Binomial Theorem",
+    "topicName": "Applications of Binomial Theorem",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Binomial Theorem",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sequence and Series",
+    "topicName": "Introduction to Sequence and Series",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sequence and Series",
+    "topicName": "Sequences",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sequence and Series",
+    "topicName": "Series",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sequence and Series",
+    "topicName": "Arithmetic Progression (A.P.)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sequence and Series",
+    "topicName": "Geometric Progression (G.P.)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sequence and Series",
+    "topicName": "Relationship Between A.M. and G.M.",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Sequence and Series",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Straight Lines",
+    "topicName": "Introduction to Straight Lines",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Straight Lines",
+    "topicName": "Slope of a Line",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Straight Lines",
+    "topicName": "Various Forms of the Equation of a Line",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Straight Lines",
+    "topicName": "General Equation of a Line",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Straight Lines",
+    "topicName": "Distance of a Point from a Line",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Straight Lines",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Conic Sections",
+    "topicName": "Introduction to Sections of a Cone",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Conic Sections",
+    "topicName": "Standard Equation of a Circle",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Conic Sections",
+    "topicName": "General Equation of a Circle",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Conic Sections",
+    "topicName": "Parabola",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Conic Sections",
+    "topicName": "Ellipse",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Conic Sections",
+    "topicName": "Hyperbola",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Conic Sections",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Introduction to Three Dimensional Geometry",
+    "topicName": "Basics of Three Dimensional Geometry",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Introduction to Three Dimensional Geometry",
+    "topicName": "Coordinate Axes and Coordinate Planes in Three Dimensional Space",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Introduction to Three Dimensional Geometry",
+    "topicName": "Coordinates of a Point in Space",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Introduction to Three Dimensional Geometry",
+    "topicName": "Distance Between Two Points",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Introduction to Three Dimensional Geometry",
+    "topicName": "Section Formula",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Introduction to Three Dimensional Geometry",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Limits and Derivatives",
+    "topicName": "Introduction to Limits",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Limits and Derivatives",
+    "topicName": "Indeterminate Forms",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Limits and Derivatives",
+    "topicName": "Algebra of Limits",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Limits and Derivatives",
+    "topicName": "Limit Tending to Infinity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Limits and Derivatives",
+    "topicName": "Limits of Trigonometric Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Limits and Derivatives",
+    "topicName": "Limits of Logarithmic and Exponential Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Limits and Derivatives",
+    "topicName": "First Principle of Derivatives",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Limits and Derivatives",
+    "topicName": "Rules of Differentiation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Limits and Derivatives",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Statistics",
+    "topicName": "Introduction to Statistics",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Statistics",
+    "topicName": "Measures of Central Tendencies",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Statistics",
+    "topicName": "Measures of Dispersion",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Statistics",
+    "topicName": "Range",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Statistics",
+    "topicName": "Variance and Standard Deviation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Statistics",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Probability",
+    "topicName": "Introduction to Probability",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Probability",
+    "topicName": "Random Experiments",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Probability",
+    "topicName": "Event",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Probability",
+    "topicName": "Axiomatic Approach to Probability",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Mathematics",
+    "chapterName": "Probability",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Relations and Functions",
+    "topicName": "Introduction to Relations",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Relations and Functions",
+    "topicName": "Types of Relations",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Relations and Functions",
+    "topicName": "Introduction to Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Relations and Functions",
+    "topicName": "Domain and Range of a Function",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Relations and Functions",
+    "topicName": "Types of Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Relations and Functions",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Inverse Trigonometric Functions",
+    "topicName": "Introduction to Inverse Trigonometric Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Inverse Trigonometric Functions",
+    "topicName": "Basic Concepts, Graph of Inverse Trigonometric Functions (ITF)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Inverse Trigonometric Functions",
+    "topicName": "Domain and Range of an ITF",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Inverse Trigonometric Functions",
+    "topicName": "Properties of Inverse Trigonometric Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Inverse Trigonometric Functions",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Matrices",
+    "topicName": "Introduction to Matrices",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Matrices",
+    "topicName": "Types of Matrices",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Matrices",
+    "topicName": "Operations on Matrices",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Matrices",
+    "topicName": "Transpose of a Matrix",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Matrices",
+    "topicName": "Symmetric and Skew Symmetric Matrices",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Matrices",
+    "topicName": "Invertible Matrices",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Matrices",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Determinants",
+    "topicName": "Introduction to Determinants",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Determinants",
+    "topicName": "Evaluation of Determinants of Order 2 and 3",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Determinants",
+    "topicName": "Area of a Triangle",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Determinants",
+    "topicName": "Minors and Cofactors",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Determinants",
+    "topicName": "Adjoint and Inverse of a Matrix",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Determinants",
+    "topicName": "Applications of Determinants and Matrices",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Determinants",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Continuity and Differentiability",
+    "topicName": "Revision of Limits",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Continuity and Differentiability",
+    "topicName": "Continuity of a Function at a Point",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Continuity and Differentiability",
+    "topicName": "Continuity of a Function in an Interval",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Continuity and Differentiability",
+    "topicName": "Algebra of Continuous Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Continuity and Differentiability",
+    "topicName": "Differentiability of a Function at a Point",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Continuity and Differentiability",
+    "topicName": "Differentiability of a Function in an Interval",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Continuity and Differentiability",
+    "topicName": "Derivatives of Composite Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Continuity and Differentiability",
+    "topicName": "Derivatives of Inverse Trigonometric Functions (ITF)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Continuity and Differentiability",
+    "topicName": "Derivatives of Implicit Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Continuity and Differentiability",
+    "topicName": "Derivatives of Functions in Parametric Forms",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Continuity and Differentiability",
+    "topicName": "Derivative of Exponential and Logarithmic Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Continuity and Differentiability",
+    "topicName": "Higher Order Derivatives",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Continuity and Differentiability",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Application of Derivatives",
+    "topicName": "Introduction to Application of Derivatives",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Application of Derivatives",
+    "topicName": "Rate of Change of Quantities",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Application of Derivatives",
+    "topicName": "Increasing and Decreasing Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Application of Derivatives",
+    "topicName": "Maxima and Minima",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Application of Derivatives",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Integrals",
+    "topicName": "Introduction to Integrals",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Integrals",
+    "topicName": "Integration as an Inverse Process of Differentiation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Integrals",
+    "topicName": "Methods of Integration",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Integrals",
+    "topicName": "Integrals of Some Particular Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Integrals",
+    "topicName": "Integration by Partial Fractions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Integrals",
+    "topicName": "Integration by Parts",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Integrals",
+    "topicName": "Definite Integral",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Integrals",
+    "topicName": "Fundamental Theorem of Calculus",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Integrals",
+    "topicName": "Evaluation of Definite Integrals by Substitution",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Integrals",
+    "topicName": "Some Properties of Definite Integrals",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Integrals",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Application of Integrals",
+    "topicName": "Introduction to Application of Integrals",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Application of Integrals",
+    "topicName": "Area Under Simple Curves",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Application of Integrals",
+    "topicName": "Area Between Two Curves",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Differential Equations",
+    "topicName": "Introduction to Differential Equations",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Differential Equations",
+    "topicName": "Basic Concepts of Differential Equations",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Differential Equations",
+    "topicName": "General and Particular Solutions of a Differential Equation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Differential Equations",
+    "topicName": "Methods of Solving First Order, First Degree Differential Equations",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Differential Equations",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Vector Algebra",
+    "topicName": "Introduction to Vector Algebra",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Vector Algebra",
+    "topicName": "Some Basic Concepts",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Vector Algebra",
+    "topicName": "Types of Vectors",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Vector Algebra",
+    "topicName": "Addition of Vectors",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Vector Algebra",
+    "topicName": "Multiplication of a Vector by a Scalar",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Vector Algebra",
+    "topicName": "Product of Two Vectors",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Vector Algebra",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Three Dimensional Geometry",
+    "topicName": "Introduction to Three Dimensional Geometry",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Three Dimensional Geometry",
+    "topicName": "Direction Cosines and Direction Ratios of a Line",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Three Dimensional Geometry",
+    "topicName": "Equation of a Line in Space",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Three Dimensional Geometry",
+    "topicName": "Angle Between Two Lines",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Three Dimensional Geometry",
+    "topicName": "Shortest Distance Between Two Lines",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Three Dimensional Geometry",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Linear Programming",
+    "topicName": "Introduction to Linear Programming",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Linear Programming",
+    "topicName": "Graphical Method of Solving Linear Programming Problems",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Linear Programming",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Probability",
+    "topicName": "Introduction to Probability",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Probability",
+    "topicName": "Conditional Probability",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Probability",
+    "topicName": "Multiplication Theorem on Probability",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Probability",
+    "topicName": "Independent Events",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Probability",
+    "topicName": "Theorem of Total Probability and Baye's Theorem",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Probability",
+    "topicName": "Random Variables and Their Probability Distributions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Mathematics",
+    "chapterName": "Probability",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Cell: The Unit of Life",
+    "topicName": "Introduction to Cells",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Cell: The Unit of Life",
+    "topicName": "Prokaryotic Cells",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Cell: The Unit of Life",
+    "topicName": "Eukaryotic Cells",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Cell: The Unit of Life",
+    "topicName": "Eukaryotic Cells (Endomembrane System)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Cell: The Unit of Life",
+    "topicName": "Eukaryotic Cells (Organelles)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Cell: The Unit of Life",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Biological Classification",
+    "topicName": "Introduction to Biological Classification",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Biological Classification",
+    "topicName": "Kingdom Monera",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Biological Classification",
+    "topicName": "Kingdom Protista",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Biological Classification",
+    "topicName": "Kingdom Fungi",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Biological Classification",
+    "topicName": "Introduction to Kingdom Plantae and Animalia",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Biological Classification",
+    "topicName": "Viruses, Viroids, Prions, and Lichens",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Biological Classification",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "The Living World",
+    "topicName": "Diversity in the Living World",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "The Living World",
+    "topicName": "Taxonomic Categories",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "The Living World",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Plant Kingdom",
+    "topicName": "Taxonomy: Types",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Plant Kingdom",
+    "topicName": "Algae - Introduction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Plant Kingdom",
+    "topicName": "Classification of Algae",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Plant Kingdom",
+    "topicName": "Bryophytes - Introduction and Liverworts",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Plant Kingdom",
+    "topicName": "Bryophytes - Moss",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Plant Kingdom",
+    "topicName": "Pteridophytes - Introduction and Life Cycle",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Plant Kingdom",
+    "topicName": "Pteridophytes - Heterosporous",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Plant Kingdom",
+    "topicName": "Gymnosperms - Introduction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Plant Kingdom",
+    "topicName": "Gymnosperms - Life Cycle",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Plant Kingdom",
+    "topicName": "Angiosperms",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Plant Kingdom",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Morphology of Flowering Plants",
+    "topicName": "Introduction: Parts of Flowering Plants",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Morphology of Flowering Plants",
+    "topicName": "The Root - Introduction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Morphology of Flowering Plants",
+    "topicName": "Regions of the Root",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Morphology of Flowering Plants",
+    "topicName": "The Stem",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Morphology of Flowering Plants",
+    "topicName": "The Leaf",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Morphology of Flowering Plants",
+    "topicName": "Venation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Morphology of Flowering Plants",
+    "topicName": "Phyllotaxy",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Morphology of Flowering Plants",
+    "topicName": "Inflorescence",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Morphology of Flowering Plants",
+    "topicName": "The Flower",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Morphology of Flowering Plants",
+    "topicName": "Fruit",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Morphology of Flowering Plants",
+    "topicName": "The Seed",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Morphology of Flowering Plants",
+    "topicName": "Semi-Technical Description of a Typical Flowering Plant",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Morphology of Flowering Plants",
+    "topicName": "Description of Some Important Families",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Morphology of Flowering Plants",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Anatomy of Flowering Plants",
+    "topicName": "Plant Tissue Systems",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Anatomy of Flowering Plants",
+    "topicName": "Anatomy of Root",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Anatomy of Flowering Plants",
+    "topicName": "Anatomy of Stem",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Anatomy of Flowering Plants",
+    "topicName": "Anatomy of Leaf",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Anatomy of Flowering Plants",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Animal Kingdom",
+    "topicName": "Basis of Classification",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Animal Kingdom",
+    "topicName": "Phylum Porifera",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Animal Kingdom",
+    "topicName": "Phylum Coelenterata (Cnidaria)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Animal Kingdom",
+    "topicName": "Phylum Ctenophora",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Animal Kingdom",
+    "topicName": "Phylum Platyhelminthes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Animal Kingdom",
+    "topicName": "Phylum Aschelminthes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Animal Kingdom",
+    "topicName": "Phylum Annelida",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Animal Kingdom",
+    "topicName": "Phylum Arthropoda",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Animal Kingdom",
+    "topicName": "Phylum Mollusca",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Animal Kingdom",
+    "topicName": "Phylum Echinodermata",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Animal Kingdom",
+    "topicName": "Phylum Hemichordata",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Animal Kingdom",
+    "topicName": "Phylum Chordata",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Animal Kingdom",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Structural Organisation in Animals",
+    "topicName": "Frog",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Structural Organisation in Animals",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Biomolecules",
+    "topicName": "The Cellular Pool",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Biomolecules",
+    "topicName": "Analysis of Chemical Composition",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Biomolecules",
+    "topicName": "Primary and Secondary Metabolites",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Biomolecules",
+    "topicName": "Biomacromolecules",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Biomolecules",
+    "topicName": "Enzymes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Biomolecules",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Cell Cycle and Cell Division",
+    "topicName": "Cell Cycle: Introduction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Cell Cycle and Cell Division",
+    "topicName": "Stages of Cell Cycle",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Cell Cycle and Cell Division",
+    "topicName": "Mitosis",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Cell Cycle and Cell Division",
+    "topicName": "Cytokinesis",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Cell Cycle and Cell Division",
+    "topicName": "Meiosis",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Cell Cycle and Cell Division",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Photosynthesis in Higher Plants",
+    "topicName": "Introduction to Photosynthesis",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Photosynthesis in Higher Plants",
+    "topicName": "Early Experiments",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Photosynthesis in Higher Plants",
+    "topicName": "Site of Photosynthesis",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Photosynthesis in Higher Plants",
+    "topicName": "Pigments Involved in Photosynthesis",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Photosynthesis in Higher Plants",
+    "topicName": "Light Reactions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Photosynthesis in Higher Plants",
+    "topicName": "Electron Transport",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Photosynthesis in Higher Plants",
+    "topicName": "Dark Reactions - C3 Pathway",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Photosynthesis in Higher Plants",
+    "topicName": "C4 Pathway",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Photosynthesis in Higher Plants",
+    "topicName": "Photorespiration",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Photosynthesis in Higher Plants",
+    "topicName": "Factors Affecting Photosynthesis",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Photosynthesis in Higher Plants",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Respiration in Plants",
+    "topicName": "Respiration in Plants: Introduction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Respiration in Plants",
+    "topicName": "Do Plants Breathe?",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Respiration in Plants",
+    "topicName": "Types of Respiration",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Respiration in Plants",
+    "topicName": "Glycolysis",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Respiration in Plants",
+    "topicName": "Fermentation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Respiration in Plants",
+    "topicName": "Aerobic Respiration",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Respiration in Plants",
+    "topicName": "The Respiratory Balance Sheet",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Respiration in Plants",
+    "topicName": "Amphibolic Pathway",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Respiration in Plants",
+    "topicName": "Respiratory Quotient",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Respiration in Plants",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Plant Growth and Development",
+    "topicName": "Plant Growth",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Plant Growth and Development",
+    "topicName": "Differentiation, Dedifferentiation, and Redifferentiation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Plant Growth and Development",
+    "topicName": "Development",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Plant Growth and Development",
+    "topicName": "Plant Growth Regulators",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Plant Growth and Development",
+    "topicName": "Physiological Effects of Plant Growth Regulators",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Plant Growth and Development",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Breathing and Exchange of Gases",
+    "topicName": "Breathing and Respiration - Introduction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Breathing and Exchange of Gases",
+    "topicName": "Respiratory Organs in Animals",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Breathing and Exchange of Gases",
+    "topicName": "Human Respiratory System",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Breathing and Exchange of Gases",
+    "topicName": "Steps of Respiration",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Breathing and Exchange of Gases",
+    "topicName": "Mechanism of Breathing",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Breathing and Exchange of Gases",
+    "topicName": "Respiratory Volumes and Capacities",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Breathing and Exchange of Gases",
+    "topicName": "Exchange of Gases",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Breathing and Exchange of Gases",
+    "topicName": "Transport of Gases",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Breathing and Exchange of Gases",
+    "topicName": "Regulation of Respiration",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Breathing and Exchange of Gases",
+    "topicName": "Disorders of Respiratory System",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Breathing and Exchange of Gases",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Body Fluids and Circulation",
+    "topicName": "Composition of Blood",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Body Fluids and Circulation",
+    "topicName": "Blood Groups",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Body Fluids and Circulation",
+    "topicName": "Coagulation of Blood",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Body Fluids and Circulation",
+    "topicName": "Lymph (Tissue Fluid)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Body Fluids and Circulation",
+    "topicName": "Circulatory Pathways",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Body Fluids and Circulation",
+    "topicName": "Human Circulatory System",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Body Fluids and Circulation",
+    "topicName": "Cardiac Cycle",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Body Fluids and Circulation",
+    "topicName": "Electrocardiograph (ECG)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Body Fluids and Circulation",
+    "topicName": "Double Circulation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Body Fluids and Circulation",
+    "topicName": "Regulation of Cardiac Activity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Body Fluids and Circulation",
+    "topicName": "Disorders of Circulatory System",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Body Fluids and Circulation",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Excretory Products and Their Elimination",
+    "topicName": "Modes of Excretion, Other Nitrogenous Wastes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Excretory Products and Their Elimination",
+    "topicName": "Excretory Organs",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Excretory Products and Their Elimination",
+    "topicName": "Human Excretory System",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Excretory Products and Their Elimination",
+    "topicName": "Nephron",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Excretory Products and Their Elimination",
+    "topicName": "Urine Formation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Excretory Products and Their Elimination",
+    "topicName": "Functions of Tubules",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Excretory Products and Their Elimination",
+    "topicName": "Mechanism of Concentration of Filtrate",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Excretory Products and Their Elimination",
+    "topicName": "Regulation of Kidney Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Excretory Products and Their Elimination",
+    "topicName": "Micturition",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Excretory Products and Their Elimination",
+    "topicName": "Role of Other Organs in Excretion",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Excretory Products and Their Elimination",
+    "topicName": "Artificial Kidney",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Excretory Products and Their Elimination",
+    "topicName": "Kidney Transplantation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Excretory Products and Their Elimination",
+    "topicName": "Disorders of Excretory System",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Excretory Products and Their Elimination",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Locomotion and Movement",
+    "topicName": "Types of Movements",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Locomotion and Movement",
+    "topicName": "Types of Muscles",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Locomotion and Movement",
+    "topicName": "Internal Structure of Skeletal Muscle",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Locomotion and Movement",
+    "topicName": "Mechanism of Muscle Contraction - Sliding Filament Theory",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Locomotion and Movement",
+    "topicName": "Red Muscles and White Muscles",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Locomotion and Movement",
+    "topicName": "Human Skeletal System (Axial Skeleton)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Locomotion and Movement",
+    "topicName": "Human Skeletal System (Appendicular Skeleton)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Locomotion and Movement",
+    "topicName": "Joints",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Locomotion and Movement",
+    "topicName": "Disorders of Skeletal and Muscular System",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Locomotion and Movement",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Neural Control and Coordination",
+    "topicName": "Neural System",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Neural Control and Coordination",
+    "topicName": "Human Neural System",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Neural Control and Coordination",
+    "topicName": "Neurons",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Neural Control and Coordination",
+    "topicName": "Generation and Conduction of Nerve Impulse",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Neural Control and Coordination",
+    "topicName": "Transmission of Nerve Impulse",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Neural Control and Coordination",
+    "topicName": "Central Neural System - Brain",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Neural Control and Coordination",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Chemical Coordination and Integration",
+    "topicName": "Introduction to Hormones",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Chemical Coordination and Integration",
+    "topicName": "Human Endocrine System",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Chemical Coordination and Integration",
+    "topicName": "Hormones of Heart, Kidney, and GI Tract",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Chemical Coordination and Integration",
+    "topicName": "Mechanism of Hormone Action",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Biology",
+    "chapterName": "Chemical Coordination and Integration",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Human Reproduction",
+    "topicName": "The Male Reproductive System",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Human Reproduction",
+    "topicName": "The Female Reproductive System",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Human Reproduction",
+    "topicName": "Gametogenesis",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Human Reproduction",
+    "topicName": "Menstrual Cycle",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Human Reproduction",
+    "topicName": "Fertilisation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Human Reproduction",
+    "topicName": "Embryonic Development",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Human Reproduction",
+    "topicName": "Pregnancy and Gestation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Human Reproduction",
+    "topicName": "Parturition and Lactation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Human Reproduction",
+    "topicName": "Additional Important Questions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Human Reproduction",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Sexual Reproduction in Flowering Plants",
+    "topicName": "Pre-Fertilisation: Structure and Events",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Sexual Reproduction in Flowering Plants",
+    "topicName": "The Stamen, Microsporangium, and Pollen Grain",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Sexual Reproduction in Flowering Plants",
+    "topicName": "The Pistil, Megasporangium (Ovule), and Embryo Sac",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Sexual Reproduction in Flowering Plants",
+    "topicName": "Pollination",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Sexual Reproduction in Flowering Plants",
+    "topicName": "Artificial Hybridization",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Sexual Reproduction in Flowering Plants",
+    "topicName": "Pollen-Pistil Interaction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Sexual Reproduction in Flowering Plants",
+    "topicName": "Double Fertilization",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Sexual Reproduction in Flowering Plants",
+    "topicName": "Post-Fertilization Events: Endosperm and Embryo",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Sexual Reproduction in Flowering Plants",
+    "topicName": "Post-Fertilization Events: Seed and Fruit",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Sexual Reproduction in Flowering Plants",
+    "topicName": "Special Modes of Reproduction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Sexual Reproduction in Flowering Plants",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Reproductive Health",
+    "topicName": "Introduction to Reproductive Health",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Reproductive Health",
+    "topicName": "Population",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Reproductive Health",
+    "topicName": "Birth Control Methods",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Reproductive Health",
+    "topicName": "Medical Termination of Pregnancy (MTP)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Reproductive Health",
+    "topicName": "Sexually Transmitted Diseases",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Reproductive Health",
+    "topicName": "Infertility",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Reproductive Health",
+    "topicName": "Assisted Reproductive Technologies (ART)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Reproductive Health",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Principles of Inheritance and Variation",
+    "topicName": "Mendel's Experiments",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Principles of Inheritance and Variation",
+    "topicName": "Monohybrid Cross",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Principles of Inheritance and Variation",
+    "topicName": "Deviations from Mendel's Laws",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Principles of Inheritance and Variation",
+    "topicName": "Dihybrid Cross",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Principles of Inheritance and Variation",
+    "topicName": "Chromosomal Theory of Inheritance",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Principles of Inheritance and Variation",
+    "topicName": "Linkage and Recombination",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Principles of Inheritance and Variation",
+    "topicName": "Polygenic Inheritance",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Principles of Inheritance and Variation",
+    "topicName": "Pleiotropy",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Principles of Inheritance and Variation",
+    "topicName": "Mutations",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Principles of Inheritance and Variation",
+    "topicName": "Pedigree Analysis",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Principles of Inheritance and Variation",
+    "topicName": "Mendelian Disorders",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Principles of Inheritance and Variation",
+    "topicName": "Chromosomal Disorders",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Principles of Inheritance and Variation",
+    "topicName": "Important Questions on Principles of Inheritance & Variation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Principles of Inheritance and Variation",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Molecular Basis of Inheritance",
+    "topicName": "DNA and Packaging of DNA Helix",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Molecular Basis of Inheritance",
+    "topicName": "The Search for Genetic Material",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Molecular Basis of Inheritance",
+    "topicName": "Properties of Genetic Material (DNA vs. RNA)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Molecular Basis of Inheritance",
+    "topicName": "RNA World",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Molecular Basis of Inheritance",
+    "topicName": "Replication",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Molecular Basis of Inheritance",
+    "topicName": "Transcription",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Molecular Basis of Inheritance",
+    "topicName": "Post-Transcriptional Modifications",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Molecular Basis of Inheritance",
+    "topicName": "Genetic Code",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Molecular Basis of Inheritance",
+    "topicName": "Translation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Molecular Basis of Inheritance",
+    "topicName": "Regulation of Gene Expression",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Molecular Basis of Inheritance",
+    "topicName": "Human Genome Project",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Molecular Basis of Inheritance",
+    "topicName": "DNA Fingerprinting",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Molecular Basis of Inheritance",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Evolution",
+    "topicName": "Origin of Life",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Evolution",
+    "topicName": "Evolution of Life Forms - A Theory",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Evolution",
+    "topicName": "Evidences for Evolution",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Evolution",
+    "topicName": "Biological Evolution",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Evolution",
+    "topicName": "Mechanism of Evolution",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Evolution",
+    "topicName": "Hardy-Weinberg Principle",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Evolution",
+    "topicName": "Selection Mechanisms",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Evolution",
+    "topicName": "A Brief Account of Evolution",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Evolution",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Human Health and Disease",
+    "topicName": "Health and Disease",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Human Health and Disease",
+    "topicName": "Common Diseases in Humans",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Human Health and Disease",
+    "topicName": "Immunity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Human Health and Disease",
+    "topicName": "Immune System in the Body",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Human Health and Disease",
+    "topicName": "AIDS",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Human Health and Disease",
+    "topicName": "Cancer",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Human Health and Disease",
+    "topicName": "Drug and Alcohol Abuse",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Human Health and Disease",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Microbes in Human Welfare",
+    "topicName": "Microbes in Household Products",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Microbes in Human Welfare",
+    "topicName": "Microbes in Industrial Products",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Microbes in Human Welfare",
+    "topicName": "Microbes in Sewage Treatment",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Microbes in Human Welfare",
+    "topicName": "Microbes in Production of Biogas",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Microbes in Human Welfare",
+    "topicName": "Microbes as Biocontrol Agents",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Microbes in Human Welfare",
+    "topicName": "Microbes as Biofertilizers",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Microbes in Human Welfare",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biotechnology: Principles and Processes",
+    "topicName": "Principles of Biotechnology",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biotechnology: Principles and Processes",
+    "topicName": "Tools of Genetic Engineering",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biotechnology: Principles and Processes",
+    "topicName": "Restriction Enzymes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biotechnology: Principles and Processes",
+    "topicName": "Cloning Vectors",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biotechnology: Principles and Processes",
+    "topicName": "Transformation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biotechnology: Principles and Processes",
+    "topicName": "Processes of Recombinant DNA Technology",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biotechnology: Principles and Processes",
+    "topicName": "Amplification of DNA using PCR",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biotechnology: Principles and Processes",
+    "topicName": "Obtaining the Foreign Gene Product",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biotechnology: Principles and Processes",
+    "topicName": "Downstream Processing",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biotechnology: Principles and Processes",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biotechnology and Its Applications",
+    "topicName": "Biotechnological Applications in Agriculture",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biotechnology and Its Applications",
+    "topicName": "Biotechnological Applications in Medicine",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biotechnology and Its Applications",
+    "topicName": "Transgenic Animals",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biotechnology and Its Applications",
+    "topicName": "Ethical Issues",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biotechnology and Its Applications",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Organisms and Populations",
+    "topicName": "Population and Population Attributes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Organisms and Populations",
+    "topicName": "Population Growth Models",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Organisms and Populations",
+    "topicName": "Population Interactions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Organisms and Populations",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Ecosystem",
+    "topicName": "Ecosystems: Types",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Ecosystem",
+    "topicName": "Ecosystems - Structure and Functions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Ecosystem",
+    "topicName": "Components of Ecosystem",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Ecosystem",
+    "topicName": "Productivity of Ecosystem",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Ecosystem",
+    "topicName": "Decomposition",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Ecosystem",
+    "topicName": "Energy Flow",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Ecosystem",
+    "topicName": "Food Chain and Food Web",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Ecosystem",
+    "topicName": "Trophic Levels",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Ecosystem",
+    "topicName": "Ecological Pyramids",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Ecosystem",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biodiversity and Its Conservation",
+    "topicName": "Concept of Biodiversity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biodiversity and Its Conservation",
+    "topicName": "Levels of Biodiversity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biodiversity and Its Conservation",
+    "topicName": "Patterns of Biodiversity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biodiversity and Its Conservation",
+    "topicName": "Importance of Biodiversity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biodiversity and Its Conservation",
+    "topicName": "Loss of Biodiversity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biodiversity and Its Conservation",
+    "topicName": "Reasons for Biodiversity Conservation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biodiversity and Its Conservation",
+    "topicName": "Conservation of Biodiversity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biodiversity and Its Conservation",
+    "topicName": "National and International Measures to Protect Biodiversity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Biology",
+    "chapterName": "Biodiversity and Its Conservation",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "General Inorganic Chemistry",
+    "topicName": "Formulae of Compounds",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "General Inorganic Chemistry",
+    "topicName": "Basics of Atoms and Molecules",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Basic Maths in Chemistry",
+    "topicName": "Powers and Exponents",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Basic Maths in Chemistry",
+    "topicName": "Logarithms",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Basic Maths in Chemistry",
+    "topicName": "Straight Line Graphs",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Basic Maths in Chemistry",
+    "topicName": "Non-Linear Graphs",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Basic Maths in Chemistry",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Some Basic Concepts of Chemistry",
+    "topicName": "Importance of Chemistry",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Some Basic Concepts of Chemistry",
+    "topicName": "Nature of Matter",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Some Basic Concepts of Chemistry",
+    "topicName": "Properties of Matter and Their Measurement",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Some Basic Concepts of Chemistry",
+    "topicName": "Uncertainty in Measurement",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Some Basic Concepts of Chemistry",
+    "topicName": "Laws of Chemical Combinations",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Some Basic Concepts of Chemistry",
+    "topicName": "Dalton's Atomic Theory",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Some Basic Concepts of Chemistry",
+    "topicName": "Atomic and Molecular Masses",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Some Basic Concepts of Chemistry",
+    "topicName": "Mole Concept and Molar Masses",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Some Basic Concepts of Chemistry",
+    "topicName": "Percentage Composition",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Some Basic Concepts of Chemistry",
+    "topicName": "Stoichiometry and Stoichiometric Calculations",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Some Basic Concepts of Chemistry",
+    "topicName": "Reactions in Solutions & Concentration Terms",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Some Basic Concepts of Chemistry",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Structure of Atom",
+    "topicName": "Discovery of Subatomic Particles",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Structure of Atom",
+    "topicName": "Atomic Models",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Structure of Atom",
+    "topicName": "Developments Leading to the Bohr's Model of Atom",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Structure of Atom",
+    "topicName": "Bohr's Model for Hydrogen Atom",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Structure of Atom",
+    "topicName": "Quantum Mechanical Model of Atom",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Structure of Atom",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Classification of Elements and Periodicity in Properties",
+    "topicName": "Why Do We Need to Classify Elements?",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Classification of Elements and Periodicity in Properties",
+    "topicName": "Genesis of Periodic Classification",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Classification of Elements and Periodicity in Properties",
+    "topicName": "Modern Periodic Law",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Classification of Elements and Periodicity in Properties",
+    "topicName": "Nomenclature of Elements With Atomic Numbers",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Classification of Elements and Periodicity in Properties",
+    "topicName": "Electronic Configurations of Elements and the Periodic Table",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Classification of Elements and Periodicity in Properties",
+    "topicName": "Electronic Configurations and Types of Elements: s-, p-, d-, f- Blocks",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Classification of Elements and Periodicity in Properties",
+    "topicName": "Periodic Trends in Properties of Elements",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Classification of Elements and Periodicity in Properties",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Chemical Bonding and Molecular Structure",
+    "topicName": "Kossel-Lewis Approach to Chemical Bonding",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Chemical Bonding and Molecular Structure",
+    "topicName": "Ionic or Electrovalent Bond",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Chemical Bonding and Molecular Structure",
+    "topicName": "Bond Parameters",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Chemical Bonding and Molecular Structure",
+    "topicName": "Valence Shell Electron Pair Repulsion (VSEPR) Theory",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Chemical Bonding and Molecular Structure",
+    "topicName": "Valence Bond Theory",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Chemical Bonding and Molecular Structure",
+    "topicName": "Hybridisation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Chemical Bonding and Molecular Structure",
+    "topicName": "Molecular Orbital Theory",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Chemical Bonding and Molecular Structure",
+    "topicName": "Bonding in Some Homonuclear Diatomic Molecules",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Chemical Bonding and Molecular Structure",
+    "topicName": "Hydrogen Bonding",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Chemical Bonding and Molecular Structure",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Thermodynamics",
+    "topicName": "Thermodynamic Terms",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Thermodynamics",
+    "topicName": "Applications",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Thermodynamics",
+    "topicName": "Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Thermodynamics",
+    "topicName": "Enthalpies for Different Types of Reactions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Thermodynamics",
+    "topicName": "Spontaneity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Thermodynamics",
+    "topicName": "Gibbs Energy Change and Equilibrium",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Thermodynamics",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Equilibrium",
+    "topicName": "Equilibrium in Physical Processes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Equilibrium",
+    "topicName": "Equilibrium in Chemical Processes - Dynamic Equilibrium",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Equilibrium",
+    "topicName": "Law of Chemical Equilibrium and Equilibrium Constant",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Equilibrium",
+    "topicName": "Homogeneous Equilibria",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Equilibrium",
+    "topicName": "Heterogeneous Equilibria",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Equilibrium",
+    "topicName": "Applications of Equilibrium Constants",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Equilibrium",
+    "topicName": "Relationship Between Equilibrium Constant K, Reaction Quotient Q, and Gibbs Energy G",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Equilibrium",
+    "topicName": "Factors Affecting Equilibria",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Equilibrium",
+    "topicName": "Ionic Equilibrium in Solution",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Equilibrium",
+    "topicName": "Acids, Bases, and Salts",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Equilibrium",
+    "topicName": "Ionization of Acids and Bases",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Equilibrium",
+    "topicName": "Buffer Solutions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Equilibrium",
+    "topicName": "Solubility Equilibria of Sparingly Soluble Salts",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Equilibrium",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Redox Reactions",
+    "topicName": "Classical Idea of Redox Reactions - Oxidation and Reduction Reactions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Redox Reactions",
+    "topicName": "Redox Reactions in Terms of Electron Transfer Reactions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Redox Reactions",
+    "topicName": "Oxidation Number",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Redox Reactions",
+    "topicName": "Redox Reactions and Electrode Processes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Redox Reactions",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topicName": "Introduction to Organic Chemistry",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topicName": "Tetravalence of Carbon",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topicName": "Structural Representations of Organic Compounds",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topicName": "Classification of Organic Compounds",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topicName": "Nomenclature of Organic Compounds",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topicName": "Isomerism",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topicName": "Fundamental Concepts in Organic Reaction Mechanism",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topicName": "Qualitative Analysis of Organic Compounds",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topicName": "Quantitative Analysis of Organic Compounds",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topicName": "Methods of Purification of Organic Compounds",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Organic Chemistry – Some Basic Principles and Techniques",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Hydrocarbons",
+    "topicName": "Classification",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Hydrocarbons",
+    "topicName": "Alkanes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Hydrocarbons",
+    "topicName": "Alkenes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Hydrocarbons",
+    "topicName": "Alkynes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Hydrocarbons",
+    "topicName": "Aromatic Hydrocarbon",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Hydrocarbons",
+    "topicName": "Carcinogenicity and Toxicity",
+    "subTopic01": ""
+  },
+  {
+    "grade": "11",
+    "subject": "Chemistry",
+    "chapterName": "Hydrocarbons",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Solutions",
+    "topicName": "Types of Solutions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Solutions",
+    "topicName": "Expressing Concentration of Solutions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Solutions",
+    "topicName": "Vapour Pressure of Liquid Solutions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Solutions",
+    "topicName": "Solubility",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Solutions",
+    "topicName": "Ideal and Non-Ideal Solutions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Solutions",
+    "topicName": "Colligative Properties and Determination of Molar Mass",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Solutions",
+    "topicName": "Abnormal Molar Masses",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Solutions",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Electrochemistry",
+    "topicName": "Electrochemical Cells",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Electrochemistry",
+    "topicName": "Galvanic Cells",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Electrochemistry",
+    "topicName": "Nernst Equation",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Electrochemistry",
+    "topicName": "Conductance of Electrolytic Solutions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Electrochemistry",
+    "topicName": "Electrolytic Cells and Electrolysis",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Electrochemistry",
+    "topicName": "Batteries",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Electrochemistry",
+    "topicName": "Fuel Cells",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Electrochemistry",
+    "topicName": "Corrosion",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Electrochemistry",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Chemical Kinetics",
+    "topicName": "Rate of a Chemical Reaction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Chemical Kinetics",
+    "topicName": "Factors Influencing Rate of a Reaction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Chemical Kinetics",
+    "topicName": "Integrated Rate Equations",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Chemical Kinetics",
+    "topicName": "Temperature Dependence of the Rate of a Reaction",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Chemical Kinetics",
+    "topicName": "Collision Theory of Chemical Reactions",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Chemical Kinetics",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "The d- and f- Block Elements",
+    "topicName": "Position in the Periodic Table",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "The d- and f- Block Elements",
+    "topicName": "Electronic Configurations of the D-Block Elements",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "The d- and f- Block Elements",
+    "topicName": "General Properties of the Transition Elements (D-Block)",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "The d- and f- Block Elements",
+    "topicName": "Some Important Compounds of Transition Elements",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "The d- and f- Block Elements",
+    "topicName": "Some Applications of D- and F-Block Elements",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "The d- and f- Block Elements",
+    "topicName": "The Lanthanides",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "The d- and f- Block Elements",
+    "topicName": "The Actinides",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "The d- and f- Block Elements",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Coordination Compounds",
+    "topicName": "Definitions of Some Important Terms Pertaining to Coordination Compounds",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Coordination Compounds",
+    "topicName": "Nomenclature of Coordination Compounds",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Coordination Compounds",
+    "topicName": "Werner's Theory of Coordination Compounds",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Coordination Compounds",
+    "topicName": "Bonding in Coordination Compounds",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Coordination Compounds",
+    "topicName": "Bonding in Metal Carbonyls",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Coordination Compounds",
+    "topicName": "Isomerism in Coordination Compounds",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Coordination Compounds",
+    "topicName": "Importance and Applications of Coordination Compounds",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Coordination Compounds",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Haloalkanes and Haloarenes",
+    "topicName": "Chemical Reactions of Haloalkanes and Haloarenes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Haloalkanes and Haloarenes",
+    "topicName": "Classification of Haloalkanes and Haloarenes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Haloalkanes and Haloarenes",
+    "topicName": "Nomenclature of Haloalkanes and Haloarenes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Haloalkanes and Haloarenes",
+    "topicName": "Nature of C–X Bond",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Haloalkanes and Haloarenes",
+    "topicName": "Physical Properties of Haloalkanes and Haloarenes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Haloalkanes and Haloarenes",
+    "topicName": "Methods of Preparation of Haloalkanes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Haloalkanes and Haloarenes",
+    "topicName": "Preparation of Haloarenes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Haloalkanes and Haloarenes",
+    "topicName": "Polyhalogen Compounds",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Haloalkanes and Haloarenes",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Alcohols, Phenols and Ethers",
+    "topicName": "Classification of Alcohols, Phenol, and Ethers",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Alcohols, Phenols and Ethers",
+    "topicName": "Nomenclature of Alcohols, Phenol, and Ethers",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Alcohols, Phenols and Ethers",
+    "topicName": "Structures of Functional Groups",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Alcohols, Phenols and Ethers",
+    "topicName": "Alcohols and Phenol",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Alcohols, Phenols and Ethers",
+    "topicName": "Some Commercially Important Alcohols",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Alcohols, Phenols and Ethers",
+    "topicName": "Ethers",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Alcohols, Phenols and Ethers",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Aldehydes, Ketones and Carboxylic Acids",
+    "topicName": "Nomenclature and Structure of Carbonyl Group",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Aldehydes, Ketones and Carboxylic Acids",
+    "topicName": "Preparation of Aldehydes and Ketones",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Aldehydes, Ketones and Carboxylic Acids",
+    "topicName": "Physical Properties of Aldehydes and Ketones",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Aldehydes, Ketones and Carboxylic Acids",
+    "topicName": "Chemical Reactions of Aldehydes and Ketones",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Aldehydes, Ketones and Carboxylic Acids",
+    "topicName": "Uses of Aldehydes and Ketones",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Aldehydes, Ketones and Carboxylic Acids",
+    "topicName": "Nomenclature and Structure of Carboxyl Group",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Aldehydes, Ketones and Carboxylic Acids",
+    "topicName": "Physical Properties of Carboxylic Acids",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Aldehydes, Ketones and Carboxylic Acids",
+    "topicName": "Chemical Reactions of Carboxylic Acids",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Aldehydes, Ketones and Carboxylic Acids",
+    "topicName": "Methods of Preparation of Carboxylic Acids",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Aldehydes, Ketones and Carboxylic Acids",
+    "topicName": "Uses of Carboxylic Acids",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Aldehydes, Ketones and Carboxylic Acids",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Amines",
+    "topicName": "Structure of Amines",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Amines",
+    "topicName": "Classification of Amines",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Amines",
+    "topicName": "Nomenclature of Amines",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Amines",
+    "topicName": "Preparation of Amines",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Amines",
+    "topicName": "Physical Properties of Amines",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Amines",
+    "topicName": "Chemical Reactions of Amines",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Amines",
+    "topicName": "Method of Preparation of Diazonium Salts",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Amines",
+    "topicName": "Physical Properties of Diazonium Salts",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Amines",
+    "topicName": "Chemical Reactions of Diazonium Salts",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Amines",
+    "topicName": "Importance of Diazonium Salts in Synthesis of Aromatic Compounds",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Amines",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Biomolecules",
+    "topicName": "Carbohydrates",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Biomolecules",
+    "topicName": "Proteins",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Biomolecules",
+    "topicName": "Nucleic Acids",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Biomolecules",
+    "topicName": "Enzymes",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Biomolecules",
+    "topicName": "Vitamins",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Biomolecules",
+    "topicName": "Hormones",
+    "subTopic01": ""
+  },
+  {
+    "grade": "12",
+    "subject": "Chemistry",
+    "chapterName": "Biomolecules",
+    "topicName": "Miscellaneous Examples",
+    "subTopic01": ""
+  }
+]

@@ -1,0 +1,217 @@
+Loaded 3590 questions in total from default databases.
+
+========================================
+LATEX QUESTION 1: "What is the correct IUPAC name of the compound CH3-CH(CH3)-CH2-CH=CH2?"
+MATCHED PYQ SOURCE: [NEET] [ID: 6a032f2b0b170637d27e335b] (Score: 0.441)
+Chapter: Organic Chemistry: Some Basic Principles and Techniques | Topic: IUPAC System of Nomenclature
+Original Question: "The correct IUPAC name of the following compound is :<br><img src="https://cmds-test.vedantu.com/prod/question-sets/050b82aa-4bc5-4ea9-aa1a-7d6540b88e937092020363687126893.png"/>"
+Original Answer: ["C"]
+Original Options: [" 2,4-diethylhexane"," 3,5-diethylhexane"," 3-ethyl-5-methylheptane"," 3-methyl-5-ethylheptane"]
+Original Solution: "<img src="https://cmds-test.vedantu.com/prod/question-sets/076adcd9-fb95-4770-a698-e931662d47667191127583021822502.png"/><br>IUPAC name : 3-ethyl-5-me..."
+
+========================================
+LATEX QUESTION 2: "Which of the following alkanes cannot be prepared in good yield by the Wurtz reaction?"
+MATCHED PYQ SOURCE: [JEE] [ID: 69ecac37c7351003773df008] (Score: 0.542)
+Chapter: General Organic Chemistry | Topic: Introduction of Reaction Intermediates
+Original Question: "</b>The major product of which of the following reaction is not obtained by rearrangement reaction?"
+Original Answer: ["B"]
+Original Options: ["<img  src=\"https://cmds-test.vedantu.com/prod/question-sets/5a0bf506-9a4a-4cb0-83fb-6568303b57516362608203992976848.png\"/> ","<img  src=\"https://cmds-test.vedantu.com/prod/question-sets/fb56d5d3-db56-4e71-9f6f-5a0b55c39d84959064995961522342.png\"/> ","<img  src=\"https://cmds-test.vedantu.com/prod/question-sets/1a57b97f-f358-4eb4-a1ff-2e51b7c6af1b116641808723556562.png\"/> ","<img  src=\"https://cmds-test.vedantu.com/prod/question-sets/b02673ed-c37e-497f-9924-dad6417be5b63854243477646890765.png\"/> "]
+Original Solution: "<img src="https://cmds-test.vedantu.com/prod/question-sets/8e221329-4a63-48cb-9398-2d922046cd87142937666524938047.png"/><br>Product obtained without r..."
+
+========================================
+LATEX QUESTION 3: "Which of the following alkanes yields only one monochlorinated product upon photochemical chlorination?"
+MATCHED PYQ SOURCE: [JEE] [ID: 69ec98fbc7351003773ce21d] (Score: 0.549)
+Chapter: Hydrocarbons | Topic: Isomerism in Alkanes
+Original Question: "</b>An alkane (Y) requires 8 moles of oxygen for complete combustion and on chlorination with $\mathrm{Cl}_{2} / \mathrm{hv}$, (Y) gives only one monochlorinated product (Z). The total number of primary carbon atoms in (Y) is $\_\_\_\_$ ."
+Original Answer: ["4"]
+Original Options: []
+Original Solution: "$\quad \mathrm{C}_{\mathrm{n}} \mathrm{H}_{2 \mathrm{n}+2}+\left(\frac{3 \mathrm{n}+1}{2}\right) \mathrm{O}_{2} \rightarrow \mathrm{nCO}_{2}+(\mathrm{..."
+
+========================================
+LATEX QUESTION 4: "The major product formed when 2-bromobutane is treated with alcoholic KOH is:"
+MATCHED PYQ SOURCE: [JEE] [ID: 67a9c218a8352a1535456cdb] (Score: 0.490)
+Chapter: Hydrocarbons | Topic: Chemical Properties of Alkanes
+Original Question: "When sec-butylcyclohexane reacts with bromine in the presence of sunlight, the major product is :"
+Original Answer: ["D"]
+Original Options: [" <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/f7c3a16c-91bf-40fb-b156-e7adadbd57bb7885153347016945673.png\"/>"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/509097f3-720a-4b7d-8fab-215a8f27cb672790431458634352396.png\"/>"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/13f5d6f0-7979-4fc6-9e15-be1594aef1f13314923761776965432.png\"/>"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/d668a0af-a6c2-4368-ae8b-587542c037937760508291324818300.png\"/>"]
+Original Solution: "<img src="https://cmds-test.vedantu.com/prod/question-sets/49de0480-4a29-4cc4-8193-6c7029ee50c11282841204263257927.png"/><br>Formation of more stable ..."
+
+========================================
+LATEX QUESTION 5: "The IUPAC name of the compound CH3-C \equiv C-CH(CH3)2 is:"
+MATCHED PYQ SOURCE: [NEET] [ID: 672a1ce856fcf84bc5e6df38] (Score: 0.430)
+Chapter: Organic Chemistry: Some Basic Principles and Techniques | Topic: IUPAC System of Nomenclature
+Original Question: "<b> </b>A compound with a molecular formula of C<sub>6</sub>H<sub>14</sub> has two tertiary carbons. Its IUPAC name is:"
+Original Answer: ["B"]
+Original Options: [" 2-methylpentane"," 2,3-dimethylbutane"," 2,2-dimethylbutane"," n-hexane"]
+Original Solution: "<b></b><img src="https://cmds-test.vedantu.com/prod/question-sets/5948a47e-f8a4-4a15-a270-bdf00bcbc8224680880406895209309.png"/><br>2,3-dimethylbutane..."
+
+========================================
+LATEX QUESTION 6: "Electrolysis of an aqueous solution of sodium acetate produces which of the following gases at the anode?"
+MATCHED PYQ SOURCE: [JEE] [ID: 69ec763fd2d9d55c5f61c236] (Score: 0.862)
+Chapter: Hydrocarbons | Topic: Preparation of Alkanes
+Original Question: "</b>Given below are two statements :<br><b>Statement-I :</b> Methane can be prepared by decarboxylation of sodium ethanoate, Kolbe's electrolysis of sodium acetate and reaction of $\mathrm{CH}_{3} \mathrm{MgBr}$ with water.<br><b>Statement-II : </b>Methane cannot be prepared from unsaturated hydrocarbons and by Wurtz reaction.<br>In the light of the above statements, choose the correct answer from the options given below."
+Original Answer: ["D"]
+Original Options: ["Both Statement-I and Statement-II are true.","Both Statement-I and Statement-II are false.","Statement-I is true but Statement-II is false.","Statement-I is false but Statement-II is true."]
+Original Solution: "Methane can not be prepared by Kolbe's electrolysis process. So, statement-1 is false<br/><img src="https://cmds-test.vedantu.com/prod/question-sets/c..."
+
+========================================
+LATEX QUESTION 7: "The complete combustion of one mole of an alkane produces 4 moles of H2O. The alkane is:"
+MATCHED PYQ SOURCE: [JEE] [ID: 69e760c6c24bb510a85203a2] (Score: 0.648)
+Chapter: Hydrocarbons | Topic: Chemical Properties of Alkanes
+Original Question: "</b>One mole of an alkane (x) requires 8 mole oxygen for complete combustion. Sum of number of carbon and hydrogen atoms in the alkane ( x ) is<br>$\_\_\_\_$ ."
+Original Answer: ["17"]
+Original Options: []
+Original Solution: "$\quad \mathrm{C}_{\mathrm{n}} \mathrm{H}_{2 \mathrm{n}+2}+\left(\frac{3 \mathrm{n}+1}{2}\right) \mathrm{O}_{2} \rightarrow \mathrm{nCO}_{2}+(\mathrm{..."
+
+========================================
+LATEX QUESTION 8: "The reduction of but-2-yne with H2 in the presence of Lindlar's catalyst yields:"
+MATCHED PYQ SOURCE: [JEE] [ID: 67acb27da8352a1535583340] (Score: 0.530)
+Chapter: Electrochemistry | Topic: Electrode Potentials Including Standard Electrode Potential
+Original Question: "The standard reduction potential values of some of the p-block ions are given below. Predict the one with the strongest oxidising capacity."
+Original Answer: ["D"]
+Original Options: ["\\[{\\text{E}}_{{\\text{S}}{{\\text{n}}^{{\\text{4 + }}}}/{\\text{S}}{{\\text{n}}^{{\\text{2 + }}}}}^{{\\Theta }}{\\text{ =  + 1}}{\\text{.15V}}\\]","\\[{\\text{E}}_{{\\text{T}}{l^{{\\text{3 + }}}}/{\\text{T}}{l^{{\\text{2 + }}}}}^{{\\Theta }}{\\text{ =  + 1}}{\\text{.26V}}\\]","\\[{\\text{E}}_{{\\text{A}}{{\\text{l}}^{{\\text{3 + }}}}/{\\text{Al}}}^{{\\Theta }}{\\text{ = }} - {\\text{1}}{\\text{.66V}}\\]","\\[{\\text{E}}_{{\\text{P}}{{\\text{b}}^{{\\text{4 + }}}}/{\\text{P}}{{\\text{b}}^{2 + }}}^{{\\Theta }}{\\text{ = }}  {\\text{1}}{\\text{.67V}}\\]"]
+Original Solution: "Standard reduction potential value (+ve) increases oxidising capacity increases...."
+
+========================================
+LATEX QUESTION 9: "What is the correct IUPAC name of the compound CH2=CH-CH2-C \equiv CH?"
+MATCHED PYQ SOURCE: [JEE] [ID: 69e760c6c24bb510a852039a] (Score: 0.653)
+Chapter: General Organic Chemistry | Topic: IUPAC System of Nomenclature
+Original Question: "</b>In IUPAC nomenclature, the correct order of decreasing priority of functional group is :"
+Original Answer: ["C"]
+Original Options: [" $-\\mathrm{CONH}_{2},>\\mathrm{C}=\\mathrm{O},-\\mathrm{CHO},-\\mathrm{NH}_{2},-\\mathrm{C} \\equiv \\mathrm{C}-$"," $-\\mathrm{CONH}_{2},-\\mathrm{COOCH}_{3},-\\mathrm{CHO},-\\mathrm{NH}_{2},-\\mathrm{OH}$"," $-\\mathrm{CONH}_{2},-\\mathrm{CHO},>\\mathrm{C}=\\mathrm{O},-\\mathrm{NH}_{2},-\\mathrm{C} \\equiv \\mathrm{C}-$"," $-\\mathrm{CONH}_{2},-\\mathrm{CHO},-\\mathrm{CN},-\\mathrm{NH}_{2},-\\mathrm{C} \\equiv \\mathrm{C}-$"]
+Original Solution: "Theory based<br>..."
+
+========================================
+LATEX QUESTION 10: "An alkyl halide RX reacts with magnesium in dry ether to form a Grignard reagent, which upon treatment with D2O yields 2-methylbutane-2-d. The original alkyl halide RX is:"
+MATCHED PYQ SOURCE: [JEE] [ID: 6805c72b49d68d1d06a58c8f] (Score: 0.500)
+Chapter: Aldehydes and Ketones | Topic: Chemical Properties of Carbonyl Compounds
+Original Question: "An organic compound (X) with molecular formula C<sub>3</sub>H<sub>6</sub>O is not readily oxidised. On reduction it gives C<sub>3</sub>H<sub>8</sub>O(Y) which reacts with HBr to give a bromide (Z) which is converted to Grignard reagent. This Grignard reagent on reaction with (X) followed by hydrolysis give 2,3-dimethylbutan-2-ol. Compounds (X), (Y) and (Z) respectively are :"
+Original Answer: ["B"]
+Original Options: ["CH<sub>3</sub>COCH<sub>3</sub>, CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>OH, CH<sub>3</sub>CH(Br)CH<sub>3</sub>","CH<sub>3</sub>COCH<sub>3</sub>, CH<sub>3</sub>CH(OH)CH<sub>3</sub>, CH<sub>3</sub>CH(Br)CH<sub>3</sub>","CH<sub>3</sub>CH<sub>2</sub>CHO, CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>OH, CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>Br","CH<sub>3</sub>CH<sub>2</sub>CHO, CH<sub>3</sub>CH = CH<sub>2</sub>, CH<sub>3</sub>CH(Br)CH<sub>3</sub>"]
+Original Solution: "<img src="https://www.vedantu.com/question-sets/307d0e28-b341-4412-a2c5-15b6067e3ba92460028559588963628.png"/>..."
+
+========================================
+LATEX QUESTION 11: "Which of the following alkanes will yield a mixture of exactly three monochloro structural isomers upon photochemical chlorination?"
+MATCHED PYQ SOURCE: [NEET] [ID: 6a043365a5510d0cfe1b741b] (Score: 0.500)
+Chapter: Plant Growth and Development | Topic: Plant Growth
+Original Question: "<b> </b>Which one of the following is not a characteristic of plant cells in the phase of elongation?"
+Original Answer: ["B"]
+Original Options: [" Increased vacuolation"," Large conspicuous nuclei"," Cell enlargement"," New cell wall deposition"]
+Original Solution: "Phase of elongation is characterised by new cell wall deposition, increased vacuolation and enlargement of cell. Presence of large conspicuous nuclei ..."
+
+========================================
+LATEX QUESTION 12: "2-Bromo-2-methylbutane reacts with sodium ethoxide in ethanol to give product A (major) and with potassium tert-butoxide in tert-butanol to give product B (major). Identify A and B."
+MATCHED PYQ SOURCE: [JEE] [ID: 6988b129ef69840ff995bd41] (Score: 0.379)
+Chapter: Alcohols, Phenols and Ethers | Topic: Chemical Properties of Ethers
+Original Question: "A mixed ether ( P ), when heated with excess of hot concentrated hydrogen iodide produces two different alkyl iodides which when treated with aq. NaOH give compounds (Q) and (R). Both (Q) and (R) give yellow precipitate with NaOI. Identify the mixed ether (P):"
+Original Answer: ["A"]
+Original Options: [" <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/ec5def51-f9fa-418d-84d7-71244aac1d08292735698405766932.png\"/>"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/cd507172-0dfa-4f36-bc8e-576cf8cc13333904596860255152814.png\"/>"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/9caef2db-d397-4cc3-b397-6b25c8f8fba63564662192949934404.png\"/>"," <img  src=\"https://cmds-test.vedantu.com/prod/question-sets/639de566-ce8f-4aa2-94be-428284f0f1023748809214282667538.png\"/>"]
+Original Solution: "<img src="https://cmds-test.vedantu.com/prod/question-sets/f374af3e-1bad-4023-bfa4-9359f1eeb230314827712323786069.png"/><br><img src="https://cmds-tes..."
+
+========================================
+LATEX QUESTION 13: "The correct IUPAC name of the compound CH3-CH2-C(CH3)2-CH2-CH(CH3)-CH(CH3)2 is:"
+MATCHED PYQ SOURCE: [JEE] [ID: 69e760c6c24bb510a852039a] (Score: 0.474)
+Chapter: General Organic Chemistry | Topic: IUPAC System of Nomenclature
+Original Question: "</b>In IUPAC nomenclature, the correct order of decreasing priority of functional group is :"
+Original Answer: ["C"]
+Original Options: [" $-\\mathrm{CONH}_{2},>\\mathrm{C}=\\mathrm{O},-\\mathrm{CHO},-\\mathrm{NH}_{2},-\\mathrm{C} \\equiv \\mathrm{C}-$"," $-\\mathrm{CONH}_{2},-\\mathrm{COOCH}_{3},-\\mathrm{CHO},-\\mathrm{NH}_{2},-\\mathrm{OH}$"," $-\\mathrm{CONH}_{2},-\\mathrm{CHO},>\\mathrm{C}=\\mathrm{O},-\\mathrm{NH}_{2},-\\mathrm{C} \\equiv \\mathrm{C}-$"," $-\\mathrm{CONH}_{2},-\\mathrm{CHO},-\\mathrm{CN},-\\mathrm{NH}_{2},-\\mathrm{C} \\equiv \\mathrm{C}-$"]
+Original Solution: "Theory based<br>..."
+
+========================================
+LATEX QUESTION 14: "An aqueous solution of sodium 3-methylbutanoate is subjected to Kolbe's electrolysis. The major hydrocarbon product formed at the anode is:"
+MATCHED PYQ SOURCE: [JEE] [ID: 6805f6d948a77061cef513c6] (Score: 0.489)
+Chapter: Alcohols, Phenols and Ethers | Topic: Preparation of Ethers
+Original Question: "Which one of the following reactions will not lead to the desired ether formation in major proportion? <br>(iso-Bu ⇒ isobutyl, sec-Bu ⇒ sec-butyl, <br>nPr ⇒ n-propyl, tBu ⇒ tert-butyl, Et ⇒ ethyl)"
+Original Answer: ["D"]
+Original Options: ["\\[^tBu\\mathop O\\limits^\\Theta  \\mathop N\\limits^ \\oplus  a + EtBr{ \\to ^t}Bu - O - Et\\]","<img  src=\"https://cmds-test.vedantu.com/prod/question-sets/d68c6baa-ba88-4bd7-86fb-9ae735a7ea0d8524985706084401584.png\"/>","<img  src=\"https://cmds-test.vedantu.com/prod/question-sets/fcbeb3f8-3921-4f98-9b26-1656be47470c2846372125862970112.png\"/>","<div><span>\\[iso-Bu\\overset{\\Theta&#10;}{\\mathop{\\text{ }O}}\\,\\overset{\\oplus }{\\mathop{\\text{ }N}}\\,a+\\sec BuBr\\to&#10;\\]\\[Sec-Bu-O-ios-Bu\\]</span></div>"]
+Original Solution: "<img src="https://cmds-test.vedantu.com/prod/question-sets/ba05a105-bd3c-4f37-9c4e-b867de1b8be86232348040048357983.png"/>..."
+
+========================================
+LATEX QUESTION 15: "A gaseous alkane requires exactly 6.5 times its own volume of oxygen for complete combustion under the same conditions of temperature and pressure. The alkane is:"
+MATCHED PYQ SOURCE: [NEET] [ID: 6a394e3ead553b6c8e9b861a] (Score: 0.635)
+Chapter: Some Basic Concepts of Chemistry | Topic: Chemical Equations and Stoichiometry
+Original Question: "The amount of carbon dioxide evolved upon complete combustion of 116 g of n -butane is (Given: atomic mass in amu $\mathrm{H}=1, \mathrm{C}=12$ and $\mathrm{O}=16$ )"
+Original Answer: ["D"]
+Original Options: [" 322 g"," 176 g"," 362 g"," 352 g"]
+Original Solution: "$\mathrm{C}_{4} \mathrm{H}_{10}+\frac{13}{2} \mathrm{O}_{2} \rightarrow 4 \mathrm{CO}_{2}+5 \mathrm{H}_{2} \mathrm{O}$<br>$\because 1$ mole $\mathrm{C..."
+
+========================================
+LATEX QUESTION 16: "2-Bromo-3-methylpentane is treated with alcoholic KOH. How many total alkene products (including stereoisomers) are formed?"
+MATCHED PYQ SOURCE: [NEET] [ID: 682882c7337dd924c538a57f] (Score: 0.525)
+Chapter: Hydrocarbons | Topic: Chemical Properties of Alkanes
+Original Question: "<b> </b>How many products (including stereoisomers) are expected from monochlorination of the following compound?<br><img src="https://cmds-test.vedantu.com/prod/question-sets/d17a0a30-6e89-499f-8ea6-a659fe3204c32867089777944335459.png"/>"
+Original Answer: ["B"]
+Original Options: [" 5"," 6"," 2"," 3"]
+Original Solution: "<i><b></b></i><img src="https://cmds-test.vedantu.com/prod/question-sets/35a54e0c-3695-4f3f-a657-dc584081fb9d109183477708028229.png"/><br><i><b></b></..."
+
+========================================
+LATEX QUESTION 17: "Consider the highly branched alkane with the condensed formula CH3CH2C(CH3)2CH(CH2CH2CH3)CH(CH(CH3)2)CH(CH2CH3)CH2CH3. What is the sum of the locants of all substituents in its correct IUPAC name?"
+MATCHED PYQ SOURCE: [JEE] [ID: 6805e36897562d6b87ce0697] (Score: 0.450)
+Chapter: Hydrocarbons | Topic: Nomenclature of Hydrocarbons
+Original Question: "Which of the following is the correct IUPAC name of given organic compound (X) ?<br><img src="https://cmds-test.vedantu.com/prod/question-sets/c2d91f7b-1f24-4143-b1a9-25a0e83004008454023965494528360.png"/>"
+Original Answer: ["C"]
+Original Options: [" 2-Bromo-2-methylbut-2-ene"," 3-Bromo-3-methylprop-2-ene"," 1-Bromo-2-methylbut-2-ene"," 4-Bromo-3-methylbut-2-ene"]
+Original Solution: "<img src="https://cmds-test.vedantu.com/prod/question-sets/ea78471a-4ff1-4cc5-810b-752ae6161aed2718286004692878909.png"/><br>1-Bromo-2-methyl but-2-en..."
+
+========================================
+LATEX QUESTION 18: "31.2 g of an alkyl iodide (RI) reacts completely with sodium in dry ether to produce 5.8 g of a symmetric alkane (R-R). What is the molar mass of the alkane R-R in g mol-1?"
+MATCHED PYQ SOURCE: [JEE] [ID: 6803937097562d6b87ab2a82] (Score: 0.519)
+Chapter: Amines | Topic: Chemical Properties of Amines
+Original Question: "When a concentrated solution of sulphanilic acid and 1-naphthylamine is treated with nitrous acid (273 K) and acidified with acetic acid, the mass (g) of 0.1 mole of product formed is:<br>(Given molar mass in g mol<sup>–1</sup> H : 1, C : 12, N : 14, O : 16, S : 32)"
+Original Answer: ["C"]
+Original Options: [" 343"," 330"," 33"," 66"]
+Original Solution: "<img src="https://cmds-test.vedantu.com/prod/question-sets/ca52e2ca-8fbd-45fb-8512-98df9480ceb99046660260749371537.png"/><br><img src="https://cmds-te..."
+
+========================================
+LATEX QUESTION 19: "A gaseous mixture of 10 mL of an alkane and 80 mL of O2 (excess) is exploded. After cooling to room temperature, the volume of the residual gas is 60 mL. On passing this residual gas through KOH solution, its volume decreases by 30 mL. What is the molecular mass of the alkane in g mol-1?"
+MATCHED PYQ SOURCE: [JEE] [ID: 6985eef5952d4d2d44bc11cf] (Score: 0.845)
+Chapter: Gaseous State | Topic: Eudiometry
+Original Question: "80 mL of a hydrocarbon on mixing with 264 mL of oxygen in a closed U-tube undergoes complete combustion. The residual gases after cooling to 273 K occupy 224 mL . When the system is treated with KOH solution, the volume decreases to 64 mL . The formula of the hydrocarbon is :"
+Original Answer: ["C"]
+Original Options: [" $\\mathrm{C}_{2} \\mathrm{H}_{4}$"," $\\mathrm{C}_{4} \\mathrm{H}_{10}$"," $\\mathrm{C}_{2} \\mathrm{H}_{2}$"," $\\mathrm{C}_{2} \\mathrm{H}_{6}$"]
+Original Solution: "$$<br>\mathrm{C}_{\mathrm{x}} \mathrm{H}_{\mathrm{y}(\mathrm{~g})}+\left(\mathrm{x}+\frac{\mathrm{y}}{4}\right) \mathrm{O}_{2(\mathrm{~g})} \longright..."
+
+========================================
+LATEX QUESTION 20: "2,2-Dimethylpentan-3-ol is heated with concentrated H2SO4. The major alkene product formed is subjected to ozonolysis followed by reductive workup (Zn/H2O). What is the molar mass of the heavier carbonyl compound formed in g mol-1?"
+MATCHED PYQ SOURCE: [JEE] [ID: 6803937097562d6b87ab2a82] (Score: 0.577)
+Chapter: Amines | Topic: Chemical Properties of Amines
+Original Question: "When a concentrated solution of sulphanilic acid and 1-naphthylamine is treated with nitrous acid (273 K) and acidified with acetic acid, the mass (g) of 0.1 mole of product formed is:<br>(Given molar mass in g mol<sup>–1</sup> H : 1, C : 12, N : 14, O : 16, S : 32)"
+Original Answer: ["C"]
+Original Options: [" 343"," 330"," 33"," 66"]
+Original Solution: "<img src="https://cmds-test.vedantu.com/prod/question-sets/ca52e2ca-8fbd-45fb-8512-98df9480ceb99046660260749371537.png"/><br><img src="https://cmds-te..."
+
+========================================
+LATEX QUESTION 21: "Consider the alkane with the following condensed structural formula: CH3CH2-CH(CH2CH2CH3)-CH(CH2CH3)-CH(CH(CH3)2)-CH2CH2CH3. Let P be the number of carbon atoms in the principal chain, S be the total number of substituents... Find P+S+L."
+MATCHED PYQ SOURCE: [NEET] [ID: 6a032f2b0b170637d27e334e] (Score: 0.398)
+Chapter: Ionic Equilibrium | Topic: Acid-Base Titration
+Original Question: "Phenolphthalein is used as an indicator for the titration of sodium hydroxide solution against a standard solution of oxalic acid. The colour change that is observed at an alkaline pH close to the equivalence point during this titration is:"
+Original Answer: ["C"]
+Original Options: [" pinkish red to yellow"," yellow to pinkish red"," colourless to pink"," pink to colourless"]
+Original Solution: "Colour of Phenolphthalein before the end point = colourless.<br>Colour of Phenolphthalein close to equivalence point = Pink.<br>∴ Colour change $=$ Co..."
+
+========================================
+LATEX QUESTION 22: "An optically active carboxylic acid A (molecular formula C7H14O2) undergoes decarboxylation on heating with soda lime to give an alkane B. Alkane B on photochemical monochlorination yields exactly 2 structural isomers. Let x be the total number of possible structures for A... Let y be the molar mass... Find x+y."
+MATCHED PYQ SOURCE: [JEE] [ID: 67aa02c6a8352a1535485ba2] (Score: 0.639)
+Chapter: Hydrocarbons | Topic: Chemical Properties of Alkanes
+Original Question: "Propane molecule on chlorination under photochemical condition gives two di-chloro products, “x” and “y”. Amongst “x” and “y”, “x” is an optically active molecule. How many tri-chloro products (consider only structural isomers) will be obtained from “x” when it is further treated with chlorine under the photochemical condition?"
+Original Answer: ["D"]
+Original Options: [" 4"," 2"," 5"," 3"]
+Original Solution: ""X" is <img src="https://cmds-test.vedantu.com/prod/question-sets/1cd5f4f7-c194-4ac3-a477-e5f24565347d3729051435275945801.png"/><br><img src="https://..."
+
+========================================
+LATEX QUESTION 23: "One mole of a straight-chain alkane X requires 12.5 moles of O2 for complete combustion. When X is heated with Cr2O3/Al2O3 at 773 K and 10-20 atm, it undergoes aromatization to give a mixture of aromatic isomers. Let Y be the isomer... Find m*n."
+MATCHED PYQ SOURCE: [JEE] [ID: 69e7866d70bb0369175d6dc1] (Score: 0.513)
+Chapter: Hydrocarbons | Topic: Chemical Properties of Alkanes
+Original Question: "The compound (X) on<br>(i) on heating in the presence of anhydrous $\mathrm{AlCl}_{3}$ and HCl gas gives 2, 4-dimethyl pentane<br>(ii) aromatization gives toluene and<br>(iii) cyclisation gives methyl cyclohexane<br><br>The correct name of compound $(\mathrm{X})$ is :"
+Original Answer: ["C"]
+Original Options: [" Hept-2-ene"," Hept-1,3,5-triene"," Heptane"," Hept-2,4,6-triene"]
+Original Solution: "<img src="https://cmds-test.vedantu.com/prod/question-sets/f1a93ebf-a806-459c-a15c-bb96a4bf7c388440840074349344075.png"/><br>..."
+
+========================================
+LATEX QUESTION 24: "When 3-bromo-3-methylpentane is heated with sodium ethoxide in ethanol, a dehydrohalogenation reaction occurs to form a mixture of alkenes. Let x be... Let y be... Find x*y."
+MATCHED PYQ SOURCE: [JEE] [ID: 6805df0297562d6b87cdba36] (Score: 0.497)
+Chapter: Alkyl and Aryl Halides | Topic: Nucleophilic Substitution Reactions
+Original Question: "Given below are two statements : <br>Statement (I) : Alcohols are formed when alkyl chlorides are treated with aqueous potassium hydroxide by elimination reaction.<br>Statement (II) : In alcoholic potassium hydroxide, alkyl chlorides form alkenes by abstracting the hydrogen from the \[\beta \]-carbon. <br>In the light of the above statements, choose the most appropriate answer from the options given below :"
+Original Answer: ["B"]
+Original Options: [" Both Statement I and Statement II are incorrect"," Statement I is incorrect but Statement II is correct"," Statement I is correct but Statement II is incorrect"," Both Statement I and Statement II are correct "]
+Original Solution: "Statement (I) : \[R - Cl\xrightarrow{{\left( {aq.KOH} \right)}}R - OH\left( {{S_N}\,{\text{reaction}}} \right)\]<br>Statement (II) : <img src="https:/..."

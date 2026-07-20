@@ -1,0 +1,1 @@
+Walking data directory: /app/applet/src/data

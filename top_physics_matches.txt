@@ -1,0 +1,623 @@
+======================================================================
+LATEX QUESTION 1: "A point object is placed at a distance of 15 cm in front of a plane mirror. If the mirror is moved 5 cm away from the object, what is the distance between the initial and final positions of the image?"
+======================================================================
+  MATCH 1 (Score: 0.573)
+  Source: JEE | ID: 6804f0d648a77061cee7d8f3
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: A finite size object is placed normal to the principal axis at a distance of 30 cm from a convex mirror of focal length 30 cm. A plane mirror is now placed in such a way that the image produced by both the mirrors coincide with each other. The distance between the two mirrors is :
+  Answer: ["B"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/882e6d88-ea52-4d85-beb0-93dd10a9a33c5081557431967244359.png"/><br>For Convex mirror<br>\[\frac{1}{v} + \frac{1}{u} = \frac{1}{f}\]<br>\[\frac{1}{v} - \frac{1}{{30}} = \frac{1}{f}\]<br>\[\frac{1}{v} = \frac{2}{{30}} = \frac{1}{{15}} \Rightarr...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.565)
+  Source: JEE | ID: 69eb45e21e41947d21de6b44
+  Chapter: Ray Optics | Topic: Lateral magnification
+  Question: A concave mirror of focal length 10 cm froms an image which is double the size of object when the object is placed at two different positions. The distance between the two positions of the object is $\_\_\_\_$ cm.
+  Answer: ["10"]
+  Solution: Case I $\mathrm{v}=2 \mathrm{u}$<br>$\frac{1}{\mathrm{v}}+\frac{1}{\mathrm{u}}=\frac{1}{\mathrm{f}}$<br>$\frac{1}{-2 \mathrm{u}}+\frac{1}{-\mathrm{u}}=\frac{1}{-\mathrm{f}}$<br>$\frac{3}{2 \mathrm{u}}=\frac{1}{\mathrm{f}}$<br>$\mathrm{u}_{1}=\frac{3 \mathrm{f}}{2}$<br>Case $2 \mathrm{v}=-2 \mathrm{u...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.563)
+  Source: JEE | ID: 67ab8b5b3585e13b1a4e575a
+  Chapter: Ray Optics | Topic: Magnification due to lens
+  Question: A concave mirror produces an image of an object such that the distance between the object and image is 20 cm. If the magnification of the image is '–3', then the magnitude of the radius of curvature of the mirror is :
+  Answer: ["D"]
+  Solution: <img src="https://www.vedantu.com/question-sets/d8a18e7f-527a-4b18-9ee3-cbe2add0677a7712901593605791322.png"/><br/>\[m = - 3 = - \frac{v}{u}\, , v=3u,and\,v - u = 20\,cm\]<br/>\[f = \frac{{vu}}{{v + u}} = \frac{{( 30)( 10)}}{{ 30 - 10}}\]<br/>\[\therefore \,R = + 15\]...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 2: "A man of height 1.8 m stands in front of a vertical plane mirror. What is the minimum length of the mirror required for him to see his complete image?"
+======================================================================
+  MATCH 1 (Score: 0.463)
+  Source: NEET | ID: 6a38fafedd3fde1e5b75d7bf
+  Chapter: Locomotion and Movement | Topic: Human Skeletal System (Axial Skeleton)
+  Question: Which of the following is the correct order of arrangement of vertebrate column from the head to toe?
+  Answer: ["C"]
+  Solution: The vertebral column is differentiated into cervical (7), thoracic (12), lumbar (5), sacral (1-fused) and coccygeal (1-fused) regions starting from the skull. So, the correct sequence will be: Cervical, thoracic, lumbar, sacrum.<br>...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.449)
+  Source: JEE | ID: 68052af148a77061ceecfa9c
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: A mirror is used to produce an image with magnification of \[\frac{1}{4}\]. If the distance between object and its image is 40 cm, then the focal length of the mirror is ____.
+  Answer: ["C"]
+  Solution: \[\begin{gathered}<br/> m = - \frac{v}{u} = - \left( {\frac{v}{{ - u}}} \right) = \frac{v}{u} \\<br/> \frac{1}{4} = \frac{v}{u} \Rightarrow u = 4v \\ <br/>\end{gathered} \]<br/>v + u = 40<br/>5v = 40<br/>v = 8 cm<br/>u = 32 cm<br/>\[\begin{gathered}<br/> \frac{1}{v} + \frac{1}{u} = \frac{1}{f} \\<br...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.443)
+  Source: JEE | ID: 6805e36897562d6b87ce069a
+  Chapter: d and f Block Elements | Topic: Physical Properties of d Block Elements
+  Question: The number of valence electrons present in the metal among Cr, Co, Fe and Ni which has the lowest enthalpy of atomisation is
+  Answer: ["C"]
+  Solution: Out of Cr, Co, Fe and Ni<br>Chromium has lowest heat of atomisation.<br>Cr = [Ar]3d<sup>5</sup>4s<sup>1</sup><br>\[\because \]Total six valence e<sup>–</sup> in Cr....
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 3: "An object moves towards a stationary plane mirror with a speed of 4 m/s. What is the relative speed of the image with respect to the object?"
+======================================================================
+  MATCH 1 (Score: 0.455)
+  Source: JEE | ID: 6804f0d648a77061cee7d8e9
+  Chapter: Gravitation | Topic: Escape velocity
+  Question: An object is kept at rest at a distance of 3R above the earth’s surface where R is earth’s radius. The minimum speed with which it must be projected so that it does not return to earth is :<br>(Assume M = mass of earth, G = Universal gravitational constant)
+  Answer: ["A"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/7922fde3-9612-4f80-b8f9-b602c46f2aa47975993847238996363.png"/><br>\[{P_P} + {k_P} = {P_{\text{o}}} + {k_0}\]<br>\[ - \frac{{GMm}}{{4R}} + \frac{1}{2}mV_P^2 = 0\]<br>\[{V_P} = \sqrt {\frac{{GM}}{{2R}}} \]...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.439)
+  Source: JEE | ID: 69eb45e21e41947d21de6b44
+  Chapter: Ray Optics | Topic: Lateral magnification
+  Question: A concave mirror of focal length 10 cm froms an image which is double the size of object when the object is placed at two different positions. The distance between the two positions of the object is $\_\_\_\_$ cm.
+  Answer: ["10"]
+  Solution: Case I $\mathrm{v}=2 \mathrm{u}$<br>$\frac{1}{\mathrm{v}}+\frac{1}{\mathrm{u}}=\frac{1}{\mathrm{f}}$<br>$\frac{1}{-2 \mathrm{u}}+\frac{1}{-\mathrm{u}}=\frac{1}{-\mathrm{f}}$<br>$\frac{3}{2 \mathrm{u}}=\frac{1}{\mathrm{f}}$<br>$\mathrm{u}_{1}=\frac{3 \mathrm{f}}{2}$<br>Case $2 \mathrm{v}=-2 \mathrm{u...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.437)
+  Source: JEE | ID: 6804eeba97562d6b87c1ca94
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: When an object is placed 40 cm away from a spherical mirror an image of magnification \[\frac{1}{2}\] is produced. To obtain an image with magnification of \[\frac{1}{3}\], the object is to be moved.
+  Answer: ["A"]
+  Solution: \[m = \frac{1}{2} = \frac{f}{{f - u}}\]<br>\[\frac{1}{2} = \frac{f}{{f - ( - 40)}}\]<br>f + 40 = 2f ⇒ f = 40 cm <br>now m = \[\frac{1}{3} = \frac{{40}}{{40 - u}}\]<br>40 – u = 120 ⇒ u = − 80...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 4: "An extended object of height 5 cm is placed in front of a plane mirror. What is the lateral magnification and the height of the image formed?"
+======================================================================
+  MATCH 1 (Score: 0.490)
+  Source: JEE | ID: 68052af148a77061ceecfa9c
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: A mirror is used to produce an image with magnification of \[\frac{1}{4}\]. If the distance between object and its image is 40 cm, then the focal length of the mirror is ____.
+  Answer: ["C"]
+  Solution: \[\begin{gathered}<br/> m = - \frac{v}{u} = - \left( {\frac{v}{{ - u}}} \right) = \frac{v}{u} \\<br/> \frac{1}{4} = \frac{v}{u} \Rightarrow u = 4v \\ <br/>\end{gathered} \]<br/>v + u = 40<br/>5v = 40<br/>v = 8 cm<br/>u = 32 cm<br/>\[\begin{gathered}<br/> \frac{1}{v} + \frac{1}{u} = \frac{1}{f} \\<br...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.471)
+  Source: JEE | ID: 67ab8b5b3585e13b1a4e575a
+  Chapter: Ray Optics | Topic: Magnification due to lens
+  Question: A concave mirror produces an image of an object such that the distance between the object and image is 20 cm. If the magnification of the image is '–3', then the magnitude of the radius of curvature of the mirror is :
+  Answer: ["D"]
+  Solution: <img src="https://www.vedantu.com/question-sets/d8a18e7f-527a-4b18-9ee3-cbe2add0677a7712901593605791322.png"/><br/>\[m = - 3 = - \frac{v}{u}\, , v=3u,and\,v - u = 20\,cm\]<br/>\[f = \frac{{vu}}{{v + u}} = \frac{{( 30)( 10)}}{{ 30 - 10}}\]<br/>\[\therefore \,R = + 15\]...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.463)
+  Source: JEE | ID: 69e749ef0ce8de251fb33475
+  Chapter: Work, Energy and Power | Topic: Work energy theorem
+  Question: </b>A spherical ball of mass 2 kg falls from a height of 10 m and is brought to rest after penetrating 10 cm into sand. The average force exerted by sand on the ball is $\_\_\_\_$ N.
+  Answer: ["B"]
+  Solution: $(\text { W.D. })_{\mathrm{g}}+(\text { W.D. })_{\text {sand }}=\Delta \mathrm{K}$<br/>$$<br/>\begin{aligned}<br/>&amp; 2 \times 10 \times\left(10+\frac{10}{100}\right)-\mathrm{F}_{\text {sand }} \times\left(\frac{10}{100}\right)=0 \\<br/>&amp; \mathrm{~F}_{\text {sand }}=2(10+0.1) \times 100=2020<b...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 5: "Two plane mirrors are inclined at an angle of 72. A point object is placed asymmetrically between them. The total number of images formed is:"
+======================================================================
+  MATCH 1 (Score: 0.509)
+  Source: JEE | ID: 698acd8f70d45239d5d104b9
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: Distance between an object and three times magnified real image is 40 cm . The focal length of the mirror used is $\_\_\_\_$ cm.
+  Answer: ["D"]
+  Solution: $\mathrm{m}=-3=\frac{\mathrm{v}}{\mathrm{u}}$<br>$\mathrm{v}=-3 \mathrm{u}$<br>$|\mathrm{v}|-|\mathrm{u}|=40$<br>$\mathrm{u}=20 \mathrm{~cm}$<br>$\mathrm{v}=60 \mathrm{~cm}$<br>$\therefore \frac{1}{\mathrm{v}}+\frac{1}{\mathrm{u}}=\frac{1}{\mathrm{f}}$<br>$\frac{1}{-60}+\frac{1}{-20}=\frac{1}{\mathr...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.493)
+  Source: JEE | ID: 6804f0d648a77061cee7d8f3
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: A finite size object is placed normal to the principal axis at a distance of 30 cm from a convex mirror of focal length 30 cm. A plane mirror is now placed in such a way that the image produced by both the mirrors coincide with each other. The distance between the two mirrors is :
+  Answer: ["B"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/882e6d88-ea52-4d85-beb0-93dd10a9a33c5081557431967244359.png"/><br>For Convex mirror<br>\[\frac{1}{v} + \frac{1}{u} = \frac{1}{f}\]<br>\[\frac{1}{v} - \frac{1}{{30}} = \frac{1}{f}\]<br>\[\frac{1}{v} = \frac{2}{{30}} = \frac{1}{{15}} \Rightarr...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.470)
+  Source: JEE | ID: 6803e98797562d6b87af091f
+  Chapter: Electrostatics | Topic: Electric field due to a point charge or combination of point charges
+  Question: A point charge +q is placed at the origin. A second point charge +9q is placed at (d, 0, 0) in Cartesian coordinate system. The point in between them where the electric field vanishes is :
+  Answer: ["B"]
+  Solution: <b></b><img src="https://cmds-test.vedantu.com/prod/question-sets/e2fb281a-dbdb-4c11-98bb-b443d6c41b9b2842986097454040154.png"/><br>Let E<sub>P</sub> = 0 <br>\[\therefore \,\frac{{kq}}{{{x^2}}} = \frac{{k9q}}{{{{(d - x)}^2}}}\]<br>\[ \Rightarrow \frac{{d - x}}{x} = 3 \Rightarrow x = \frac{d}{4}\]<br...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 6: "A point source of light S is placed at a distance L in front of the center of a plane mirror of width d, hung vertically on a wall. A man walks in front of the mirror along a line parallel to the mirror at a distance 2L from it. The greatest distance over which he can see the image of the light source in the mirror is:"
+======================================================================
+  MATCH 1 (Score: 0.549)
+  Source: JEE | ID: 6804f0d648a77061cee7d8f3
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: A finite size object is placed normal to the principal axis at a distance of 30 cm from a convex mirror of focal length 30 cm. A plane mirror is now placed in such a way that the image produced by both the mirrors coincide with each other. The distance between the two mirrors is :
+  Answer: ["B"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/882e6d88-ea52-4d85-beb0-93dd10a9a33c5081557431967244359.png"/><br>For Convex mirror<br>\[\frac{1}{v} + \frac{1}{u} = \frac{1}{f}\]<br>\[\frac{1}{v} - \frac{1}{{30}} = \frac{1}{f}\]<br>\[\frac{1}{v} = \frac{2}{{30}} = \frac{1}{{15}} \Rightarr...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.512)
+  Source: NEET | ID: 6a38fafedd3fde1e5b75d7ac
+  Chapter: Animal Kingdom | Topic: Phylum Echinodermata
+  Question: Given below are two statements:<br>Statement I: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry.<br>Statement II: In phylum Echinodermata, both adults and larvae are radially symmetrical.<br>In the light of the above statements, choose the most appropriate answer from the options given below :
+  Answer: ["B"]
+  Solution: When any plane passing through the central axis of the body divides the organism into two identical halves, it is called radial symmetry. Adult echinoderms are radially symmetrical while larval echinoderms are bilaterally symmetrical.<br>...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.512)
+  Source: JEE | ID: 6803eb4648a77061ced4b3f0
+  Chapter: Ray Optics | Topic: Magnification due to lens
+  Question: Two identical objects are placed in front of convex mirror and concave mirror having same radii of curvature of 12 cm, at same distance of 18 cm from the respective mirrors. The ratio of sizes of the images formed by convex mirror and by concave mirror is :
+  Answer: ["A"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/341db7db-43d6-4170-ab90-f6f421e4fe773452510737967798980.png"/><br>\[{\text{Using m = }}\frac{f}{{u - f}}\]<br>\[{m_1} = \frac{6}{{18 - 6}} = \frac{1}{2}\]<br><img src="https://cmds-test.vedantu.com/prod/question-sets/76a9e407-443f-424b-bf50-...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 7: "A plane mirror is moving with velocity 3i + 4j m/s in the x-y plane. The normal to the mirror is along the x-axis. An object is moving with velocity -2i + 5j m/s. The velocity of the image is:"
+======================================================================
+  MATCH 1 (Score: 0.462)
+  Source: JEE | ID: 6804f0d648a77061cee7d8f3
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: A finite size object is placed normal to the principal axis at a distance of 30 cm from a convex mirror of focal length 30 cm. A plane mirror is now placed in such a way that the image produced by both the mirrors coincide with each other. The distance between the two mirrors is :
+  Answer: ["B"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/882e6d88-ea52-4d85-beb0-93dd10a9a33c5081557431967244359.png"/><br>For Convex mirror<br>\[\frac{1}{v} + \frac{1}{u} = \frac{1}{f}\]<br>\[\frac{1}{v} - \frac{1}{{30}} = \frac{1}{f}\]<br>\[\frac{1}{v} = \frac{2}{{30}} = \frac{1}{{15}} \Rightarr...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.430)
+  Source: JEE | ID: 67ab155681f12750ffd1e1fe
+  Chapter: Rotational Motion | Topic: Angular momentum of a point particle
+  Question: An object of mass 'm' is projected from origin in a vertical xy plane at an angle 45° with the x-axis with an initial velocity v<sub>0</sub>. The magnitude and direction of the angular momentum of the object with respect to origin, when it reaches at the maximum height, will be [g is acceleration due to gravity]
+  Answer: ["D"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/d3389ccd-d688-41bd-9816-4d4c32ccaba25189870448992555590.png"/><br>\[H = \frac{{{{\left( {\frac{{{v_0}}}{{\sqrt 2 }}} \right)}^2}}}{{2g}} = \frac{{v_0^2}}{{4g}}\]<br>\[L = mvh\]<br>\[L = m\frac{{{v_0}}}{{\sqrt 2 }}\frac{{v_0^2}}{{4g}}\]...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.413)
+  Source: JEE | ID: 6803e98797562d6b87af0919
+  Chapter: Wave Optics | Topic: Types of sources and respective wavefronts
+  Question: A light wave is propagating with plane wave fronts of the type x + y + z = constant. The angle made by the direction of wave propagation with the x-axis is :
+  Answer: ["A"]
+  Solution: The direction of propagation of light is perpendicular to the wave front and is symmetric about x, y and z axis.<br>∴ Angle made by the light with x, y & z axis is same.<br>∴ cosα = cosβ = cosγ (α , β & γ are angle made by light with x, y & z axis respectively)<br>Also cos<sup>2</sup>α + cos<sup>2</...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 8: "A real object is placed in front of a concave mirror of focal length 20 cm. If the lateral magnification produced is -2, the distance of the object from the mirror is:"
+======================================================================
+  MATCH 1 (Score: 0.594)
+  Source: JEE | ID: 67ab8b5b3585e13b1a4e575a
+  Chapter: Ray Optics | Topic: Magnification due to lens
+  Question: A concave mirror produces an image of an object such that the distance between the object and image is 20 cm. If the magnification of the image is '–3', then the magnitude of the radius of curvature of the mirror is :
+  Answer: ["D"]
+  Solution: <img src="https://www.vedantu.com/question-sets/d8a18e7f-527a-4b18-9ee3-cbe2add0677a7712901593605791322.png"/><br/>\[m = - 3 = - \frac{v}{u}\, , v=3u,and\,v - u = 20\,cm\]<br/>\[f = \frac{{vu}}{{v + u}} = \frac{{( 30)( 10)}}{{ 30 - 10}}\]<br/>\[\therefore \,R = + 15\]...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.583)
+  Source: JEE | ID: 68052af148a77061ceecfa9c
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: A mirror is used to produce an image with magnification of \[\frac{1}{4}\]. If the distance between object and its image is 40 cm, then the focal length of the mirror is ____.
+  Answer: ["C"]
+  Solution: \[\begin{gathered}<br/> m = - \frac{v}{u} = - \left( {\frac{v}{{ - u}}} \right) = \frac{v}{u} \\<br/> \frac{1}{4} = \frac{v}{u} \Rightarrow u = 4v \\ <br/>\end{gathered} \]<br/>v + u = 40<br/>5v = 40<br/>v = 8 cm<br/>u = 32 cm<br/>\[\begin{gathered}<br/> \frac{1}{v} + \frac{1}{u} = \frac{1}{f} \\<br...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.570)
+  Source: JEE | ID: 69eb45e21e41947d21de6b44
+  Chapter: Ray Optics | Topic: Lateral magnification
+  Question: A concave mirror of focal length 10 cm froms an image which is double the size of object when the object is placed at two different positions. The distance between the two positions of the object is $\_\_\_\_$ cm.
+  Answer: ["10"]
+  Solution: Case I $\mathrm{v}=2 \mathrm{u}$<br>$\frac{1}{\mathrm{v}}+\frac{1}{\mathrm{u}}=\frac{1}{\mathrm{f}}$<br>$\frac{1}{-2 \mathrm{u}}+\frac{1}{-\mathrm{u}}=\frac{1}{-\mathrm{f}}$<br>$\frac{3}{2 \mathrm{u}}=\frac{1}{\mathrm{f}}$<br>$\mathrm{u}_{1}=\frac{3 \mathrm{f}}{2}$<br>Case $2 \mathrm{v}=-2 \mathrm{u...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 9: "Two plane mirrors are placed parallel to each other at a distance of 20 cm. A point object is placed at a distance of 5 cm from one of the mirrors. What is the distance between the 3rd image formed by the first mirror and the 2nd image formed by the second mirror?"
+======================================================================
+  MATCH 1 (Score: 0.647)
+  Source: JEE | ID: 6804f0d648a77061cee7d8f3
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: A finite size object is placed normal to the principal axis at a distance of 30 cm from a convex mirror of focal length 30 cm. A plane mirror is now placed in such a way that the image produced by both the mirrors coincide with each other. The distance between the two mirrors is :
+  Answer: ["B"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/882e6d88-ea52-4d85-beb0-93dd10a9a33c5081557431967244359.png"/><br>For Convex mirror<br>\[\frac{1}{v} + \frac{1}{u} = \frac{1}{f}\]<br>\[\frac{1}{v} - \frac{1}{{30}} = \frac{1}{f}\]<br>\[\frac{1}{v} = \frac{2}{{30}} = \frac{1}{{15}} \Rightarr...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.548)
+  Source: JEE | ID: 6803eb4648a77061ced4b3f0
+  Chapter: Ray Optics | Topic: Magnification due to lens
+  Question: Two identical objects are placed in front of convex mirror and concave mirror having same radii of curvature of 12 cm, at same distance of 18 cm from the respective mirrors. The ratio of sizes of the images formed by convex mirror and by concave mirror is :
+  Answer: ["A"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/341db7db-43d6-4170-ab90-f6f421e4fe773452510737967798980.png"/><br>\[{\text{Using m = }}\frac{f}{{u - f}}\]<br>\[{m_1} = \frac{6}{{18 - 6}} = \frac{1}{2}\]<br><img src="https://cmds-test.vedantu.com/prod/question-sets/76a9e407-443f-424b-bf50-...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.508)
+  Source: JEE | ID: 67ab8b5b3585e13b1a4e575a
+  Chapter: Ray Optics | Topic: Magnification due to lens
+  Question: A concave mirror produces an image of an object such that the distance between the object and image is 20 cm. If the magnification of the image is '–3', then the magnitude of the radius of curvature of the mirror is :
+  Answer: ["D"]
+  Solution: <img src="https://www.vedantu.com/question-sets/d8a18e7f-527a-4b18-9ee3-cbe2add0677a7712901593605791322.png"/><br/>\[m = - 3 = - \frac{v}{u}\, , v=3u,and\,v - u = 20\,cm\]<br/>\[f = \frac{{vu}}{{v + u}} = \frac{{( 30)( 10)}}{{ 30 - 10}}\]<br/>\[\therefore \,R = + 15\]...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 10: "A plane mirror of length 10 cm is placed on the x-axis from x = -5 cm to x = 5 cm. An observer is at (0, 10 cm). An extended object is moving along the line y = 20 cm. What is the length of the path on y = 20 cm over which the observer can see the image of the object?"
+======================================================================
+  MATCH 1 (Score: 0.509)
+  Source: JEE | ID: 68052e8048a77061ceed25ce
+  Chapter: Ray Optics | Topic: Combination of lenses
+  Question: A convex lens of focal length 30 cm is placed in contact with a concave lens of focal length 20 cm. An object is placed at 20 cm to the left of this lens system. The distance of the image from the lens in cm is _____
+  Answer: ["D"]
+  Solution: Equivalent focal length<br>$\frac{1}{{\text{f}}} = \frac{1}{{{{\text{f}}_1}}} + \frac{1}{{{{\text{f}}_2}}}$<br>$ = \frac{1}{{30}} + \frac{1}{{ - 20}} = \frac{{2 - 3}}{{60}} = - \frac{1}{{60}}$<br>f = − 60 cm<br>Lens formula <br>$\frac{1}{{\text{v}}} - \frac{1}{{\text{u}}} = \frac{1}{{\text{f}}}$<br>...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.501)
+  Source: JEE | ID: 67aae0743585e13b1a4754c0
+  Chapter: Ray Optics | Topic: Silvering of lens
+  Question: Given is a thin convex lens of glass (refractive index μ) and each side having radius of curvature R. One side is polished for complete reflection. At what distance from the lens, an object be placed on the optic axis so that the image gets formed on the object itself.
+  Answer: ["D"]
+  Solution: \[{P_{eq}} = 2{P_\ell } + {P_m}\]<br>\[ - \frac{1}{{{f_Q}}} = \frac{2}{{{f_\ell }}} - \frac{1}{{{f_m}}}\]<br>\[ = \frac{{4(\mu - 1)}}{R} - \frac{2}{{ - R}} = \frac{1}{R}(4\mu - 4 + 2)\]<br>\[ - \frac{1}{{{f_{eq}}}} = \frac{1}{R}(4\mu - 2)\]<br>\[ \Rightarrow \frac{1}{{{f_{eq}}}} = \frac{{ - 1}}{R}(4...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.487)
+  Source: JEE | ID: 69eb45e21e41947d21de6b44
+  Chapter: Ray Optics | Topic: Lateral magnification
+  Question: A concave mirror of focal length 10 cm froms an image which is double the size of object when the object is placed at two different positions. The distance between the two positions of the object is $\_\_\_\_$ cm.
+  Answer: ["10"]
+  Solution: Case I $\mathrm{v}=2 \mathrm{u}$<br>$\frac{1}{\mathrm{v}}+\frac{1}{\mathrm{u}}=\frac{1}{\mathrm{f}}$<br>$\frac{1}{-2 \mathrm{u}}+\frac{1}{-\mathrm{u}}=\frac{1}{-\mathrm{f}}$<br>$\frac{3}{2 \mathrm{u}}=\frac{1}{\mathrm{f}}$<br>$\mathrm{u}_{1}=\frac{3 \mathrm{f}}{2}$<br>Case $2 \mathrm{v}=-2 \mathrm{u...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 11: "A plane mirror lies in the x-y plane and moves with a velocity vm = i - 2j + 5k m/s. A point object is moving with a velocity vo = 2i + 3j - 4k m/s. The velocity of the image formed by the plane mirror is:"
+======================================================================
+  MATCH 1 (Score: 0.431)
+  Source: JEE | ID: 67ab8b5b3585e13b1a4e5758
+  Chapter: Gravitation | Topic: Escape velocity
+  Question: Earth has mass 8 times and radius 2 times that of a planet. If the escape velocity from the earth is 11.2 km/s, the escape velocity in km/s from the planet will be :
+  Answer: ["B"]
+  Solution: \[{V_{escape}} = \sqrt {\frac{{2GM}}{R}} \]<br>\[\frac{{{{({V_{escape}})}_{planet}}}}{{{{({V_{escape}})}_{Earth}}}} = \sqrt {\left( {\frac{{{M_P}}}{{{M_E}}}} \right) \times \left( {\frac{{{R_E}}}{{{R_P}}}} \right)} = \frac{1}{2}\]<br>\[{({V_{escape}})_{planet}} = \frac{1}{2}{({V_{escape}})_{Earth}} ...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.414)
+  Source: JEE | ID: 6804f0d648a77061cee7d8f3
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: A finite size object is placed normal to the principal axis at a distance of 30 cm from a convex mirror of focal length 30 cm. A plane mirror is now placed in such a way that the image produced by both the mirrors coincide with each other. The distance between the two mirrors is :
+  Answer: ["B"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/882e6d88-ea52-4d85-beb0-93dd10a9a33c5081557431967244359.png"/><br>For Convex mirror<br>\[\frac{1}{v} + \frac{1}{u} = \frac{1}{f}\]<br>\[\frac{1}{v} - \frac{1}{{30}} = \frac{1}{f}\]<br>\[\frac{1}{v} = \frac{2}{{30}} = \frac{1}{{15}} \Rightarr...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.413)
+  Source: JEE | ID: 6803e98797562d6b87af0919
+  Chapter: Wave Optics | Topic: Types of sources and respective wavefronts
+  Question: A light wave is propagating with plane wave fronts of the type x + y + z = constant. The angle made by the direction of wave propagation with the x-axis is :
+  Answer: ["A"]
+  Solution: The direction of propagation of light is perpendicular to the wave front and is symmetric about x, y and z axis.<br>∴ Angle made by the light with x, y & z axis is same.<br>∴ cosα = cosβ = cosγ (α , β & γ are angle made by light with x, y & z axis respectively)<br>Also cos<sup>2</sup>α + cos<sup>2</...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 12: "A small object is placed perpendicular to the principal axis of a concave mirror of focal length 20 cm at a distance of 30 cm. If the object moves away from the mirror at a constant speed of 5 cm/s, the rate of change of its lateral magnification is:"
+======================================================================
+  MATCH 1 (Score: 0.596)
+  Source: JEE | ID: 67ab8b5b3585e13b1a4e575a
+  Chapter: Ray Optics | Topic: Magnification due to lens
+  Question: A concave mirror produces an image of an object such that the distance between the object and image is 20 cm. If the magnification of the image is '–3', then the magnitude of the radius of curvature of the mirror is :
+  Answer: ["D"]
+  Solution: <img src="https://www.vedantu.com/question-sets/d8a18e7f-527a-4b18-9ee3-cbe2add0677a7712901593605791322.png"/><br/>\[m = - 3 = - \frac{v}{u}\, , v=3u,and\,v - u = 20\,cm\]<br/>\[f = \frac{{vu}}{{v + u}} = \frac{{( 30)( 10)}}{{ 30 - 10}}\]<br/>\[\therefore \,R = + 15\]...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.582)
+  Source: JEE | ID: 6804f0d648a77061cee7d8f3
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: A finite size object is placed normal to the principal axis at a distance of 30 cm from a convex mirror of focal length 30 cm. A plane mirror is now placed in such a way that the image produced by both the mirrors coincide with each other. The distance between the two mirrors is :
+  Answer: ["B"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/882e6d88-ea52-4d85-beb0-93dd10a9a33c5081557431967244359.png"/><br>For Convex mirror<br>\[\frac{1}{v} + \frac{1}{u} = \frac{1}{f}\]<br>\[\frac{1}{v} - \frac{1}{{30}} = \frac{1}{f}\]<br>\[\frac{1}{v} = \frac{2}{{30}} = \frac{1}{{15}} \Rightarr...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.557)
+  Source: JEE | ID: 68052e8048a77061ceed25ce
+  Chapter: Ray Optics | Topic: Combination of lenses
+  Question: A convex lens of focal length 30 cm is placed in contact with a concave lens of focal length 20 cm. An object is placed at 20 cm to the left of this lens system. The distance of the image from the lens in cm is _____
+  Answer: ["D"]
+  Solution: Equivalent focal length<br>$\frac{1}{{\text{f}}} = \frac{1}{{{{\text{f}}_1}}} + \frac{1}{{{{\text{f}}_2}}}$<br>$ = \frac{1}{{30}} + \frac{1}{{ - 20}} = \frac{{2 - 3}}{{60}} = - \frac{1}{{60}}$<br>f = − 60 cm<br>Lens formula <br>$\frac{1}{{\text{v}}} - \frac{1}{{\text{u}}} = \frac{1}{{\text{f}}}$<br>...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 13: "Two plane mirrors are inclined at an angle of 72. A point object is placed asymmetrically between them. The total number of images formed is:"
+======================================================================
+  MATCH 1 (Score: 0.509)
+  Source: JEE | ID: 698acd8f70d45239d5d104b9
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: Distance between an object and three times magnified real image is 40 cm . The focal length of the mirror used is $\_\_\_\_$ cm.
+  Answer: ["D"]
+  Solution: $\mathrm{m}=-3=\frac{\mathrm{v}}{\mathrm{u}}$<br>$\mathrm{v}=-3 \mathrm{u}$<br>$|\mathrm{v}|-|\mathrm{u}|=40$<br>$\mathrm{u}=20 \mathrm{~cm}$<br>$\mathrm{v}=60 \mathrm{~cm}$<br>$\therefore \frac{1}{\mathrm{v}}+\frac{1}{\mathrm{u}}=\frac{1}{\mathrm{f}}$<br>$\frac{1}{-60}+\frac{1}{-20}=\frac{1}{\mathr...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.493)
+  Source: JEE | ID: 6804f0d648a77061cee7d8f3
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: A finite size object is placed normal to the principal axis at a distance of 30 cm from a convex mirror of focal length 30 cm. A plane mirror is now placed in such a way that the image produced by both the mirrors coincide with each other. The distance between the two mirrors is :
+  Answer: ["B"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/882e6d88-ea52-4d85-beb0-93dd10a9a33c5081557431967244359.png"/><br>For Convex mirror<br>\[\frac{1}{v} + \frac{1}{u} = \frac{1}{f}\]<br>\[\frac{1}{v} - \frac{1}{{30}} = \frac{1}{f}\]<br>\[\frac{1}{v} = \frac{2}{{30}} = \frac{1}{{15}} \Rightarr...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.470)
+  Source: JEE | ID: 6803e98797562d6b87af091f
+  Chapter: Electrostatics | Topic: Electric field due to a point charge or combination of point charges
+  Question: A point charge +q is placed at the origin. A second point charge +9q is placed at (d, 0, 0) in Cartesian coordinate system. The point in between them where the electric field vanishes is :
+  Answer: ["B"]
+  Solution: <b></b><img src="https://cmds-test.vedantu.com/prod/question-sets/e2fb281a-dbdb-4c11-98bb-b443d6c41b9b2842986097454040154.png"/><br>Let E<sub>P</sub> = 0 <br>\[\therefore \,\frac{{kq}}{{{x^2}}} = \frac{{k9q}}{{{{(d - x)}^2}}}\]<br>\[ \Rightarrow \frac{{d - x}}{x} = 3 \Rightarrow x = \frac{d}{4}\]<br...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 14: "A person of height H stands in front of a vertical plane mirror. The minimum length of the mirror required for the person to see their complete full-length image is:"
+======================================================================
+  MATCH 1 (Score: 0.476)
+  Source: JEE | ID: 69870fb51041e71dbae25292
+  Chapter: Units and Measurements | Topic: Combination of errors
+  Question: To compare EMF of two cells using potentiometer the balancing lengths obtained are 200 cm and 150 cm . The least count of scale is 1 cm . The percentage error in the ratio of EMFs is $\_\_\_\_$
+  Answer: ["B"]
+  Solution: $\in=\lambda \ell$<br>Potential gradient<br>$$<br>\begin{aligned}<br>& \epsilon_{1}=\lambda \ell_{1} \\<br>& \epsilon_{2}=\lambda \ell_{2} \\<br>& \mathrm{y}=\frac{\epsilon_{1}}{\epsilon_{2}}=\frac{\ell_{1}}{\ell_{2}} \\<br>& \frac{\Delta \mathrm{y}}{\mathrm{y}}=\frac{\Delta \ell_{1}}{\ell_{1}}+\fra...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.462)
+  Source: JEE | ID: 67ab8d1aa8352a153553241b
+  Chapter: Ray Optics | Topic: Lens formula
+  Question: Let u and v be the distances of the object and the image from a lens of focal length <i>f</i>. The correct graphical representation of u and v for a convex lens when \[\left| u \right| > f\], is
+  Answer: ["B"]
+  Solution: (u + f) (v – f) = f<sup>2</sup><br><img src="https://cmds-test.vedantu.com/prod/question-sets/9d59e864-07c5-413f-9f8b-93e1b753ca5c5631016706724594837.png"/> <br>...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.461)
+  Source: JEE | ID: 6804f0d648a77061cee7d8f3
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: A finite size object is placed normal to the principal axis at a distance of 30 cm from a convex mirror of focal length 30 cm. A plane mirror is now placed in such a way that the image produced by both the mirrors coincide with each other. The distance between the two mirrors is :
+  Answer: ["B"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/882e6d88-ea52-4d85-beb0-93dd10a9a33c5081557431967244359.png"/><br>For Convex mirror<br>\[\frac{1}{v} + \frac{1}{u} = \frac{1}{f}\]<br>\[\frac{1}{v} - \frac{1}{{30}} = \frac{1}{f}\]<br>\[\frac{1}{v} = \frac{2}{{30}} = \frac{1}{{15}} \Rightarr...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 15: "An object moves towards a stationary vertical plane mirror with a speed of 5 m/s. The relative speed of the image with respect to the object is:"
+======================================================================
+  MATCH 1 (Score: 0.468)
+  Source: JEE | ID: 6804f0d648a77061cee7d8e9
+  Chapter: Gravitation | Topic: Escape velocity
+  Question: An object is kept at rest at a distance of 3R above the earth’s surface where R is earth’s radius. The minimum speed with which it must be projected so that it does not return to earth is :<br>(Assume M = mass of earth, G = Universal gravitational constant)
+  Answer: ["A"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/7922fde3-9612-4f80-b8f9-b602c46f2aa47975993847238996363.png"/><br>\[{P_P} + {k_P} = {P_{\text{o}}} + {k_0}\]<br>\[ - \frac{{GMm}}{{4R}} + \frac{1}{2}mV_P^2 = 0\]<br>\[{V_P} = \sqrt {\frac{{GM}}{{2R}}} \]...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.460)
+  Source: JEE | ID: 69eb45e21e41947d21de6b44
+  Chapter: Ray Optics | Topic: Lateral magnification
+  Question: A concave mirror of focal length 10 cm froms an image which is double the size of object when the object is placed at two different positions. The distance between the two positions of the object is $\_\_\_\_$ cm.
+  Answer: ["10"]
+  Solution: Case I $\mathrm{v}=2 \mathrm{u}$<br>$\frac{1}{\mathrm{v}}+\frac{1}{\mathrm{u}}=\frac{1}{\mathrm{f}}$<br>$\frac{1}{-2 \mathrm{u}}+\frac{1}{-\mathrm{u}}=\frac{1}{-\mathrm{f}}$<br>$\frac{3}{2 \mathrm{u}}=\frac{1}{\mathrm{f}}$<br>$\mathrm{u}_{1}=\frac{3 \mathrm{f}}{2}$<br>Case $2 \mathrm{v}=-2 \mathrm{u...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.459)
+  Source: JEE | ID: 6804eeba97562d6b87c1ca94
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: When an object is placed 40 cm away from a spherical mirror an image of magnification \[\frac{1}{2}\] is produced. To obtain an image with magnification of \[\frac{1}{3}\], the object is to be moved.
+  Answer: ["A"]
+  Solution: \[m = \frac{1}{2} = \frac{f}{{f - u}}\]<br>\[\frac{1}{2} = \frac{f}{{f - ( - 40)}}\]<br>f + 40 = 2f ⇒ f = 40 cm <br>now m = \[\frac{1}{3} = \frac{{40}}{{40 - u}}\]<br>40 – u = 120 ⇒ u = − 80...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 16: "A concave mirror of focal length 15 cm forms a real image that is 3 times the size of the object. Find the object distance from the mirror in cm."
+======================================================================
+  MATCH 1 (Score: 0.567)
+  Source: JEE | ID: 69eb45e21e41947d21de6b44
+  Chapter: Ray Optics | Topic: Lateral magnification
+  Question: A concave mirror of focal length 10 cm froms an image which is double the size of object when the object is placed at two different positions. The distance between the two positions of the object is $\_\_\_\_$ cm.
+  Answer: ["10"]
+  Solution: Case I $\mathrm{v}=2 \mathrm{u}$<br>$\frac{1}{\mathrm{v}}+\frac{1}{\mathrm{u}}=\frac{1}{\mathrm{f}}$<br>$\frac{1}{-2 \mathrm{u}}+\frac{1}{-\mathrm{u}}=\frac{1}{-\mathrm{f}}$<br>$\frac{3}{2 \mathrm{u}}=\frac{1}{\mathrm{f}}$<br>$\mathrm{u}_{1}=\frac{3 \mathrm{f}}{2}$<br>Case $2 \mathrm{v}=-2 \mathrm{u...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.537)
+  Source: JEE | ID: 69870fb51041e71dbae2529e
+  Chapter: Ray Optics | Topic: Displacement method
+  Question: The size of the images of an object, formed by a thin lens are equal when the object is placed at two different positions 8 cm and 24 cm from the lens. The focal length of the lens is $\_\_\_\_$ cm.
+  Answer: ["16"]
+  Solution: $m=\frac{f}{f+u}$<br>$\mathrm{m}_{1}=-\mathrm{m}_{2}$<br>$\frac{\mathrm{f}}{\mathrm{f}-8}=-\frac{\mathrm{f}}{\mathrm{f}-24}$<br>$\mathrm{f}-8=24-\mathrm{f}$<br>$2 \mathrm{f}=32$<br>$\mathrm{f}=16 \mathrm{~cm}$...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.519)
+  Source: JEE | ID: 68052af148a77061ceecfa9c
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: A mirror is used to produce an image with magnification of \[\frac{1}{4}\]. If the distance between object and its image is 40 cm, then the focal length of the mirror is ____.
+  Answer: ["C"]
+  Solution: \[\begin{gathered}<br/> m = - \frac{v}{u} = - \left( {\frac{v}{{ - u}}} \right) = \frac{v}{u} \\<br/> \frac{1}{4} = \frac{v}{u} \Rightarrow u = 4v \\ <br/>\end{gathered} \]<br/>v + u = 40<br/>5v = 40<br/>v = 8 cm<br/>u = 32 cm<br/>\[\begin{gathered}<br/> \frac{1}{v} + \frac{1}{u} = \frac{1}{f} \\<br...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 17: "Two parallel plane mirrors are separated by a distance of 30 cm. A point object is placed 10 cm from the first mirror. Find the distance of the second image formed by the first mirror from the first mirror (in cm)."
+======================================================================
+  MATCH 1 (Score: 0.603)
+  Source: JEE | ID: 6804f0d648a77061cee7d8f3
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: A finite size object is placed normal to the principal axis at a distance of 30 cm from a convex mirror of focal length 30 cm. A plane mirror is now placed in such a way that the image produced by both the mirrors coincide with each other. The distance between the two mirrors is :
+  Answer: ["B"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/882e6d88-ea52-4d85-beb0-93dd10a9a33c5081557431967244359.png"/><br>For Convex mirror<br>\[\frac{1}{v} + \frac{1}{u} = \frac{1}{f}\]<br>\[\frac{1}{v} - \frac{1}{{30}} = \frac{1}{f}\]<br>\[\frac{1}{v} = \frac{2}{{30}} = \frac{1}{{15}} \Rightarr...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.555)
+  Source: JEE | ID: 6803eb4648a77061ced4b3f0
+  Chapter: Ray Optics | Topic: Magnification due to lens
+  Question: Two identical objects are placed in front of convex mirror and concave mirror having same radii of curvature of 12 cm, at same distance of 18 cm from the respective mirrors. The ratio of sizes of the images formed by convex mirror and by concave mirror is :
+  Answer: ["A"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/341db7db-43d6-4170-ab90-f6f421e4fe773452510737967798980.png"/><br>\[{\text{Using m = }}\frac{f}{{u - f}}\]<br>\[{m_1} = \frac{6}{{18 - 6}} = \frac{1}{2}\]<br><img src="https://cmds-test.vedantu.com/prod/question-sets/76a9e407-443f-424b-bf50-...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.474)
+  Source: JEE | ID: 68052e8048a77061ceed25ce
+  Chapter: Ray Optics | Topic: Combination of lenses
+  Question: A convex lens of focal length 30 cm is placed in contact with a concave lens of focal length 20 cm. An object is placed at 20 cm to the left of this lens system. The distance of the image from the lens in cm is _____
+  Answer: ["D"]
+  Solution: Equivalent focal length<br>$\frac{1}{{\text{f}}} = \frac{1}{{{{\text{f}}_1}}} + \frac{1}{{{{\text{f}}_2}}}$<br>$ = \frac{1}{{30}} + \frac{1}{{ - 20}} = \frac{{2 - 3}}{{60}} = - \frac{1}{{60}}$<br>f = − 60 cm<br>Lens formula <br>$\frac{1}{{\text{v}}} - \frac{1}{{\text{u}}} = \frac{1}{{\text{f}}}$<br>...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 18: "A plane mirror of length 10 cm is placed parallel to a wall. A point source of light is placed exactly midway between the wall and the mirror at a distance of 20 cm from the mirror. What is the length of the illuminated patch on the wall in cm?"
+======================================================================
+  MATCH 1 (Score: 0.587)
+  Source: JEE | ID: 6804f0d648a77061cee7d8f3
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: A finite size object is placed normal to the principal axis at a distance of 30 cm from a convex mirror of focal length 30 cm. A plane mirror is now placed in such a way that the image produced by both the mirrors coincide with each other. The distance between the two mirrors is :
+  Answer: ["B"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/882e6d88-ea52-4d85-beb0-93dd10a9a33c5081557431967244359.png"/><br>For Convex mirror<br>\[\frac{1}{v} + \frac{1}{u} = \frac{1}{f}\]<br>\[\frac{1}{v} - \frac{1}{{30}} = \frac{1}{f}\]<br>\[\frac{1}{v} = \frac{2}{{30}} = \frac{1}{{15}} \Rightarr...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.496)
+  Source: JEE | ID: 68052e8048a77061ceed25ce
+  Chapter: Ray Optics | Topic: Combination of lenses
+  Question: A convex lens of focal length 30 cm is placed in contact with a concave lens of focal length 20 cm. An object is placed at 20 cm to the left of this lens system. The distance of the image from the lens in cm is _____
+  Answer: ["D"]
+  Solution: Equivalent focal length<br>$\frac{1}{{\text{f}}} = \frac{1}{{{{\text{f}}_1}}} + \frac{1}{{{{\text{f}}_2}}}$<br>$ = \frac{1}{{30}} + \frac{1}{{ - 20}} = \frac{{2 - 3}}{{60}} = - \frac{1}{{60}}$<br>f = − 60 cm<br>Lens formula <br>$\frac{1}{{\text{v}}} - \frac{1}{{\text{u}}} = \frac{1}{{\text{f}}}$<br>...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.484)
+  Source: JEE | ID: 6804eeba97562d6b87c1ca8d
+  Chapter: Dual Nature of Radiation and Matter | Topic: Radiation pressure and force
+  Question: A small mirror of mass m is suspended by a massless thread of length l. Then the small angle through which the thread will be deflected when a short pulse of laser of energy E falls normal on the mirror <br>(c = speed of light in vacuum and g = acceleration due to gravity)
+  Answer: ["D"]
+  Solution: <img src="https://www.vedantu.com/question-sets/12f8e51e-3666-4045-9158-2697228324f02661256058881665810.png"/><br/>Force due to beam assuming complete reflection<br/>\[F = \frac{{2P}}{C} = \frac{2}{C}\frac{{dE}}{{dt}};P\,is\,power\]<br/>So change in momentum of mirror.<br/>\[m(V - 0) = \int {Fdt} = ...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 19: "A plane mirror lying in the y-z plane is moving with a speed of 4 m/s along the positive x-axis. An object is moving with a speed of 6 m/s at an angle of 60 with the positive x-axis in the x-y plane. Find the square of the magnitude of the velocity of the image (in m^2/s^2)."
+======================================================================
+  MATCH 1 (Score: 0.489)
+  Source: JEE | ID: 68039cbc97562d6b87ab9c52
+  Chapter: 3D Geometry | Topic: Concept of DC and DR
+  Question: Each of the angles β and γ that a given line makes with the positive y– and z–axes, respectively, is half of the angle that this line makes with the positive x-axes. Then the sum of all possible values of the angle β is
+  Answer: ["A"]
+  Solution: \[\begin{gathered}<br>&nbsp;&nbsp;\beta = \frac{\alpha }{2},\;\gamma = \frac{\alpha }{2} \\<br>&nbsp;&nbsp;{\cos ^2}\alpha + {\cos ^2}\beta + {\cos ^2}\gamma = 1 \\ <br>\end{gathered} \]<br>\[\begin{gathered}<br>&nbsp;&nbsp;{\cos ^2}\alpha + 2{\cos ^2}\frac{\alpha }{2} = 1 \\<br>&nbsp;&nbsp;{\cos ^2...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.488)
+  Source: JEE | ID: 67ab155681f12750ffd1e1fe
+  Chapter: Rotational Motion | Topic: Angular momentum of a point particle
+  Question: An object of mass 'm' is projected from origin in a vertical xy plane at an angle 45° with the x-axis with an initial velocity v<sub>0</sub>. The magnitude and direction of the angular momentum of the object with respect to origin, when it reaches at the maximum height, will be [g is acceleration due to gravity]
+  Answer: ["D"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/d3389ccd-d688-41bd-9816-4d4c32ccaba25189870448992555590.png"/><br>\[H = \frac{{{{\left( {\frac{{{v_0}}}{{\sqrt 2 }}} \right)}^2}}}{{2g}} = \frac{{v_0^2}}{{4g}}\]<br>\[L = mvh\]<br>\[L = m\frac{{{v_0}}}{{\sqrt 2 }}\frac{{v_0^2}}{{4g}}\]...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.467)
+  Source: JEE | ID: 6803eb4648a77061ced4b3f6
+  Chapter: Electrostatics | Topic: Electric field due to standard bodies
+  Question: Consider a circular loop that is uniformly charged and has a radius \[a\sqrt 2 \]. Find the position along the positive z–axis of the cartesian coordinate system where the electric field is maximum if the ring was assumed to be placed in xy–plane at the origin :
+  Answer: ["C"]
+  Solution: \[E = \frac{{KQr}}{{{{({X^2} + {R^2})}^{3/2}}}}\]<br>\[\frac{{dE}}{{dx}} = 0\]<br>\[\therefore x = \frac{R}{{\sqrt 2 }} = \frac{{\sqrt 2 a}}{{\sqrt 2 }} = a\]...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 20: "An object is placed at a distance of 40 cm from a spherical mirror, producing a lateral magnification of -1/3. If the object is moved by 20 cm towards the mirror, the new lateral magnification becomes -m. Find the value of 10m."
+======================================================================
+  MATCH 1 (Score: 0.575)
+  Source: JEE | ID: 6804eeba97562d6b87c1ca94
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: When an object is placed 40 cm away from a spherical mirror an image of magnification \[\frac{1}{2}\] is produced. To obtain an image with magnification of \[\frac{1}{3}\], the object is to be moved.
+  Answer: ["A"]
+  Solution: \[m = \frac{1}{2} = \frac{f}{{f - u}}\]<br>\[\frac{1}{2} = \frac{f}{{f - ( - 40)}}\]<br>f + 40 = 2f ⇒ f = 40 cm <br>now m = \[\frac{1}{3} = \frac{{40}}{{40 - u}}\]<br>40 – u = 120 ⇒ u = − 80...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.539)
+  Source: JEE | ID: 67ab8b5b3585e13b1a4e575a
+  Chapter: Ray Optics | Topic: Magnification due to lens
+  Question: A concave mirror produces an image of an object such that the distance between the object and image is 20 cm. If the magnification of the image is '–3', then the magnitude of the radius of curvature of the mirror is :
+  Answer: ["D"]
+  Solution: <img src="https://www.vedantu.com/question-sets/d8a18e7f-527a-4b18-9ee3-cbe2add0677a7712901593605791322.png"/><br/>\[m = - 3 = - \frac{v}{u}\, , v=3u,and\,v - u = 20\,cm\]<br/>\[f = \frac{{vu}}{{v + u}} = \frac{{( 30)( 10)}}{{ 30 - 10}}\]<br/>\[\therefore \,R = + 15\]...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.506)
+  Source: JEE | ID: 68052af148a77061ceecfa9c
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: A mirror is used to produce an image with magnification of \[\frac{1}{4}\]. If the distance between object and its image is 40 cm, then the focal length of the mirror is ____.
+  Answer: ["C"]
+  Solution: \[\begin{gathered}<br/> m = - \frac{v}{u} = - \left( {\frac{v}{{ - u}}} \right) = \frac{v}{u} \\<br/> \frac{1}{4} = \frac{v}{u} \Rightarrow u = 4v \\ <br/>\end{gathered} \]<br/>v + u = 40<br/>5v = 40<br/>v = 8 cm<br/>u = 32 cm<br/>\[\begin{gathered}<br/> \frac{1}{v} + \frac{1}{u} = \frac{1}{f} \\<br...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 21: "A plane mirror is placed along the plane 2x - y + 2z = 12. A point object is placed at (2, 5, 2). If the coordinates of the image formed are (a, b, c), find the value of a^2 + b^2 + c^2."
+======================================================================
+  MATCH 1 (Score: 0.423)
+  Source: NEET | ID: 6a041fada5510d0cfe19c2a9
+  Chapter: Current Electricity | Topic: Cells, EMF, Internal Resistance
+  Question: A resistor is connected to a battery of 12 V emf and internal resistance $2 \Omega$. If the current in the circuit is 0.6 A, the terminal voltage of the battery is:
+  Answer: ["B"]
+  Solution: Circuit can be draw as,<br><img src="https://cmds-test.vedantu.com/prod/question-sets/1cb06e8b-06d9-4b02-99fe-c490eda224353313029917196871327.png"/><br>⇒ Terminal voltage of battery $V=E$ - ir<br>$$<br>\begin{aligned}<br>& =12-0.6 \times 2 \\<br>& =10.8 \mathrm{~V}<br>\end{aligned}<br>$$<br>...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.415)
+  Source: JEE | ID: 6803e98797562d6b87af091f
+  Chapter: Electrostatics | Topic: Electric field due to a point charge or combination of point charges
+  Question: A point charge +q is placed at the origin. A second point charge +9q is placed at (d, 0, 0) in Cartesian coordinate system. The point in between them where the electric field vanishes is :
+  Answer: ["B"]
+  Solution: <b></b><img src="https://cmds-test.vedantu.com/prod/question-sets/e2fb281a-dbdb-4c11-98bb-b443d6c41b9b2842986097454040154.png"/><br>Let E<sub>P</sub> = 0 <br>\[\therefore \,\frac{{kq}}{{{x^2}}} = \frac{{k9q}}{{{{(d - x)}^2}}}\]<br>\[ \Rightarrow \frac{{d - x}}{x} = 3 \Rightarrow x = \frac{d}{4}\]<br...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.415)
+  Source: JEE | ID: 69870fb51041e71dbae2529e
+  Chapter: Ray Optics | Topic: Displacement method
+  Question: The size of the images of an object, formed by a thin lens are equal when the object is placed at two different positions 8 cm and 24 cm from the lens. The focal length of the lens is $\_\_\_\_$ cm.
+  Answer: ["16"]
+  Solution: $m=\frac{f}{f+u}$<br>$\mathrm{m}_{1}=-\mathrm{m}_{2}$<br>$\frac{\mathrm{f}}{\mathrm{f}-8}=-\frac{\mathrm{f}}{\mathrm{f}-24}$<br>$\mathrm{f}-8=24-\mathrm{f}$<br>$2 \mathrm{f}=32$<br>$\mathrm{f}=16 \mathrm{~cm}$...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 22: "A person whose eyes are at a height of 1.5 m from the ground stands 2 m in front of a vertical plane mirror. A vertical pole of height 9 m is located 6 m behind the person. What is the minimum length of the mirror (in cm) required for the person to see the complete image of the pole?"
+======================================================================
+  MATCH 1 (Score: 0.501)
+  Source: JEE | ID: 67ab155681f12750ffd1e202
+  Chapter: Ray Optics | Topic: Silvering of lens
+  Question: A thin plano convex lens made of glass of refractive index 1.5 is immersed in a liquid of refractive index 1.2. When the plane side of the lens is silver coated for complete reflection, the lens immersed in the liquid behaves like a concave mirror of focal length 0.2 m. The radius of curvature of the curved surface of the lens is :-
+  Answer: ["B"]
+  Solution: <img src="https://www.vedantu.com/question-sets/806582d9-7748-4dc7-aacd-ac5960e4c4c43825263632238541882.png"/><br>\[\frac{{1.5}}{v} = \frac{{1.5 - 1.2}}{R}\]<br>\[v = \frac{{1.5R}}{{0.3}} = 5R\]<br>\[\frac{{1.2}}{f} = \frac{{0.3}}{R}\, \times 2 \Rightarrow f = 2R \Rightarrow R = 0.1\]...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.488)
+  Source: JEE | ID: 6804eab897562d6b87c14a0d
+  Chapter: Work, Energy and Power | Topic: Conservation of mechanical energy
+  Question: <b> </b>A particle is released from height S above the surface of the earth. At certain height its kinetic energy is three times its potential energy. The height from the surface of the earth and the speed of the particle at that instant are respectively.
+  Answer: ["D"]
+  Solution: V<sup>2</sup> = 0 + 2g (S – x) <br>V<sup>2</sup> = 2g (S – x) <br>At B, Potential energy = mgx<br>\[mgx = 3 \times \frac{1}{2}m{v^2}\]<br>\[gx = \frac{3}{2} \times 2g\left( {S - x} \right)\]<br>4x = S<br>\[{\text{x}} = \frac{{\text{S}}}{4}\]<br>\[ \Rightarrow V = \sqrt {2g \times \frac{{3S}}{4}} = \...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.485)
+  Source: JEE | ID: 6803eb4648a77061ced4b3f0
+  Chapter: Ray Optics | Topic: Magnification due to lens
+  Question: Two identical objects are placed in front of convex mirror and concave mirror having same radii of curvature of 12 cm, at same distance of 18 cm from the respective mirrors. The ratio of sizes of the images formed by convex mirror and by concave mirror is :
+  Answer: ["A"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/341db7db-43d6-4170-ab90-f6f421e4fe773452510737967798980.png"/><br>\[{\text{Using m = }}\frac{f}{{u - f}}\]<br>\[{m_1} = \frac{6}{{18 - 6}} = \frac{1}{2}\]<br><img src="https://cmds-test.vedantu.com/prod/question-sets/76a9e407-443f-424b-bf50-...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 23: "A plane mirror is moving with a velocity vM = 2i + 3j - k m/s. The unit normal vector to the mirror surface is n = 1/3(2i - 2j + k). A point object is moving with a velocity vO = 6i - j + k m/s in front of the mirror. If the velocity of the image formed by the mirror is vI, find the value of |vI|^2 in m^2/s^2."
+======================================================================
+  MATCH 1 (Score: 0.457)
+  Source: JEE | ID: 6804f0d648a77061cee7d8f3
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: A finite size object is placed normal to the principal axis at a distance of 30 cm from a convex mirror of focal length 30 cm. A plane mirror is now placed in such a way that the image produced by both the mirrors coincide with each other. The distance between the two mirrors is :
+  Answer: ["B"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/882e6d88-ea52-4d85-beb0-93dd10a9a33c5081557431967244359.png"/><br>For Convex mirror<br>\[\frac{1}{v} + \frac{1}{u} = \frac{1}{f}\]<br>\[\frac{1}{v} - \frac{1}{{30}} = \frac{1}{f}\]<br>\[\frac{1}{v} = \frac{2}{{30}} = \frac{1}{{15}} \Rightarr...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.411)
+  Source: JEE | ID: 67ab155681f12750ffd1e1fe
+  Chapter: Rotational Motion | Topic: Angular momentum of a point particle
+  Question: An object of mass 'm' is projected from origin in a vertical xy plane at an angle 45° with the x-axis with an initial velocity v<sub>0</sub>. The magnitude and direction of the angular momentum of the object with respect to origin, when it reaches at the maximum height, will be [g is acceleration due to gravity]
+  Answer: ["D"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/d3389ccd-d688-41bd-9816-4d4c32ccaba25189870448992555590.png"/><br>\[H = \frac{{{{\left( {\frac{{{v_0}}}{{\sqrt 2 }}} \right)}^2}}}{{2g}} = \frac{{v_0^2}}{{4g}}\]<br>\[L = mvh\]<br>\[L = m\frac{{{v_0}}}{{\sqrt 2 }}\frac{{v_0^2}}{{4g}}\]...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.406)
+  Source: JEE | ID: 6803eb4648a77061ced4b3f0
+  Chapter: Ray Optics | Topic: Magnification due to lens
+  Question: Two identical objects are placed in front of convex mirror and concave mirror having same radii of curvature of 12 cm, at same distance of 18 cm from the respective mirrors. The ratio of sizes of the images formed by convex mirror and by concave mirror is :
+  Answer: ["A"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/341db7db-43d6-4170-ab90-f6f421e4fe773452510737967798980.png"/><br>\[{\text{Using m = }}\frac{f}{{u - f}}\]<br>\[{m_1} = \frac{6}{{18 - 6}} = \frac{1}{2}\]<br><img src="https://cmds-test.vedantu.com/prod/question-sets/76a9e407-443f-424b-bf50-...
+  ------------------------------------------------------------------
+
+
+======================================================================
+LATEX QUESTION 24: "A point object is placed at a distance of 25 cm from a concave mirror of focal length 20 cm on its principal axis. The mirror is cut into two equal halves along a plane containing the principal axis, and the two halves are moved apart perpendicularly to the principal axis by a total distance of 5 mm. Find the distance between the two images formed by the two halves in mm."
+======================================================================
+  MATCH 1 (Score: 0.600)
+  Source: JEE | ID: 6804f0d648a77061cee7d8f3
+  Chapter: Ray Optics | Topic: Mirror formula
+  Question: A finite size object is placed normal to the principal axis at a distance of 30 cm from a convex mirror of focal length 30 cm. A plane mirror is now placed in such a way that the image produced by both the mirrors coincide with each other. The distance between the two mirrors is :
+  Answer: ["B"]
+  Solution: <img src="https://cmds-test.vedantu.com/prod/question-sets/882e6d88-ea52-4d85-beb0-93dd10a9a33c5081557431967244359.png"/><br>For Convex mirror<br>\[\frac{1}{v} + \frac{1}{u} = \frac{1}{f}\]<br>\[\frac{1}{v} - \frac{1}{{30}} = \frac{1}{f}\]<br>\[\frac{1}{v} = \frac{2}{{30}} = \frac{1}{{15}} \Rightarr...
+  ------------------------------------------------------------------
+  MATCH 2 (Score: 0.524)
+  Source: JEE | ID: 68052af148a77061ceecfa9d
+  Chapter: Electrostatics | Topic: Torque on an electric dipole in external electric field
+  Question: A dipole with two electric charges of 2 μC magnitude each, with separation distance 0.5 μm, is placed between the plates of a capacitor such that its axis is parallel to an electric field established between the plates when a potential difference of 5 V is applied. Separation between the plates is 0.5 mm. If the dipole is rotated by 30° from the axis, it tends to realign in the direction due to a torque. The value of torque is :
+  Answer: ["A"]
+  Solution: \[E = \frac{v}{d} = \frac{5}{{5 \times {{10}^{ - 4}}}} = {10^4}V/m\]<br>τ = PE sinθ <br>Where P = qa = 2 × 10<sup>–6</sup> × 5 × 10<sup>–7</sup><br>= 1 × 10<sup>–12</sup> C-m<br>\[\tau = 1 \times {10^{ - 12}} \times {10^4} \times \frac{1}{2} = 5 \times {10^{ - 9}}N - m\]<br><br>...
+  ------------------------------------------------------------------
+  MATCH 3 (Score: 0.508)
+  Source: JEE | ID: 67b47e55b0f8e141dd090819
+  Chapter: Electromagnetic Waves | Topic: Displacement current
+  Question: A time varying potential difference is applied between the plates of a parallel plate capacitor of capacitance \[2.5\mu F\]. The dielectric constant of the medium between the capacitor plates is 1. It produces an instantaneous displacement current of 0.25 mA in the intervening space between the capacitor plates, the magnitude of the rate of change of the potential difference will be _______ Vs<sup>–1</sup>.
+  Answer: ["100"]
+  Solution: \[\frac{{CdV}}{{dt}} = {I_d}\]<br>\[\frac{{dV}}{{dt}} = \frac{{{I_d}}}{C}\]<br>\[ = \frac{{0.25 \times {{10}^{ - 3}}}}{{2.5 \times {{10}^{ - 6}}}}\]<br>= 100<br>...
+  ------------------------------------------------------------------
+

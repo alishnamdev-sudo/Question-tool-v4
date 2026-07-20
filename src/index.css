@@ -1,0 +1,213 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+@import "@fontsource-variable/geist";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;700&display=swap');
+
+@custom-variant dark (&:is(.dark *));
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  /* Brand Core Anchors (High Saturation for CTAs, Focus States, and Hero Brand Actions) */
+  --color-brand-orange: oklch(65% 0.22 45);       /* Primary Action Coral (Vedantu Orange) */
+  --color-brand-purple: oklch(50% 0.18 300);     /* IIT JEE Competitive Track */
+  --color-brand-peach: oklch(72% 0.13 55);       /* Medical Track (NEET) */
+  --color-brand-mint: oklch(72% 0.14 160);       /* Infrastructure/Offline Centers */
+  --color-brand-rose: oklch(75% 0.13 10);        /* Foundation/Olympiads */
+
+  /* Internal Dashboard Structural Canvas (Low-Chroma, easy on the eyes for 8-hour shifts) */
+  --color-background: oklch(98.5% 0.001 0);      /* Soft off-white canvas reduces screen glare */
+  --color-foreground: oklch(22% 0.01 240);       /* Deep slate gray for ultra-crisp data text */
+
+  --color-card: hsl(0 0% 100%);
+  --color-card-foreground: oklch(22% 0.01 240);
+
+  --color-popover: hsl(0 0% 100%);
+  --color-popover-foreground: oklch(22% 0.01 240);
+
+  --color-primary: var(--color-brand-orange);
+  --color-primary-foreground: oklch(100% 0 0);
+
+  --color-secondary: oklch(96% 0.005 240);
+  --color-secondary-foreground: oklch(22% 0.01 240);
+
+  --color-muted: oklch(94% 0.005 240);                  /* Subtle table headers & borders */
+  --color-muted-foreground: oklch(45% 0.01 240);         /* Metadata, helper captions */
+
+  --color-accent: oklch(95% 0.006 240);
+  --color-accent-foreground: oklch(22% 0.01 240);
+
+  --color-destructive: oklch(57.7% 0.245 27.325);
+  --color-destructive-foreground: oklch(99% 0 0);
+
+  --color-border: oklch(92% 0.008 240);
+  --color-input: oklch(92% 0.008 240);
+  --color-ring: var(--color-brand-orange);
+
+  /* Operational Status Tints (Mapped from streams for internal context blocks) */
+  --color-track-bg-jee: oklch(96.5% 0.015 300);          /* 5% saturation purple tint for JEE rows/cards */
+  --color-track-bg-neet: oklch(97% 0.015 55);            /* 5% saturation amber tint for NEET rows/cards */
+  --color-track-bg-centre: oklch(97% 0.015 160);          /* 5% saturation mint tint for Center rows/cards */
+  --color-track-bg-olympiad: oklch(97% 0.015 10);        /* 5% saturation rose tint */
+
+  /* Legacy layout configurations for sheets index */
+  --color-card-tint-purple: oklch(96.5% 0.015 300);
+  --color-card-tint-orange: oklch(97% 0.015 55);
+  --color-card-tint-green: oklch(97% 0.015 160);
+  --color-card-tint-pink: oklch(97% 0.015 10);
+
+  --radius-lg: 1rem;
+  --radius-md: 0.75rem;
+  --radius-sm: 0.5rem;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans;
+  }
+  h1, h2, h3 {
+    font-family: var(--font-sans);
+    font-weight: 800; /* Extra Bold / Black weight is mandatory */
+    letter-spacing: -0.03em; /* Tighten tracked headings for a punchy layout */
+    color: var(--color-foreground);
+  }
+}
+
+:root {
+  --background: oklch(99% 0.003 0);
+  --foreground: oklch(20% 0.015 250);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(20% 0.015 250);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(20% 0.015 250);
+  --primary: oklch(65% 0.22 45);
+  --primary-foreground: oklch(100% 0 0);
+  --secondary: oklch(97% 0 0);
+  --secondary-foreground: oklch(20% 0.015 250);
+  --muted: oklch(97% 0 0);
+  --muted-foreground: oklch(55.6% 0 0);
+  --accent: oklch(97% 0 0);
+  --accent-foreground: oklch(20% 0.015 250);
+  --destructive: oklch(57.7% 0.245 27.325);
+  --border: oklch(92.2% 0 0);
+  --input: oklch(92.2% 0 0);
+  --ring: oklch(65% 0.22 45);
+  --chart-1: oklch(80.9% 0.105 251.813);
+  --chart-2: oklch(62.3% 0.214 259.815);
+  --chart-3: oklch(54.6% 0.245 262.881);
+  --chart-4: oklch(48.8% 0.243 264.376);
+  --chart-5: oklch(42.4% 0.199 265.638);
+  --radius: 1rem;
+  --sidebar: oklch(98.5% 0 0);
+  --sidebar-foreground: oklch(20% 0.015 250);
+  --sidebar-primary: oklch(65% 0.22 45);
+  --sidebar-primary-foreground: oklch(100% 0 0);
+  --sidebar-accent: oklch(97% 0 0);
+  --sidebar-accent-foreground: oklch(20% 0.015 250);
+  --sidebar-border: oklch(92.2% 0 0);
+  --sidebar-ring: oklch(65% 0.22 45);
+}
+
+.dark {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.205 0 0);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.205 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.922 0 0);
+  --primary-foreground: oklch(0.205 0 0);
+  --secondary: oklch(0.269 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.269 0 0);
+  --muted-foreground: oklch(0.708 0 0);
+  --accent: oklch(0.269 0 0);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: oklch(1 0 0 / 10%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.556 0 0);
+  --chart-1: oklch(0.809 0.105 251.813);
+  --chart-2: oklch(0.623 0.214 259.815);
+  --chart-3: oklch(0.546 0.245 262.881);
+  --chart-4: oklch(0.488 0.243 264.376);
+  --chart-5: oklch(0.424 0.199 265.638);
+  --sidebar: oklch(0.205 0 0);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.269 0 0);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(1 0 0 / 10%);
+  --sidebar-ring: oklch(0.556 0 0);
+}
+
+@theme inline {
+  --font-sans: 'Geist Variable', sans-serif;
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --color-foreground: var(--foreground);
+  --color-background: var(--background);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+@layer utilities {
+  /* For admin tables, sidebar menus, and configuration controls */
+  .internal-data-text {
+    font-size: 0.8125rem; /* 13px optimization */
+    line-height: 1.2rem;
+    letter-spacing: -0.01em;
+  }
+
+  /* Technical Mono Font (JetBrains Mono) for raw KaTeX notation */
+  .math-raw-code {
+    font-family: var(--font-mono);
+    background-color: var(--color-muted);
+    color: oklch(40% 0.01 240);
+    border-radius: var(--radius-md);
+    padding: 0.25rem 0.5rem;
+    font-size: 0.75rem;
+  }
+}

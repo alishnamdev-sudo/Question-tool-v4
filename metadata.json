@@ -1,0 +1,8 @@
+{
+  "name": "Remix: JEE/NEET Question Generator version 3",
+  "description": "An AI-powered application to generate high-quality, original academic exam questions for JEE \u0026 NEET based on uploaded source documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

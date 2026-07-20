@@ -1,0 +1,109 @@
+Successfully loaded 518 questions from NEET Eklavya Part Tests.json
+Successfully loaded 612 questions from NEET Full Tests.json
+Successfully loaded 717 questions from NEET PYQs (2013-2026).json
+Successfully loaded 873 questions from NEET Rankers Part Tests .json
+Successfully loaded 1474 questions from Target Bio 360 Assignments.json
+
+Loaded 4194 total questions from all databases.
+
+========================================
+Searching for Reference Question for Target 4: Determine stereochemical configuration of diene (Z/E)
+========================================
+
+Match 1 (Score: 4) [Source File: NEET Full Tests.json] [QuestionId: 6a17ac5be64c2344c77e7e56]
+Chapter: General Organic Chemistry (Revision) & Isomerism | Topic: Absolute and Relative Nomenclature
+Question: <b> </b>Select R-isomers from the following<br><img  src="https://cmds-test.vedantu.com/prod/question-sets/a4e98fbd-0623-498d-bfd8-8ef962af191c1965191874532739228.png"/>
+Options: ["I only","II only","I and II only","<p>III Only</p>"]
+Solution: Using the Cahn-Ingold-Prelog (CIP) priority rules:<br>Structure I (Glyceraldehyde): Priority: $-\text{OH}\left( 1 \right)>-\text{CHO}\left( 2 \right)>-\text{C}{{\text{H}}_{2}}\text{OH}\left( 3 \right)>$ -H (4). The path $1\to 2\to 3$ is clockwise. Since -H is on the horizontal bond, the configuratio...
+
+Match 2 (Score: 3) [Source File: NEET Eklavya Part Tests.json] [QuestionId: 6999558cec57290a6540dcf9]
+Chapter: Classification of Elements and Periodicity | Topic: Ionization Enthalpy
+Question:  Consider the following statements:<br><b>Statement I:</b> The first ionization enthalpy of oxygen is less than that of nitrogen.<br><b>Statement II:</b> Nitrogen has a half-filled 2p subshell, which provides extra stability.<br><b>Statement III:</b> The atomic radius of nitrogen is greater than tha
+Options: [" I and II only"," II and III only"," I only"," I, II and III"]
+Solution: <b>Statement I — Correct:</b> Oxygen has lower ionization enthalpy than nitrogen due to electron–electron repulsion in paired 2p orbitals.<br><b>Statement II — Correct:</b> Nitrogen (2p³) has half-filled configuration → extra stability → higher ionization enthalpy.<br><b>Statement III — Incorrect:</...
+
+Match 3 (Score: 3) [Source File: NEET Eklavya Part Tests.json] [QuestionId: 66bf6171d4433e7e336bac3e]
+Chapter: Classification of Elements and Periodicity | Topic: Ionization Enthalpy
+Question:  Which one of these may be expected to have highest third ionization enthalpy?
+Options: [" V"," Cr"," Mn"," Ti"]
+Solution: Electronic configuration of V is [Ar]3d<sup>3</sup>4s<sup>2</sup><br>Electronic configuration of Cr is [Ar]3d<sup>5</sup>4s<sup>1</sup><br>Electronic configuration of Mn is [Ar]3d<sup>5</sup>4s<sup>2</sup><br>Electronic configuration of Ti is [Ar]3d<sup>2</sup>4s<sup>2</sup>...
+
+Match 4 (Score: 3) [Source File: NEET Eklavya Part Tests.json] [QuestionId: 5c2a2ba4e4b08d41c2abcb9d]
+Chapter: General Organic Chemistry (Revision) & Isomerism | Topic: Optical Active Compounds
+Question:  The number of isomers for the compound with molecular formula \[{C_2}BrClFI\] is
+Options: ["3","4","5","6"]
+Solution: <p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAeMAAAFBCAYAAABEo8fdAAAgAElEQVR4Ae2dCZKqMBBAZY6F5xk8jvzDyGGGs2j/CoiETVmCJJ03VVMqS0i/jj4aUE7CHwQgAAEIQAAChxI4Hbp1Ng4BCEAAAhCAgCBjBgEEIAABCEDgYALI+OAEsHkIQAACEIAAMmYMQAACEIAABA4mgIwPTgCbhwAEIAABCCBjxgAEIAABCEDgYALI+OAEsHkIQAACEIAAMmYMQAACEIAAB...
+
+Match 5 (Score: 3) [Source File: NEET Eklavya Part Tests.json] [QuestionId: 5d1e007c8f0896a99c9b15e2]
+Chapter: Classification of Elements and Periodicity | Topic: Ionization Enthalpy
+Question:  The following options give the first four ionization energies in kJ mol<sup>-1</sup> of four elements (the letters are not the symbols for the elements). Which element occurs in Group 13 of the periodic table?
+Options: ["Element P <b>IE</b><b><sub>1 </sub></b>→  502; <b>IE</b><b><sub>2 </sub></b>→  4569; <b>IE</b><b><sub>3 </sub></b>→  6919; <b>IE</b><b><sub>4 </sub></b>→  9550","Element Q <b>IE</b><b><sub>1 </sub></b>→  526; <b>IE</b><b><sub>2 </sub></b>→  7305; <b>IE</b><b><sub>3 </sub></b>→  11822; <b>IE</b><b><sub>4 </sub></b>→ 13121","Element R <b>IE</b><b><sub>1 </sub></b>→  584; <b>IE</b><b><sub>2 </sub></b>→  1823; <b>IE</b><b><sub>3 </sub></b>→  2751; <b>IE</b><b><sub>4 </sub></b>→  11584","Element S <b>IE</b><b><sub>1 </sub></b>→  796; <b>IE</b><b><sub>2 </sub></b>→  1583; <b>IE</b><b><sub>3 </sub></b>→  3238; <b>IE</b><b><sub>4 </sub></b>→  4362"]
+Solution:  After losing three electrons in element R, there is sudden huge increase in IE from 2751 to 11584 kJ/mol. It means that after the removal of three electrons, some stable configuration is achieved. This is applicable to group 13 elements with outer configuration of ns<sup>2</sup> np<sup>1</sup>....
+
+========================================
+Searching for Reference Question for Target 11: 3-methyl-4-methylenehexa-1,5-diene, sp2-sp2 to sp2-sp3 ratio
+========================================
+
+Match 1 (Score: 15) [Source File: NEET Full Tests.json] [QuestionId: 69022339ae413f2843ac2c17]
+Chapter: Alcohols, Phenols, and Ethers | Topic: Chemical Properties of Alcohols
+Question:  <sub></sub><img  src="https://cmds-test.vedantu.com/prod/question-sets/c7782d8d-0a9f-4549-9223-0f1ed42273901340797317491147343.png"/><sub> </sub>on dehydration with conc. \[{{\text{H}}_{\text{2}}}{\text{S}}{{\text{O}}_{\text{4}}}\]at 160° C predominantly forms:
+Options: ["<sub></sub><img  src=\"https://cmds-test.vedantu.com/prod/question-sets/2f7d600c-4b8a-49a8-ab34-25bc38a748be802387692614575627.png\"/>","<sub></sub><img  src=\"https://cmds-test.vedantu.com/prod/question-sets/2cfc930c-742e-40f7-ae8c-f48f8ffc4f655606900815128518992.png\"/>","<img  src=\"https://cmds-test.vedantu.com/prod/question-sets/91cc2702-6a6a-40b3-9ef1-8652420fffb48612666206866204031.png\"/>","<img  src=\"https://cmds-test.vedantu.com/prod/question-sets/e52247ef-bfa0-4a9f-a93c-9f4b6720e08a4503734648408626314.png\"/>"]
+Solution: <p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAzcAAAC6CAYAAACTF7NBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAON/SURBVHhe7L3Xc2Nnmt//Rc4AEUgABEgwZ3ZOytKMtDPj8dreC285VDnV3PvKdvlu/hOXXeXyxdq1W5797czsBEmjltTqVnczJwAkAhGJnDN+F/s+rw8httRsdbc6vJ8qVDdJ4OCcA5z3PPH7yPr9f...
+
+Match 2 (Score: 13) [Source File: NEET Eklavya Part Tests.json] [QuestionId: 5ebfc0383bbc4101506d0b8a]
+Chapter: Alcohols, Phenols, and Ethers | Topic: Chemical Properties of Alcohols
+Question: <b> </b>Compare rate of dehydration of (i), (ii) and (iii) by conc. H<sub>2</sub>SO<sub>4</sub>.<br/><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAS8AAADGCAYAAACD4gYmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAGEhSURBVHhe7b13XFRX/v//GoZeBhh6rwJKVUBAwQqIGFvEGo0ay6p
+Options: ["(i) > (ii) > (iii)","(i) > (iii) > (ii)","(ii) > (i) > (iii)","(ii) > (iii) > (ii)"]
+Solution:  due to resonance stabilization<p>(i) Carbocation stabilised by resonance that to extended conjugation.</p><p>(ii) Stabilised by resonance but not by extended conjugation</p><p>(iii) Carbocation will be formed on sp2 carbon which is highly unstable</p><div><br/></div>...
+
+Match 3 (Score: 13) [Source File: NEET Eklavya Part Tests.json] [QuestionId: 615bf9c03c665c0ae21c9e96]
+Chapter: Biomolecules | Topic: Enzymes
+Question: <!--StartFragment--><span id="docs-internal-guid-8e6b44e5-7fff-d3d5-ef63-8c600e595e86"><span style="color: rgb(0, 0, 0);background-color: transparent;">Following is the graph related to enzyme activity:</span></span><div><p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVwAAAERCAYAAAA30B+e
+Options: ["<!-StartFragment-><span id=\"docs-internal-guid-4de40371-7fff-d439-9e39-fece74b111b0\"></span><p dir=\"ltr\"><span style=\"color: rgb(0, 0, 0);background-color: transparent;\"> A = pH, B = Enzyme activity, C = K<sub>m</sub> constant, D = V</span><span style=\"color: rgb(0, 0, 0);background-color: transparent;\"><span><sub>max</sub></span></span></p><!-EndFragment->","<!-StartFragment-><span id=\"docs-internal-guid-e4f98b4e-7fff-05ae-d157-70c63191c40a\"></span><p dir=\"ltr\"><span style=\"color: rgb(0, 0, 0);background-color: transparent;\">A = Velocity of reaction, B = pH, C = V</span><span style=\"color: rgb(0, 0, 0);background-color: transparent;\"><sub>max</sub>.</span><span style=\"color: rgb(0, 0, 0);background-color: transparent;\">/2, D = Concentration of substrate</span></p><!-EndFragment->","<!-StartFragment-><span id=\"docs-internal-guid-bf097a64-7fff-4ab9-c075-b371f6fa27cd\"><span style=\"color: rgb(0, 0, 0);background-color: transparent;\">A = Concentration of substrate, B = V</span><span style=\"color: rgb(0, 0, 0);background-color: transparent;\"><sub>max</sub>.</span><span style=\"color: rgb(0, 0, 0);background-color: transparent;\">/2, C = K</span><span style=\"color: rgb(0, 0, 0);background-color: transparent;\"><span><sub>m</sub></span></span><span style=\"color: rgb(0, 0, 0);background-color: transparent;\"> constant, D = Velocity of reaction</span></span><!-EndFragment->","<!-StartFragment-><span id=\"docs-internal-guid-0c93420a-7fff-823a-5285-c77f656ac7aa\"></span><p dir=\"ltr\"><span style=\"color: rgb(0, 0, 0);background-color: transparent;\">A = Concentration of substrate, B = V</span><span style=\"color: rgb(0, 0, 0);background-color: transparent;\"><sub>max</sub>.</span><span style=\"color: rgb(0, 0, 0);background-color: transparent;\">/2, C = K</span><span style=\"color: rgb(0, 0, 0);background-color: transparent;\"><span><sub>m</sub></span></span><span style=\"color: rgb(0, 0, 0);background-color: transparent;\"> constant, D = V</span><span style=\"color: rgb(0, 0, 0);background-color: transparent;\"><span><sub>i</sub></span></span></p><!-EndFragment->"]
+Solution: <!-StartFragment-><span id="docs-internal-guid-996475ba-7fff-c2c1-fbca-bba3463f24c7"></span><p dir="ltr"><span style="color: rgb(51, 51, 51);background-color: transparent;">A = Concentration of substrate, B = V</span><span style="color: rgb(51, 51, 51);background-color: transparent;"><span><sub>max....
+
+Match 4 (Score: 13) [Source File: NEET Full Tests.json] [QuestionId: 6a0f13a2e0907f20bb7b2041]
+Chapter: Alcohols, Phenols, and Ethers | Topic: Test of Alcohols and Phenol
+Question:  Match List I (Reactions/Tests) with List II (Reagents/Products):<br/><div class="uploaded-question-table-par"><table class="uploaded-question-table"><tbody><tr><td></td><td>List I (Reaction Name / Test)</td><td></td><td>List II (Reagents or Observations)</td></tr><tr><td>A.</td><td>Reimer-Tiemann R
+Options: ["A-II, B-IV, C-I, D-III","A-III, B-I, C-IV, D-II","A-II, B-I, C-IV, D-III","A-IV, B-II, C-III, D-I"]
+Solution:  <b>A - (II): Reimer-Tiemann Reaction</b><br/>When phenol is treated with chloroform ( $\text{CHC}{{\text{l}}_{3}}$ ) in the presence of sodium hydroxide, an -CHO group is introduced at the ortho position, forming Salicylaldehyde.<div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlMAAADWC...
+
+Match 5 (Score: 10) [Source File: NEET Eklavya Part Tests.json] [QuestionId: 5c6fefbde4b058541473fcdc]
+Chapter: Waves | Topic: Beats
+Question:  A sound source emits frequency of 180 Hz when moving towards a rigid wall with speed 5 m/s and an observer is moving away from wall with speed 5 m/s.  Both source and observer move on a straight line which is perpendicular to the wall.  The number of beats per second heard by the observer will be  
+Options: ["5 /s","10 /s","6 /s","8 /s"]
+Solution: <p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAEDAAAAU6CAYAAAAKVzGNAAAABHNCSVQICAgIfAhkiAAAAF96VFh0UmF3IHByb2ZpbGUgdHlwZSBBUFAxAAAImeNKT81LLcpMVigoyk/LzEnlUgADYxMuE0sTS6NEAwMDCwMIMDQwMDYEkkZAtjlUKNEABZiYm6UBoblZspkpiM8FAE+6FWgbLdiMAAAgAElEQVR4nOzd73EbydUv4N/d2u/kGwHhCMQ3Ao0jEB2B4AiWjmDhC...
+
+========================================
+Searching for Reference Question for Target 12: Geometrical isomers of 1,6-diphenylhexa-1,3,5-triene
+========================================
+
+Match 1 (Score: 6) [Source File: NEET Eklavya Part Tests.json] [QuestionId: 5d8e1053c9332368cfd72ecd]
+Chapter: Biomolecules | Topic: Amino Acids
+Question:  Which of the following is not an amino acid?
+Options: [" Glycine"," Arginine "," Histidine"," Benzidine"]
+Solution: <b> </b>Benzidine is 4,4'-diaminodiphenyl...
+
+Match 2 (Score: 6) [Source File: NEET Full Tests.json] [QuestionId: 69030ccd6f37f04a541f4f20]
+Chapter: Aldehydes and Ketones | Topic: Chemical Properties of Carbonyl Compounds
+Question:  Choose the correct option among the following.<br><div class='uploaded-question-table-par'><table class='uploaded-question-table'><tr><td>Column I(Reactions)</td><td>Column II(Reagents)</td></tr><tr><td>A. Benzophenone → Diphenylmethane</td><td>1. LiAlH<sub>4</sub></td></tr><tr><td>B. Benzaldehyde 
+Options: [" A-3, B-4, C-1, D-2"," A-2, B-4, C-3, D-1"," A-3, B-2, C-4, D-1"," A-1, B-4, C-3, D-2"]
+Solution: <div class='uploaded-question-table-par'><table class='uploaded-question-table'><tr><td></td><td><b>Reactions</b></td><td><b>Reagents</b></td></tr><tr><td>A.</td><td><b></b><img  src="https://cmds-test.vedantu.com/prod/question-sets/c0b8c0a9-49fa-4c49-9ae1-b991bbf4af832769676860974287308.png"/></td>...
+
+Match 3 (Score: 4) [Source File: NEET Eklavya Part Tests.json] [QuestionId: 612746fd6cd3d84d450d0632]
+Chapter: Animal Kingdom | Topic: Phylum Echinodermata
+Question:  An animal with an endoskeleton of calcareous ossicles, radial symmetry in adults and bilateral symmetrical larva belongs to:
+Options: [" Arthropoda"," Mollusca"," Echinodermata"," Annelida"]
+Solution:  Echinoderms have an endoskeleton of calcareous ossicles and, hence, the name Echinodermata, radial symmetry in adults and bilateral symmetry in larval forms are found....
+
+Match 4 (Score: 4) [Source File: NEET Eklavya Part Tests.json] [QuestionId: 602660dc8ff00724920ffc79]
+Chapter: Animal Kingdom | Topic: Non-Chordates (General)
+Question:  Match the following columns and select the correct option –<br><div class='uploaded-question-table-par'><table class='uploaded-question-table'><tr><td><b>Column I</b></td><td><b>Column II</b></td></tr><tr><td>(a) Gregarious, polyphagous pest</td><td>(i) <i>Asterias</i></td></tr><tr><td>(b) Adult wi
+Options: [" a <b>–</b> iii; b <b>–</b> ii; c <b>–</b> i; d <b>–</b> iv"," a <b>–</b> ii; b <b>–</b> i; c <b>–</b> iii; d <b>–</b> iv"," a <b>–</b> i; b <b>–</b> iii; c <b>–</b> ii; d <b>–</b> iv"," a <b>–</b> iv; b <b>–</b> i; c <b>–</b> ii; d <b>–</b> iii"]
+Solution:  (a) <i>Locusta</i> is a gregarious pest.<br>(b) In Echinodermata, adults are radially symmetrical and larva  are  bilaterally symmetrical. <br>For example: <i>Asterias</i>.<br>(c) In Arthropoda, scorpion respires through book lungs.<br>(d) Bioluminescence (the property of a living organism to emit ...
+
+Match 5 (Score: 4) [Source File: NEET Eklavya Part Tests.json] [QuestionId: 619e25ed9593cf6eeba96a95]
+Chapter: Animal Kingdom | Topic: Phylum Aschelminthes
+Question:  Given below are three statements regarding Aschelminthes.<br>i. They are bilaterally symmetrical and triploblastic.<br>ii. They are dioecious.<br>iii. All are plants or animal parasites.<br>Select the option that has both the correct statements.
+Options: [" i and ii"," i and iii"," ii and iii"," None of these"]
+Solution:  Statement (i) is correct as the organisms belonging to phylum Aschelminthes are bilaterally symmetrical and triploblastic.<br>Statement (ii) is correct, the organisms of this phylum have separate sexes (dioecious) the males and females are distinct. <br>Statement (iii) is incorrect as not all the P...

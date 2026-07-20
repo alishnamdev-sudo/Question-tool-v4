@@ -1,0 +1,12 @@
+Searching raw text of unparsed file: /app/applet/src/data/JEE Main/JEE Main PYQs (2015-2026).json
+Searching raw text of unparsed file: /app/applet/src/data/JEE Main/JEE Tatva Ex-1 .json
+Searching raw text of unparsed file: /app/applet/src/data/NEET/NEET Rankers Assignments .json
+  -> FOUND KEYWORD "diphenyl"
+
+--- Match context for "diphenyl" in NEET Rankers Assignments .json ---
+ "Type": "SCQ", "Tags": [{"Difficulty": "EASY", "Subject": "Chemistry", "Chapter": "Amines", "Topic": "Properties of Aniline", "CognitiveLevel": "RECALL_ONLY", "Target": "11_12_NEET"}]},
+{"QuestionId": "6815c8fb9cf3305e9ecf6ea7", "Question": " What is the major product formed when diazonium salt undergoes Gatterman reaction?", "Answer": ["A"], "Options": [" Haloarene", " Aryl amine", " Phenol", " Diphenyl ether"], "Solution": " The Gatterman reaction involves the replacement of the diazonium group (-N) in diazonium salts with a halogen atom.<br>In this reaction, a diazonium salt reacts with copper powder and the corresponding halide acid (HCl or HBr) to yield a haloarene.<br>", "Type": "SCQ", "Tags": [{"Difficulty": "EASY", "Subject": "Chemistry", "Chapter": "Amines", "Topic": "Properties of Aniline", "CognitiveLevel": "RECALL_ONLY", "Target": "11_12_NEET"}]},
+{"QuestionId": "69baa77af5e1b56ad260b93a", "Question": " </b>Statement I : Catalytic hydrogenation can reduce nitro group to amine<br>Statement II : Lindlar catalyst is used for reduction of nitro compounds", "Answer": ["C"], "Options": [" Both Statement I and Statement II are correct", " Both Statement I and Statement II are incorrect", " Statement I is correct but Statement II is incorrect", " Statement I is incorrect but Statement II is correct"], "Solution": "<b> </b>Lindlar is only for alkyne → cis-alkene, not nitro 
+-----------------------------------------------------------------
+
+Searching raw text of unparsed file: /app/applet/src/data/NEET/NEET Tatva Ex-1.json
