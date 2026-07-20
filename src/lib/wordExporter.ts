@@ -159,40 +159,29 @@ function convertLatexFractions(text: string): string {
 export function stripLatexFormatting(text: string): string {
   if (!text) return "";
 
-  // Normalize \svg and \endsvg tags to standard <svg> and </svg> tags
-  let normalizedText = text.replace(/\\svg\b([^\n>]*)/gi, (match, attrs) => `<svg ${attrs.trim()}>`);
-  normalizedText = normalizedText.replace(/\\endsvg\b/gi, `</svg>`);
-
-  // 1a. Extract and protect any inline/block SVG segments
-  const svgBlocks: string[] = [];
-  let processedText = normalizedText.replace(/<svg[\s\S]*?<\/svg>/gi, (match) => {
-    svgBlocks.push(match);
-    return `___SVG_BLOCK_PLACEHOLDER_${svgBlocks.length - 1}___`;
-  });
-
-  // 1b. Remove internal backend solving/verification blocks that clutter student-facing questions
+  // 1. Remove internal backend solving/verification blocks that clutter student-facing questions
   const pattern = /(?:\\textbf\{|\*\*|\*)?(?:Internal\s+)?Solving\s+Verification:?[*}\s]*[\s\S]*$/i;
-  processedText = processedText.replace(pattern, "");
+  text = text.replace(pattern, "");
 
   // 2. Convert and systemize aligning blocks like matrices, determinants, and multi-line split alignments
-  processedText = convertLatexAlign(processedText);
-  processedText = convertLatexMatrices(processedText);
-  processedText = convertLatexFractions(processedText);
+  text = convertLatexAlign(text);
+  text = convertLatexMatrices(text);
+  text = convertLatexFractions(text);
 
   // 3. Clean up left/right modifiers and LaTeX vector caps/bars
-  processedText = processedText.replace(/\\left/g, " ").replace(/\\right/g, " ");
-  processedText = processedText.replace(/\\langle\s*/g, "⟨").replace(/\\rangle\s*/g, "⟩");
-  processedText = processedText.replace(/\\overline\{([^}]+)\}/gi, '<span style="text-decoration: overline;">$1</span>');
-  processedText = processedText.replace(/\\underline\{([^}]+)\}/gi, '<span style="text-decoration: underline;">$1</span>');
-  processedText = processedText.replace(/\\bar\{([^}]+)\}/gi, "$1̄");
+  text = text.replace(/\\left/g, " ").replace(/\\right/g, " ");
+  text = text.replace(/\\langle\s*/g, "⟨").replace(/\\rangle\s*/g, "⟩");
+  text = text.replace(/\\overline\{([^}]+)\}/gi, '<span style="text-decoration: overline;">$1</span>');
+  text = text.replace(/\\underline\{([^}]+)\}/gi, '<span style="text-decoration: underline;">$1</span>');
+  text = text.replace(/\\bar\{([^}]+)\}/gi, "$1̄");
 
   // 4. Format braced subscripts/superscripts (e.g. C_{10}H_{22})
-  processedText = processedText.replace(/_\{([^}]+)\}/gi, "<sub>$1</sub>");
-  processedText = processedText.replace(/\^\{([^}]+)\}/gi, "<sup>$1</sup>");
+  text = text.replace(/_\{([^}]+)\}/gi, "<sub>$1</sub>");
+  text = text.replace(/\^\{([^}]+)\}/gi, "<sup>$1</sup>");
 
   // 5. Format reaction arrows with conditions (e.g. \xrightarrow[\text{dry ether}]{\text{Mg}})
   // First match brackets and braces:
-  processedText = processedText.replace(/\\x?rightarrow\s*(?:\[([^\]]+)\])?\s*\{([^}]+)\}/gi, (match, below, above) => {
+  text = text.replace(/\\x?rightarrow\s*(?:\[([^\]]+)\])?\s*\{([^}]+)\}/gi, (match, below, above) => {
     const rawAbove = stripLatexFormattingInner(above || "");
     const rawBelow = below ? stripLatexFormattingInner(below) : "";
     const cleanAbove = rawAbove.replace(/\\text|\\mathrm/g, "").replace(/[{}]/g, "").trim();
@@ -202,14 +191,14 @@ export function stripLatexFormatting(text: string): string {
   });
 
   // Then match braces only:
-  processedText = processedText.replace(/\\x?rightarrow\s*\{([^}]+)\}/gi, (match, above) => {
+  text = text.replace(/\\x?rightarrow\s*\{([^}]+)\}/gi, (match, above) => {
     const rawAbove = stripLatexFormattingInner(above || "");
     const cleanAbove = rawAbove.replace(/\\text|\\mathrm/g, "").replace(/[{}]/g, "").trim();
     return cleanAbove ? ` ──(${cleanAbove})──> ` : " ──> ";
   });
 
   // Then match concatenated typos/artifacts from LLM (e.g. \xrightarrowHI, \xrightarrowheat, \xrightarrowdry ether, \xrightarrowwheat)
-  processedText = processedText.replace(/\\x?right(a|ar)?row([a-zA-Z0-9\s/+-]+)/gi, (match, prefix, cond) => {
+  text = text.replace(/\\x?right(a|ar)?row([a-zA-Z0-9\s/+-]+)/gi, (match, prefix, cond) => {
     let cleanCond = cond.trim();
     // Adjust common LLM typo "wheat" -> "heat"
     if (cleanCond.toLowerCase() === "wheat") {
@@ -219,46 +208,41 @@ export function stripLatexFormatting(text: string): string {
   });
 
   // Direct conversions for standard arrows
-  processedText = processedText.replace(/\\right(a|ar)?row/gi, " → ");
-  processedText = processedText.replace(/\\to\b/gi, " → ");
-  processedText = processedText.replace(/\\left(a|ar)?row/gi, " ← ");
+  text = text.replace(/\\right(a|ar)?row/gi, " → ");
+  text = text.replace(/\\to\b/gi, " → ");
+  text = text.replace(/\\left(a|ar)?row/gi, " ← ");
 
   // 6. Do the rest of general latex character & formatting conversions
-  processedText = stripLatexFormattingInner(processedText);
+  text = stripLatexFormattingInner(text);
 
   // 7. Format unbraced single/double-character subscripts & superscripts (e.g., C_4H_10O, D_2O)
-  processedText = processedText.replace(/_([0-9a-zA-Z+-]{1,3})\b/g, "<sub>$1</sub>");
-  processedText = processedText.replace(/\^([0-9a-zA-Z+-]{1,3})\b/g, "<sup>$1</sup>");
+  text = text.replace(/_([0-9a-zA-Z+-]{1,3})\b/g, "<sub>$1</sub>");
+  text = text.replace(/\^([0-9a-zA-Z+-]{1,3})\b/g, "<sup>$1</sup>");
 
   // 8. Clean up markdown bold (**bold**) and italics (*italics*) so Word renders them beautifully
-  processedText = processedText.replace(/\*\*([^*]+)\*\s*/g, "<strong>$1</strong> ");
-  processedText = processedText.replace(/\*\*([^*]+)\**/g, "<strong>$1</strong>");
-  processedText = processedText.replace(/\*([^*]+)\*\s*/g, "<em>$1</em> ");
-  processedText = processedText.replace(/\*([^*]+)\*/g, "<em>$1</em>");
+  text = text.replace(/\*\*([^*]+)\*\s*/g, "<strong>$1</strong> ");
+  text = text.replace(/\*\*([^*]+)\**/g, "<strong>$1</strong>");
+  text = text.replace(/\*([^*]+)\*\s*/g, "<em>$1</em> ");
+  text = text.replace(/\*([^*]+)\*/g, "<em>$1</em>");
 
   // 9. Format markdown backticks to code tags with a nice background style
-  processedText = processedText.replace(/`([^`]+)`/g, '<code style="font-family: Consolas, monospace; background-color: #f1f5f9; padding: 2px 4px; border-radius: 3px;">$1</code>');
+  text = text.replace(/`([^`]+)`/g, '<code style="font-family: Consolas, monospace; background-color: #f1f5f9; padding: 2px 4px; border-radius: 3px;">$1</code>');
 
   // 10. Completely remove LaTeX math fences (dollar signs '$')
-  processedText = processedText.replace(/\$/g, "");
+  text = text.replace(/\$/g, "");
 
   // 10.5. Strip leftover LaTeX layout and style commands (prevents words like 'textbf' or 'textit' showing up in Word docs)
-  processedText = processedText.replace(/\\(?:textbf|textit|texttt|underline|mathrm|text|mathbf|mathit|mathsf|mathtt|bold|emph|noindent|columnbreak|vfill|null|centering|pagebreak|newpage|small|large|Large|normalsize|tiny|huge|Huge|item|begin|end|section|subsection|subsubsection|label|ref|cite)\b\s*\{?\s*\}?/gi, "");
+  text = text.replace(/\\(?:textbf|textit|texttt|underline|mathrm|text|mathbf|mathit|mathsf|mathtt|bold|emph|noindent|columnbreak|vfill|null|centering|pagebreak|newpage|small|large|Large|normalsize|tiny|huge|Huge|item|begin|end|section|subsection|subsubsection|label|ref|cite)\b\s*\{?\s*\}?/gi, "");
 
   // 11. Clean up any lingering escaped braces or command artifacts
-  processedText = processedText.replace(/\\{/g, "{").replace(/\\}/g, "}");
-  processedText = processedText.replace(/\{([^}]+)\}/g, "$1");
-  processedText = processedText.replace(/\\/g, ""); // Strip any remaining backslashes
+  text = text.replace(/\\{/g, "{").replace(/\\}/g, "}");
+  text = text.replace(/\{([^}]+)\}/g, "$1");
+  text = text.replace(/\\/g, ""); // Strip any remaining backslashes
 
   // 12. Collapse extra spaces
-  processedText = processedText.replace(/\s+/g, " ");
+  text = text.replace(/\s+/g, " ");
 
-  // 13. Restore preserved SVG Blocks
-  processedText = processedText.replace(/___SVG_BLOCK_PLACEHOLDER_(\d+)___/g, (match, index) => {
-    return svgBlocks[parseInt(index, 10)];
-  });
-
-  return processedText.trim();
+  return text.trim();
 }
 
 /**

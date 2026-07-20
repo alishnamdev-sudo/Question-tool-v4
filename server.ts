@@ -785,63 +785,7 @@ Where:
 - [Page Number] is the page number provided before the image.
 - [ymin, xmin, ymax, xmax] are the bounding box coordinates of the figure on the page, normalized to 0-1000.
 Do NOT use markdown images for figures from the source, ONLY use the <figure> tag.
-
-CRITICAL DIAGRAM GENERATION STRATEGIES FOR REFERENCE PYQS:
-If a system-injected REFERENCE PYQ (or past year question used for grounding) contains a diagram (indicated by a markdown image tag like '![Diagram](url)' or an HTML image tag like '<img src="url"/>'), you MUST apply one of the following Diagram Generation Strategies to include a diagram in your newly generated question:
-
-* Option A: Constant-Diagram Parameterized Variation: Copy and include the exact identical image tag (e.g. '![Diagram](url)') in your newly generated question without changing the URL. This will carry over the diagram into your variation question.
-
-* Option B: Dynamic AI-Generated Structured SVG Diagram (HIGHLY RECOMMENDED & PREFERRED): Instead of the original image, generate a custom-built, highly polished vector-graphic inline SVG diagram representing your new parameterized system (e.g., chemical structures, molecular isomerism, reaction schemes, electrical circuits, pulleys, masses, optics, coordinate graphs, vectors, or chemistry setups)!
-  - Output the complete, standard XML code of the SVG (wrapped inside '<svg ...>...</svg>') inline within the question text or options.
-  - Use clean, well-formed SVG tags: '<rect>', '<circle>', '<line>', '<path>', '<text>', '<polygon>', '<g>'.
-  - Use '<marker>' tags for clean directional arrowheads on vector, current, or force paths.
-  - Ensure responsiveness and high fidelity: use '<svg viewBox="0 0 400 250" width="100%" max-width="400" height="auto" class="mx-auto rounded-lg bg-slate-50/50 p-2 border border-slate-100">'.
-  - Apply modern educational color palettes (e.g., '#3b82f6' for active nodes, '#e2e8f0' for clean background lines, '#ef4444' for force vectors, '#475569' for text).
-  - Ensure all text labels (e.g., "m1", "T", "θ = 30°", "V = 12V", "A", "B", etc.) use clear, legible font-family="sans-serif" with appropriate font-size.
-  - Do NOT use external stylesheet links. Make the SVG self-contained.
-  - IMPORTANT: Since you are outputting in LaTeX format, embed the raw '<svg ...>...</svg>' block directly inside the question text or options without wrapping it in LaTeX math blocks or LaTeX markup. It must be standard inline XML.
-  - STRICT PHYSICS CIRCUIT DIAGRAM RULES (NCERT TEXTBOOK COMPATIBLE SYMBOLS ONLY):
-    For any Physics question requiring a circuit diagram, you MUST generate a clean, legible inline SVG using ONLY the standard symbols used in Indian NCERT textbooks. Any student must instantly recognize the components. You are STRICTLY FORBIDDEN from using generic/international rectangular boxes to represent components like resistors, inductors, capacitors, or general impedances/branches. They must always use their actual physical NCERT schematic drawing:
-    1. DC Cell/Battery: Represented as thin long vertical line for the positive terminal (+) and a shorter, thicker vertical line for the negative terminal (-). For a battery, draw multiple cells connected in series: e.g., thin-long, thick-short, thin-long, thick-short.
-    2. AC Source: A circle with a smooth horizontal sine wave inside (~). Do NOT use any other symbol for AC source.
-    3. Resistor (R): A standard sharp zig-zag line (having 3 to 4 peaks/troughs). You are STRICTLY FORBIDDEN from drawing resistors as rectangular/box shapes.
-    4. Rheostat / Variable Resistor: A zig-zag line with a diagonal arrow pointing across/through it, or an arrow pointing down onto the top of the zig-zag.
-    5. Switch / Key (K): Represented as '( )' for open key and '(*)' (with a small centered solid dot) for closed key, or two straight wire lines with one angled upward for an open switch.
-    6. Capacitor (C): Two perfectly parallel, identical straight lines of equal length and thickness. Do NOT use rectangular boxes for capacitors.
-    7. Inductor (L): A continuous spiral coil or solenoid winding (drawn using a series of curved/looped paths or arc segments). Do NOT use rectangular boxes for inductors.
-    8. Combinations / AC Bridges / Impedances (CRITICAL): If a branch or impedance arm has multiple components (e.g. R + L, R || C), you MUST draw them with their actual NCERT symbols (e.g., a zig-zag resistor connected in series/parallel with a spiral coil or parallel capacitor lines). Under no circumstance should an impedance branch be represented as a generic rectangle/box labeled with the components (e.g. no boxes labeled "R1", "R+L", "Z", etc.).
-    9. Ammeter (A), Voltmeter (V), Galvanometer (G): A circle containing the bold letter 'A', 'V', or 'G' respectively, with explicit positive (+) and negative (-) terminals clearly labeled.
-    10. Crossing Wires: A bridge (semicircular loop) over a straight line when there is no electrical connection. For connected junctions, draw a solid heavy black dot at the intersection.
-  - STRICT SI UNIT LABELLING RULES:
-    Every electrical component and value inside the diagram MUST be properly labeled with standard NCERT/SI units:
-    1. Resistance: \Omega or k\Omega (e.g., "5 \Omega", "2.2 k\Omega")
-    2. Voltage / Potential Difference: V or mV (e.g., "12 V", "230 V")
-    3. Current: A, mA, or \mu A (e.g., "2 A", "500 mA")
-    4. Capacitance: \mu F, nF, or pF (e.g., "10 \mu F", "100 pF")
-    5. Inductance: H, mH, or \mu H (e.g., "2 H", "10 mH")
-    All numbers and labels must be written in a highly legible sans-serif font (such as font-family="Arial, Helvetica, sans-serif") with appropriate font-size (e.g., 12px or 14px) and high contrast against the background. Never overlap text with wires or component symbols.
-  - STRICT NCERT TEXTBOOK COMPATIBILITY FOR ALL GENERATED PHYSICS & CHEMISTRY DIAGRAMS (CRITICAL):
-    1. Standard NCERT Formats: Any generated diagram for a Physics or Chemistry question (e.g., ray diagrams, thermodynamics cycles, mechanics pulleys, chemical reaction/experimental setups, organic structures, electrochemical cells) MUST strictly match the visual style, component drawings, and notations used in Indian NCERT textbooks.
-    2. Completely Formatted & Finished: Do NOT generate incomplete, placeholder, or draft-like drawings. Diagrams must have clean bounding spaces, clear alignments, high contrast lines, and professional SVG layout.
-    3. Proper Conventional Labeling: Use standard and conventional NCERT notations, symbols, and terminology only (e.g., use standard letters, Greek alphabets, SI units, and chemical symbols precisely where expected). No modern or foreign notations that would confuse Indian students.
-    4. Dedicated Labelling / Identification Questions: If the question itself asks the student to label, identify, or match parts of a diagram (e.g., "Identify parts A, B, C, D in the given setup"), the SVG MUST:
-       a) Include clear label letters (like A, B, C, D) positioned directly adjacent to the parts.
-       b) Draw explicit, precise indicator arrows or leader lines (using thin clean lines and '<marker>' arrowheads) pointing exactly from the label letters to the specific boundaries, junctions, compartments, or regions being asked about.
-       c) Never leave the target area ambiguous or un-pointed. Any student must be able to recognize exactly which boundary/part is designated by each letter.
-
-* NO DIAGRAM FALLBACK: For any question where the corresponding REFERENCE PYQ does NOT contain an image/diagram, keep it entirely text-based by default.
-  - STRICT RULE FOR MATHEMATICS AND BIOLOGY: For all Mathematics and Biology questions, you are STRICTLY FORBIDDEN from generating any custom/autonomous SVG diagrams, graphs, coordinates, geometric plots, or visual illustrations under any circumstances. If the corresponding REFERENCE PYQ does NOT contain an image or diagram, the generated question must be 100% text and formulas only.
-  - OPTION A ONLY FOR BIOLOGY WITH IMAGES: If a Biology question's REFERENCE PYQ contains an image/diagram (as a URL or base64 string), you MUST copy and include that EXACT original image/diagram tag using Option A. You are STRICTLY FORBIDDEN from creating/writing any custom SVG code (Option B) for Biology.
-  - EXCEPTION (AUTONOMOUS SVG GENERATION FOR OTHER SUBJECTS - REQUIRED FOR ORGANIC CHEMISTRY): For non-Math and non-Biology topics (e.g., Physics, Chemistry), if the topic is inherently visual and a diagram would significantly improve educational clarity (e.g., Physics electric circuits, mechanics force/mass setups, ray optics), you are ENCOURAGED to generate a custom-built, highly polished inline SVG diagram (using Option B) representing that system.
-    
-    * MANDATORY CHEMICAL STRUCTURE DRAWINGS FOR ORGANIC CHEMISTRY (CRITICAL):
-      For ANY Chemistry question in Organic Chemistry (e.g., Isomerism, Hydrocarbons, Alkenes, Alkanes, Alkynes, IUPAC Nomenclature, Conformations, Hyperconjugation stability, Acidic/Basic strength of organic molecules) where names of compounds are provided in the question stem or options, you MUST convert these IUPAC nomenclature names into actual structural drawings using "Option B: Dynamic AI-Generated Structured SVG Diagram".
-      - Visual Isomerism: Questions like "Which of the following compounds can exhibit geometrical isomerism?" MUST have options with both the IUPAC name AND the corresponding stereochemical spatial structure as an SVG diagram. The cis/trans or E/Z spatial arrangement must be visually clear (e.g., for cis, substituents are on the same side of the double bond; for trans, on opposite sides).
-      - Hyperconjugation & Stability: Questions like "Which of the following alkenes is most stable due to hyperconjugation?" MUST draw the corresponding chemical structures of the alkenes (such as 2,3-dimethylbut-2-ene, propene, etc.) as highly detailed SVG structures showing double bonds, methyl groups, and hydrogens clearly.
-      - Format of inline SVG within Options: Embed the complete, responsive SVG (wrapped inside '<svg ...>...</svg>') right next to or below the IUPAC name inside each option block (e.g. '(a) 2-Methylbut-2-ene <svg viewBox="0 0 150 100" width="100%" max-width="150" height="auto" class="mx-auto rounded bg-slate-50 border border-slate-100 p-1">...</svg>').
-      - Sizing of Option SVGs: Keep them compact and neat: use '<svg viewBox="0 0 150 100" width="100%" max-width="150" height="auto" class="mx-auto rounded bg-slate-50 border border-slate-100 p-1">'.
-      - Drawing Precision: Use clean lines and shapes. Draw double bonds as parallel double lines, single bonds as single lines. Clearly label atoms/groups (e.g., "CH3", "H", "Cl", "C") in a neat sans-serif font.
-    Do NOT use fake or external image URLs; only use self-contained inline SVG code.
+Do NOT include any figures, diagrams, graphs, or images in the generated questions. If a question from the source material relies heavily on an image to be solved or understood, SKIP that question entirely and generate a different one that is entirely text-based.
 
 15. IMAGE-TO-QUESTION MATCHING RULES:
 1. An image belongs to a question if ANY of these are true:
@@ -1026,63 +970,6 @@ ${mode === "SOURCE_BASED" ? `
 - **STRICTLY PROHIBITED (Zero Tolerance):** Do NOT output any first-person or second-person pronoun talk ("I", "we", "let's", "you"). Do NOT output any intermediate diagnostics, self-doubts, or conversational remarks (e.g. "Ah, I made a mistake...", "It seems there is a typo...", "checking options again...", "Wait, let's recheck...").
 - **Required Structure:** Start directly with the given variables or fundamental physics/math theory, show step-by-step mathematical derivation using clear formula blocks, substitute parameters neatly, and state the final answer. Act as a seasoned physical science textbook author. Keep it under 2-3 lines total.
 
-## 9. DIAGRAM GENERATION STRATEGIES FOR REFERENCE PYQS (CRITICAL)
-- If a REFERENCE PYQ contains a diagram (indicated by a markdown image tag like '![Diagram](url)' or an HTML image tag like '<img src="url"/>'), you MUST apply one of the following Diagram Generation Strategies to include a diagram in your newly generated question:
-
-  * Option A: Constant-Diagram Parameterized Variation: Copy and include the exact identical image tag (e.g. '![Diagram](url)') in your newly generated question without changing the URL. This will carry over the diagram into your variation question.
-
-  * Option B: Dynamic AI-Generated Structured SVG Diagram (HIGHLY RECOMMENDED & PREFERRED): Instead of the original image, generate a custom-built, highly polished vector-graphic inline SVG diagram representing your new parameterized system (e.g., chemical structures, molecular isomerism, reaction schemes, electrical circuits, pulleys, masses, optics, coordinate graphs, vectors, or chemistry setups)!
-    - Output the complete, standard XML code of the SVG (wrapped inside '<svg ...>...</svg>') inline within the question text or options.
-    - Use clean, well-formed SVG tags: '<rect>', '<circle>', '<line>', '<path>', '<text>', '<polygon>', '<g>'.
-    - Use '<marker>' tags for clean directional arrowheads on vector, current, or force paths.
-    - Ensure responsiveness and high fidelity: use '<svg viewBox="0 0 400 250" width="100%" max-width="400" height="auto" class="mx-auto rounded-lg bg-slate-50/50 p-2 border border-slate-100">'.
-    - Apply modern educational color palettes (e.g., '#3b82f6' for active nodes, '#e2e8f0' for clean background lines, '#ef4444' for force vectors, '#475569' for text).
-    - Ensure all text labels (e.g., "m1", "T", "θ = 30°", "V = 12V", "A", "B", etc.) use clear, legible font-family="sans-serif" with appropriate font-size.
-    - Do NOT use external stylesheet links. Make the SVG self-contained.
-    - IMPORTANT: Since you are outputting in LaTeX format, embed the raw '<svg ...>...</svg>' block directly inside the question text or options without wrapping it in LaTeX math blocks or LaTeX markup. It must be standard inline XML.
-    - STRICT PHYSICS CIRCUIT DIAGRAM RULES (NCERT TEXTBOOK COMPATIBLE SYMBOLS ONLY):
-      For any Physics question requiring a circuit diagram, you MUST generate a clean, legible inline SVG using ONLY the standard symbols used in Indian NCERT textbooks. Any student must instantly recognize the components. You are STRICTLY FORBIDDEN from using generic/international rectangular boxes to represent components like resistors, inductors, capacitors, or general impedances/branches. They must always use their actual physical NCERT schematic drawing:
-      1. DC Cell/Battery: Represented as thin long vertical line for the positive terminal (+) and a shorter, thicker vertical line for the negative terminal (-). For a battery, draw multiple cells connected in series: e.g., thin-long, thick-short, thin-long, thick-short.
-      2. AC Source: A circle with a smooth horizontal sine wave inside (~). Do NOT use any other symbol for AC source.
-      3. Resistor (R): A standard sharp zig-zag line (having 3 to 4 peaks/troughs). You are STRICTLY FORBIDDEN from drawing resistors as rectangular/box shapes.
-      4. Rheostat / Variable Resistor: A zig-zag line with a diagonal arrow pointing across/through it, or an arrow pointing down onto the top of the zig-zag.
-      5. Switch / Key (K): Represented as '( )' for open key and '(*)' (with a small centered solid dot) for closed key, or two straight wire lines with one angled upward for an open switch.
-      6. Capacitor (C): Two perfectly parallel, identical straight lines of equal length and thickness. Do NOT use rectangular boxes for capacitors.
-      7. Inductor (L): A continuous spiral coil or solenoid winding (drawn using a series of curved/looped paths or arc segments). Do NOT use rectangular boxes for inductors.
-      8. Combinations / AC Bridges / Impedances (CRITICAL): If a branch or impedance arm has multiple components (e.g. R + L, R || C), you MUST draw them with their actual NCERT symbols (e.g., a zig-zag resistor connected in series/parallel with a spiral coil or parallel capacitor lines). Under no circumstance should an impedance branch be represented as a generic rectangle/box labeled with the components (e.g. no boxes labeled "R1", "R+L", "Z", etc.).
-      9. Ammeter (A), Voltmeter (V), Galvanometer (G): A circle containing the bold letter 'A', 'V', or 'G' respectively, with explicit positive (+) and negative (-) terminals clearly labeled.
-      10. Crossing Wires: A bridge (semicircular loop) over a straight line when there is no electrical connection. For connected junctions, draw a solid heavy black dot at the intersection.
-    - STRICT SI UNIT LABELLING RULES:
-      Every electrical component and value inside the diagram MUST be properly labeled with standard NCERT/SI units:
-      1. Resistance: \Omega or k\Omega (e.g., "5 \Omega", "2.2 k\Omega")
-      2. Voltage / Potential Difference: V or mV (e.g., "12 V", "230 V")
-      3. Current: A, mA, or \mu A (e.g., "2 A", "500 mA")
-      4. Capacitance: \mu F, nF, or pF (e.g., "10 \mu F", "100 pF")
-      5. Inductance: H, mH, or \mu H (e.g., "2 H", "10 mH")
-      All numbers and labels must be written in a highly legible sans-serif font (such as font-family="Arial, Helvetica, sans-serif") with appropriate font-size (e.g., 12px or 14px) and high contrast against the background. Never overlap text with wires or component symbols.
-    - STRICT NCERT TEXTBOOK COMPATIBILITY FOR ALL GENERATED PHYSICS & CHEMISTRY DIAGRAMS (CRITICAL):
-      1. Standard NCERT Formats: Any generated diagram for a Physics or Chemistry question (e.g., ray diagrams, thermodynamics cycles, mechanics pulleys, chemical reaction/experimental setups, organic structures, electrochemical cells) MUST strictly match the visual style, component drawings, and notations used in Indian NCERT textbooks.
-      2. Completely Formatted & Finished: Do NOT generate incomplete, placeholder, or draft-like drawings. Diagrams must have clean bounding spaces, clear alignments, high contrast lines, and professional SVG layout.
-      3. Proper Conventional Labeling: Use standard and conventional NCERT notations, symbols, and terminology only (e.g., use standard letters, Greek alphabets, SI units, and chemical symbols precisely where expected). No modern or foreign notations that would confuse Indian students.
-      4. Dedicated Labelling / Identification Questions: If the question itself asks the student to label, identify, or match parts of a diagram (e.g., "Identify parts A, B, C, D in the given setup"), the SVG MUST:
-         a) Include clear label letters (like A, B, C, D) positioned directly adjacent to the parts.
-         b) Draw explicit, precise indicator arrows or leader lines (using thin clean lines and '<marker>' arrowheads) pointing exactly from the label letters to the specific boundaries, junctions, compartments, or regions being asked about.
-         c) Never leave the target area ambiguous or un-pointed. Any student must be able to recognize exactly which boundary/part is designated by each letter.
-
-  * NO DIAGRAM FALLBACK: For any question where the corresponding REFERENCE PYQ does NOT contain an image/diagram, keep it entirely text-based by default.
-    - STRICT RULE FOR MATHEMATICS AND BIOLOGY: For all Mathematics and Biology questions, you are STRICTLY FORBIDDEN from generating any custom/autonomous SVG diagrams, graphs, coordinates, geometric plots, or visual illustrations under any circumstances. If the corresponding REFERENCE PYQ does NOT contain an image or diagram, the generated question must be 100% text and formulas only.
-    - OPTION A ONLY FOR BIOLOGY WITH IMAGES: If a Biology question's REFERENCE PYQ contains an image/diagram (as a URL or base64 string), you MUST copy and include that EXACT original image/diagram tag using Option A. You are STRICTLY FORBIDDEN from creating/writing any custom SVG code (Option B) for Biology.
-    - EXCEPTION (AUTONOMOUS SVG GENERATION FOR OTHER SUBJECTS - REQUIRED FOR ORGANIC CHEMISTRY): For non-Math and non-Biology topics (e.g., Physics, Chemistry), if the topic is inherently visual and a diagram would significantly improve educational clarity (e.g., Physics electric circuits, mechanics force/mass setups, ray optics), you are ENCOURAGED to generate a custom-built, highly polished inline SVG diagram (using Option B) representing that system.
-    
-      * MANDATORY CHEMICAL STRUCTURE DRAWINGS FOR ORGANIC CHEMISTRY (CRITICAL):
-        For ANY Chemistry question in Organic Chemistry (e.g., Isomerism, Hydrocarbons, Alkenes, Alkanes, Alkynes, IUPAC Nomenclature, Conformations, Hyperconjugation stability, Acidic/Basic strength of organic molecules) where names of compounds are provided in the question stem or options, you MUST convert these IUPAC nomenclature names into actual structural drawings using "Option B: Dynamic AI-Generated Structured SVG Diagram".
-        - Visual Isomerism: Questions like "Which of the following compounds can exhibit geometrical isomerism?" MUST have options with both the IUPAC name AND the corresponding stereochemical spatial structure as an SVG diagram. The cis/trans or E/Z spatial arrangement must be visually clear (e.g., for cis, substituents are on the same side of the double bond; for trans, on opposite sides).
-        - Hyperconjugation & Stability: Questions like "Which of the following alkenes is most stable due to hyperconjugation?" MUST draw the corresponding chemical structures of the alkenes (such as 2,3-dimethylbut-2-ene, propene, etc.) as highly detailed SVG structures showing double bonds, methyl groups, and hydrogens clearly.
-        - Format of inline SVG within Options: Embed the complete, responsive SVG (wrapped inside '<svg ...>...</svg>') right next to or below the IUPAC name inside each option block (e.g. '(a) 2-Methylbut-2-ene <svg viewBox="0 0 150 100" width="100%" max-width="150" height="auto" class="mx-auto rounded bg-slate-50 border border-slate-100 p-1">...</svg>').
-        - Sizing of Option SVGs: Keep them compact and neat: use '<svg viewBox="0 0 150 100" width="100%" max-width="150" height="auto" class="mx-auto rounded bg-slate-50 border border-slate-100 p-1">'.
-        - Drawing Precision: Use clean lines and shapes. Draw double bonds as parallel double lines, single bonds as single lines. Clearly label atoms/groups (e.g., "CH3", "H", "Cl", "C") in a neat sans-serif font.
-      Do NOT use fake or external image URLs; only use self-contained inline SVG code.
-
 ---
 
 # STANDARDIZED TEMPLATES
@@ -1161,7 +1048,6 @@ You must divide the layout into two sections inside the \\begin{multicols}{2} wr
 
       // Calculate and append RAG section (always active on the backend by default)
       let ragSection = "";
-      let uniquePyqs: any[] = [];
       if (req.body.enableRag !== false) {
         try {
           const { retrievePastQuestions } = await import("./src/data/pastPapers");
@@ -1227,7 +1113,7 @@ You must divide the layout into two sections inside the \\begin{multicols}{2} wr
           
           // Deduplicate
           const seen = new Set();
-          uniquePyqs = pyqs.filter(q => {
+          const uniquePyqs = pyqs.filter(q => {
             if (seen.has(q.id)) return false;
             seen.add(q.id);
             return true;
@@ -1255,46 +1141,6 @@ You MUST analyze these reference questions for:
 1. True Difficulty & Style: Ignore the database tag, determine the actual difficulty yourself, and calibrate the new questions of corresponding LOD to match this self-evaluated depth.
 2. Latex Formatting: Note the use of $...$ for inline equations and $$...$$ for block equations.
 3. Concise Solutions: Note how direct, non-conversational, and brief the solutions are.
-4. Diagram Presence and Strategies: Analyze if any REFERENCE PYQ contains a diagram (indicated by a markdown image tag like '![Diagram](url)' or an HTML image tag like '<img src="url"/>'). If it does, you MUST apply one of the following Diagram Generation Strategies to include a diagram in your newly generated question:
-   - Option A: Constant-Diagram Parameterized Variation: Copy and include the exact identical image tag (e.g. '![Diagram](url)') in your newly generated question without changing the URL. This will carry over the diagram into your variation question.
-   - Option B: Dynamic AI-Generated Structured SVG Diagram (HIGHLY RECOMMENDED & PREFERRED): Instead of the original image, generate a custom-built, highly polished vector-graphic inline SVG diagram representing your new parameterized system (e.g., electrical circuits, pulleys, masses, optics, coordinate graphs, vectors, or chemistry setups)!
-     * Output the complete, standard XML code of the SVG (wrapped inside '<svg ...>...</svg>') inline within the question text or options.
-     * Use clean, well-formed SVG tags: '<rect>', '<circle>', '<line>', '<path>', '<text>', '<polygon>', '<g>'.
-     * Use '<marker>' tags for clean directional arrowheads on vector, current, or force paths.
-     * Ensure responsiveness and high fidelity: use '<svg viewBox="0 0 400 250" width="100%" max-width="400" height="auto" class="mx-auto rounded-lg bg-slate-50/50 p-2 border border-slate-100">'.
-     * Apply modern educational color palettes (e.g., '#3b82f6' for active nodes, '#e2e8f0' for clean background lines, '#ef4444' for force vectors, '#475569' for text).
-     * Ensure all text labels (e.g., "m1", "T", "θ = 30°", "V = 12V", "A", "B", etc.) use clear, legible font-family="sans-serif" with appropriate font-size.
-     * Do NOT use external stylesheet links. Make the SVG self-contained.
-     * IMPORTANT: Since you are outputting in LaTeX format, embed the raw '<svg ...>...</svg>' block directly inside the question text or options without wrapping it in LaTeX math blocks or LaTeX markup. It must be standard inline XML.
-     * STRICT PHYSICS CIRCUIT DIAGRAM RULES (NCERT TEXTBOOK COMPATIBLE SYMBOLS ONLY):
-       For any Physics question requiring a circuit diagram, you MUST generate a clean, legible inline SVG using ONLY the standard symbols used in Indian NCERT textbooks. Any student must instantly recognize the components. You are STRICTLY FORBIDDEN from using generic/international rectangular boxes to represent components like resistors, inductors, capacitors, or general impedances/branches. They must always use their actual physical NCERT schematic drawing:
-       1. DC Cell/Battery: Represented as thin long vertical line for the positive terminal (+) and a shorter, thicker vertical line for the negative terminal (-). For a battery, draw multiple cells connected in series: e.g., thin-long, thick-short, thin-long, thick-short.
-       2. AC Source: A circle with a smooth horizontal sine wave inside (~). Do NOT use any other symbol for AC source.
-       3. Resistor (R): A standard sharp zig-zag line (having 3 to 4 peaks/troughs). You are STRICTLY FORBIDDEN from drawing resistors as rectangular/box shapes.
-       4. Rheostat / Variable Resistor: A zig-zag line with a diagonal arrow pointing across/through it, or an arrow pointing down onto the top of the zig-zag.
-       5. Switch / Key (K): Represented as '( )' for open key and '(*)' (with a small centered solid dot) for closed key, or two straight wire lines with one angled upward for an open switch.
-       6. Capacitor (C): Two perfectly parallel, identical straight lines of equal length and thickness. Do NOT use rectangular boxes for capacitors.
-       7. Inductor (L): A continuous spiral coil or solenoid winding (drawn using a series of curved/looped paths or arc segments). Do NOT use rectangular boxes for inductors.
-       8. Combinations / AC Bridges / Impedances (CRITICAL): If a branch or impedance arm has multiple components (e.g. R + L, R || C), you MUST draw them with their actual NCERT symbols (e.g., a zig-zag resistor connected in series/parallel with a spiral coil or parallel capacitor lines). Under no circumstance should an impedance branch be represented as a generic rectangle/box labeled with the components (e.g. no boxes labeled "R1", "R+L", "Z", etc.).
-       9. Ammeter (A), Voltmeter (V), Galvanometer (G): A circle containing the bold letter 'A', 'V', or 'G' respectively, with explicit positive (+) and negative (-) terminals clearly labeled.
-       10. Crossing Wires: A bridge (semicircular loop) over a straight line when there is no electrical connection. For connected junctions, draw a solid heavy black dot at the intersection.
-     * STRICT SI UNIT LABELLING RULES:
-       Every electrical component and value inside the diagram MUST be properly labeled with standard NCERT/SI units:
-       1. Resistance: \Omega or k\Omega (e.g., "5 \Omega", "2.2 k\Omega")
-       2. Voltage / Potential Difference: V or mV (e.g., "12 V", "230 V")
-       3. Current: A, mA, or \mu A (e.g., "2 A", "500 mA")
-       4. Capacitance: \mu F, nF, or pF (e.g., "10 \mu F", "100 pF")
-       5. Inductance: H, mH, or \mu H (e.g., "2 H", "10 mH")
-       All numbers and labels must be written in a highly legible sans-serif font (such as font-family="Arial, Helvetica, sans-serif") with appropriate font-size (e.g., 12px or 14px) and high contrast against the background. Never overlap text with wires or component symbols.
-        * STRICT NCERT TEXTBOOK COMPATIBILITY FOR ALL GENERATED PHYSICS & CHEMISTRY DIAGRAMS (CRITICAL):
-       1. Standard NCERT Formats: Any generated diagram for a Physics or Chemistry question (e.g., ray diagrams, thermodynamics cycles, mechanics pulleys, chemical reaction/experimental setups, organic structures, electrochemical cells) MUST strictly match the visual style, component drawings, and notations used in Indian NCERT textbooks.
-       2. Completely Formatted & Finished: Do NOT generate incomplete, placeholder, or draft-like drawings. Diagrams must have clean bounding spaces, clear alignments, high contrast lines, and professional SVG layout.
-       3. Proper Conventional Labeling: Use standard and conventional NCERT notations, symbols, and terminology only (e.g., use standard letters, Greek alphabets, SI units, and chemical symbols precisely where expected). No modern or foreign notations that would confuse Indian students.
-       4. Dedicated Labelling / Identification Questions: If the question itself asks the student to label, identify, or match parts of a diagram (e.g., "Identify parts A, B, C, D in the given setup"), the SVG MUST:
-          a) Include clear label letters (like A, B, C, D) positioned directly adjacent to the parts.
-          b) Draw explicit, precise indicator arrows or leader lines (using thin clean lines and '<marker>' arrowheads) pointing exactly from the label letters to the specific boundaries, junctions, compartments, or regions being asked about.
-          c) Never leave the target area ambiguous or un-pointed. Any student must be able to recognize exactly which boundary/part is designated by each letter.
-   - NO DIAGRAM FALLBACK (STRICTLY ENFORCED FOR MATHEMATICS AND BIOLOGY): For any question where the corresponding REFERENCE PYQ does NOT contain an image/diagram, you MUST NOT include or generate any image, figure, diagram, or image tag. For Mathematics and Biology questions, autonomous/custom diagram generation (Option B) is strictly forbidden under all circumstances. For Biology, you must only use Option A (copying the exact image tag/URL/base64 from the REFERENCE PYQ) if a reference diagram exists; otherwise, keep it 100% text and formulas only.
 
 YOUR DIRECTIVE: Generate completely new, original questions of the SAME cognitive depth, format, and complexity as these examples. Do NOT copy these questions, but use them as a direct blueprint/style-guide to achieve 100% exam-level accuracy.
 
@@ -1316,78 +1162,6 @@ Solution: ${q.solution}
       }
 
       systemInstruction += ragSection;
-
-      // Pre-assign diagram questions for Biology to ensure 100% uniqueness and zero duplicate/repetitive diagrams.
-      const assignedDiagramsByGlobalNum = new Map<number, string>();
-      if (req.body.enableRag !== false && uniquePyqs && uniquePyqs.length > 0) {
-        const usedDiagrams = new Set<string>();
-        
-        const hasDiagram = (q: any) => {
-          const text = `${q.questionText || ""} ${q.solution || ""} ${(q.options || []).join(" ")}`;
-          return /<img\s+/i.test(text) || /!\[[^\]]*\]\(/i.test(text);
-        };
-        
-        const extractImageTag = (q: any) => {
-          const text = `${q.questionText || ""} ${q.solution || ""} ${(q.options || []).join(" ")}`;
-          const imgRegex = /<img\s+[^>]*src=["']([^"']+)["'][^>]*\/?>/i;
-          let match = text.match(imgRegex);
-          if (match) return match[0];
-          const mdImgRegex = /!\[([^\]]*)\]\(([^)]+)\)/i;
-          match = text.match(mdImgRegex);
-          if (match) return match[0];
-          return "";
-        };
-
-        const extractSrcUrl = (imgTag: string) => {
-          const match = imgTag.match(/src=["']([^"']+)["']/i) || imgTag.match(/\(([^)]+)\)/);
-          return match ? match[1].trim() : imgTag;
-        };
-
-        let tempGlobalCounter = 1;
-        for (const slot of questionMatrix) {
-          const globalNum = tempGlobalCounter++;
-          const subject = slot.node?.subject || "";
-          const isBio = cleanPattern === "NEET" || cleanPattern === "CBSE" || subject.toLowerCase().includes("biol") || subject.toLowerCase().includes("bot") || subject.toLowerCase().includes("zoo");
-          
-          if (isBio) {
-            const topicLower = (slot.node?.topicName || "").trim().toLowerCase();
-            
-            // Tier 1: Try exact topic match first
-            let chosenPyq = uniquePyqs.find(q => {
-              const qTopic = (q.topicName || "").trim().toLowerCase();
-              if (qTopic !== topicLower) return false;
-              if (!hasDiagram(q)) return false;
-              
-              const imgTag = extractImageTag(q);
-              const srcUrl = extractSrcUrl(imgTag);
-              return !usedDiagrams.has(srcUrl);
-            });
-
-            // Tier 2: Try fuzzy/inclusion match if Tier 1 not found
-            if (!chosenPyq) {
-              chosenPyq = uniquePyqs.find(q => {
-                const qTopic = (q.topicName || "").trim().toLowerCase();
-                const isFuzzyMatch = qTopic.includes(topicLower) || topicLower.includes(qTopic);
-                if (!isFuzzyMatch) return false;
-                if (!hasDiagram(q)) return false;
-                
-                const imgTag = extractImageTag(q);
-                const srcUrl = extractSrcUrl(imgTag);
-                return !usedDiagrams.has(srcUrl);
-              });
-            }
-
-            if (chosenPyq) {
-              const imgTag = extractImageTag(chosenPyq);
-              if (imgTag) {
-                const srcUrl = extractSrcUrl(imgTag);
-                usedDiagrams.add(srcUrl);
-                assignedDiagramsByGlobalNum.set(globalNum, imgTag);
-              }
-            }
-          }
-        }
-      }
 
       // 2. Extract uploaded sources for multimodal inlineData parts once if SOURCE_BASED
       const baseSourceParts: any[] = [];
@@ -1447,71 +1221,6 @@ Solution: ${q.solution}
         }
       });
 
-      // 3. Stage 1 Pre-Context Analysis (Two-stage RAG architecture)
-      let analysisText = "";
-      if (req.body.enableRag !== false && uniquePyqs && uniquePyqs.length > 0) {
-        try {
-          console.log(`Backend API: Initiating Stage 1 Pre-Context Analysis for ${uniquePyqs.length} reference questions...`);
-          
-          // Send a friendly, styled header for the RAG Analysis
-          res.write(`data: ${JSON.stringify({ text: "### RAG PRE-CONTEXT: ANALYSIS OF PAST-YEAR EXAM PATTERNS & FORMATS\n\n" })}\n\n`);
-
-          const analyzerPrompt = `
-You are an elite academic curriculum designer and expert examiner for Indian JEE (Advanced) and NEET.
-You are given the following actual historical past year exam questions (PYQs) matching the selected syllabus.
-
-REFERENCE PAST-YEAR QUESTIONS:
-${uniquePyqs.map((q, idx) => `
-REFERENCE PYQ #${idx + 1}
-Topic: ${q.topicName} | Subtopic: ${q.subTopic || "None"}
-Question: ${q.questionText}
-Answer: ${q.correctAnswer}
-Solution: ${q.solution}
-`).join('\n\n')}
-
-YOUR TASK:
-Perform a deep analysis of these exam pattern structures to calibrate our Stage 2 Question Generation. Write a comprehensive, professionally styled reference guide.
-You MUST provide your analysis strictly under these three exact headings:
-1. **Mathematical Complexity & Rigor**: Synthesize the mathematical depth, concept linkages, logical multi-step requirements, and expected level of difficulty.
-2. **LaTeX Alignment & Symmetry Guidelines**: Document exact notation systems, formatting symmetry, mathematical alignments, and bracket/delimiter standards seen in the reference questions.
-3. **Solution Brevity & Textbook Structuring**: Outline strict rules for keeping solutions extremely concise, formula-first, step-by-step, with zero conversational AI commentary, matching standard printed reference manuals.
-
-Keep your tone authoritative, scholarly, and completely professional. Do NOT include any introductory or concluding meta-chatter, polite remarks, or conversational lines. Start your output directly with the first heading.
-`;
-
-          const analysisStream = await ai.models.generateContentStream({
-            model: "gemini-3.5-flash",
-            contents: analyzerPrompt,
-            config: {
-              temperature: 0.15,
-            }
-          });
-
-          for await (const chunk of analysisStream) {
-            if (chunk.text) {
-              analysisText += chunk.text;
-              res.write(`data: ${JSON.stringify({ text: chunk.text })}\n\n`);
-            }
-          }
-
-          // Inject the Stage delimiter block
-          res.write(`data: ${JSON.stringify({ text: "\n\n---\n\n" })}\n\n`);
-          console.log("Backend API: Successfully streamed Stage 1 Pre-Context Analysis.");
-        } catch (err) {
-          console.error("Error during Stage 1 Analysis generation:", err);
-          res.write(`data: ${JSON.stringify({ text: "\n\n*(Pre-Context Analysis failed, proceeding directly to question generation)*\n\n---\n\n" })}\n\n`);
-        }
-      }
-
-      if (analysisText) {
-        systemInstruction += `
-
-# ESTABLISHED STAGE 1 PRE-CONTEXT ANALYSIS (MUST CONFORM TO):
-You MUST strictly follow and conform to the established analysis of exam patterns, mathematical complexity, LaTeX formatting, and solution structure compiled in Stage 1 below:
-${analysisText}
-`;
-      }
-
       // Utility delay helper for API cooldown pacing
       const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
 
@@ -1542,27 +1251,11 @@ ${analysisText}
             const batchNumericals = batch.slots.filter(item => item.slot.section === "SECTION_B_NUMERICAL");
 
             const scqInstructions = batchScqs
-              .map(item => {
-                let instruction = `  - Question ${item.globalNum}: Topic: ${item.slot.node.topicName} | Sub-topic: ${item.slot.node.subTopic01 || "None"} | Difficulty: [${item.slot.lod}]`;
-                
-                const assignedImgTag = assignedDiagramsByGlobalNum.get(item.globalNum);
-                if (assignedImgTag) {
-                  instruction += `\n    CRITICAL BIOLOGY DIAGRAM REQUIREMENT: You MUST generate a DIAGRAM-BASED question for Question ${item.globalNum}! The reference past-year question on this topic contains a diagram. You are REQUIRED to copy and include this EXACT image tag in the Question text: ${assignedImgTag}. Structure your new question around identifying, analyzing, or interpreting this exact diagram. Do NOT use statement-comparison or Match the Columns format for this question; instead, use direct identification or conceptual analysis of the diagram.`;
-                }
-                return instruction;
-              })
+              .map(item => `  - Question ${item.globalNum}: Topic: ${item.slot.node.topicName} | Sub-topic: ${item.slot.node.subTopic01 || "None"} | Difficulty: [${item.slot.lod}]`)
               .join('\n');
 
             const numericalInstructions = batchNumericals
-              .map(item => {
-                let instruction = `  - Question ${item.globalNum}: Topic: ${item.slot.node.topicName} | Sub-topic: ${item.slot.node.subTopic01 || "None"} | Difficulty: [${item.slot.lod}]`;
-                
-                const assignedImgTag = assignedDiagramsByGlobalNum.get(item.globalNum);
-                if (assignedImgTag) {
-                  instruction += `\n    CRITICAL BIOLOGY DIAGRAM REQUIREMENT: You MUST generate a DIAGRAM-BASED question for Question ${item.globalNum}! The reference past-year question on this topic contains a diagram. You are REQUIRED to copy and include this EXACT image tag in the Question text: ${assignedImgTag}. Structure your new question around identifying, analyzing, or interpreting this exact diagram.`;
-                }
-                return instruction;
-              })
+              .map(item => `  - Question ${item.globalNum}: Topic: ${item.slot.node.topicName} | Sub-topic: ${item.slot.node.subTopic01 || "None"} | Difficulty: [${item.slot.lod}]`)
               .join('\n');
 
             const directivePrompt = `

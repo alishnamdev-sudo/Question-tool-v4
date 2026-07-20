@@ -16,10 +16,6 @@ export function cleanLaTeXToHumanMarkdown(text: string | undefined): string {
   if (!text) return "";
 
   let normalized = text;
-  // Normalize \svg and \endsvg tags to standard <svg> and </svg> tags
-  normalized = normalized.replace(/\\svg\b([^\n>]*)/gi, (match, attrs) => `<svg ${attrs.trim()}>`);
-  normalized = normalized.replace(/\\endsvg\b/gi, `</svg>`);
-
   // 1. Convert standard LaTeX display and inline math delimiters to standard $$...$$ and $...$
   normalized = normalized.replace(/\\\[([\s\S]*?)\\\]/g, (_, math) => `$$${math.trim()}$$`);
   normalized = normalized.replace(/\\\(([\s\S]*?)\\\)/g, (_, math) => `$${math.trim()}$`);
@@ -238,8 +234,6 @@ export function parseQuestions(text: string, maxCount?: number): QuestionItem[] 
     // Ignore blocks that are purely document preamble, multicols wrappers, page boundaries, or section headers
     if (trimmedBlock.includes("\\documentclass") || 
         trimmedBlock.includes("\\begin{document}") || 
-        trimmedBlock.includes("RAG PRE-CONTEXT") || 
-        trimmedBlock.includes("### RAG PRE-CONTEXT") || 
         (trimmedBlock.includes("\\begin{multicols}") && !numMatch && !trimmedBlock.includes("Answer:")) || 
         (trimmedBlock.includes("\\section*") && !numMatch && !trimmedBlock.includes("Answer:")) ||
         (trimmedBlock.includes("\\columnbreak") && !numMatch && !trimmedBlock.includes("Answer:")) ||
@@ -591,20 +585,9 @@ export function formatQuestionsAsText(questions: QuestionItem[]): string {
 export function convertMarkdownToHtmlForPrinting(text: string | undefined): string {
   if (!text) return "";
 
-  // Normalize \svg and \endsvg tags to standard <svg> and </svg> tags
-  let normalizedText = text.replace(/\\svg\b([^\n>]*)/gi, (match, attrs) => `<svg ${attrs.trim()}>`);
-  normalizedText = normalizedText.replace(/\\endsvg\b/gi, `</svg>`);
-
-  // 1a. Extract and protect any inline/block SVG segments
-  const svgBlocks: string[] = [];
-  let placeholderText = normalizedText.replace(/<svg[\s\S]*?<\/svg>/gi, (match) => {
-    svgBlocks.push(match);
-    return `___SVG_BLOCK_PLACEHOLDER_${svgBlocks.length - 1}___`;
-  });
-
-  // 1b. Extract and protect any KaTeX block or inline math segments
+  // 1. Extract and protect any KaTeX block or inline math segments
   const mathBlocks: string[] = [];
-  placeholderText = placeholderText.replace(/(\$\$[\s\S]*?\$\$|\$[\s\S]*?\$)/g, (match) => {
+  const placeholderText = text.replace(/(\$\$[\s\S]*?\$\$|\$[\s\S]*?\$)/g, (match) => {
     mathBlocks.push(match);
     return `___MATH_BLOCK_PLACEHOLDER_${mathBlocks.length - 1}___`;
   });
@@ -660,13 +643,8 @@ export function convertMarkdownToHtmlForPrinting(text: string | undefined): stri
   cleaned = lines.join("\n");
 
   // 3. Restore preserved pure math Blocks
-  let restored = cleaned.replace(/___MATH_BLOCK_PLACEHOLDER_(\d+)___/g, (match, index) => {
+  const restored = cleaned.replace(/___MATH_BLOCK_PLACEHOLDER_(\d+)___/g, (match, index) => {
     return mathBlocks[parseInt(index, 10)];
-  });
-
-  // 4. Restore preserved SVG Blocks
-  restored = restored.replace(/___SVG_BLOCK_PLACEHOLDER_(\d+)___/g, (match, index) => {
-    return svgBlocks[parseInt(index, 10)];
   });
 
   return restored.trim();
